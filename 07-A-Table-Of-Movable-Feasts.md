@@ -1,22 +1,7 @@
-A TABLE OF THE MOVABLE FEASTS 
+# A Table of the Movable Feasts
 
-
-Easter 
-Day 
-
-
-Ascension 
-Day 
-
-
-Whitsun- 
-day 
-
-
-Corpus 
-Christi 
-
-
-Sundays 
-after 
-Trinity 
+- Easter Day  
+- Ascension Day  
+- Whitsunday  
+- Corpus Christi  
+- Sundays after Trinity
