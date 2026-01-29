@@ -1,4 +1,4 @@
-GENERAL INFORMATION 
+# GENERAL INFORMATION 
 
 The Liberal Catholic Church exists to forward the work of her Master Christ in the world, and to feed His flock. It draws the central inspiration of its work from an intense faith in the Living Christ, believing that the vitality of a Church gains in proportion as its members cease to think only of a Christ who lived two thousand years ago, and strive rather to serve as a vehicle for the Eternal Christ, who ever lives as a mighty spiritual Presence in the world, guiding and sustaining His people. “Lo, I am with you alway, even unto the consummation of the age.” “Before Abraham was, I am.”
 
