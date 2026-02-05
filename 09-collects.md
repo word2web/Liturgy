@@ -840,4 +840,106 @@ AMEN, amen, I say unto you: He that believeth on Me hath everlasting life. I am 
 At the chief celebration of the Holy Eucharist the Blessed Sacrament is carried round the Church in procession in the monstrance during the singing of the Adeste Fideles. If this hymn be not long enough, it should be supplemented by some other Eucharistic hymn. At the evening service there should be Solemn Benediction and procession of the Sacred Host.
 The same Collect, Epistle and Gospel shall serve for the following Sunday and until the Second Sunday after Trinity.
 
+Here's the cleaned and properly formatted liturgical text in markdown, with OCR errors corrected, structure standardized, and extraneous characters/page numbers removed:
 
+## Second Sunday after Trinity
+
+**Intent:** GOD as Light
+
+### The Collect
+
+O Father of Light, in Whom is no darkness at all; may our hearts be so irradiated by the glory of Thy divine Love that we may ever shine as beacons amid the stormy sea of life; that through us weary and tempest-driven souls may be guided to the haven where they would be, and may rest in the eternal sunlight of Thy holy Presence, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the first chapter of the First Epistle General of St. John, beginning at the third verse.
+
+> That which we have seen and heard declare we unto you, that ye also may have fellowship with us; and truly our fellowship is with the Father and with His Son Jesus Christ. These things write we unto you that your joy may be full. This then is the message which we have heard of Him and declare unto you, that God is Light, and in Him is no darkness at all. If we say that we have fellowship with Him and walk in darkness we lie, and do not the truth. But if we walk in the light, as He is in the light, we have fellowship one with another. He that saith he is in the light and hateth his brother is in darkness even until now. He that loveth his brother abideth in the light and there is none occasion of stumbling in him.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the thirty-second verse.
+
+> I, if I be lifted up from the earth, will draw all men unto Me. Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you; for he that walketh in darkness knoweth not whither he goeth. While ye have light, believe in the light, that ye may be the children of light. He that believeth on Me, believeth not on Me only, but on Him that sent Me; and he that seeth Me, seeth Him that sent Me. I am come a light into the world, that whosoever believeth on Me should not abide in darkness.
+
+---
+
+## Third Sunday after Trinity
+
+**Intent:** GOD as the Ruler of Angels
+
+### The Collect
+
+O God the King of Angels, Ruler of all the Hosts of heaven, we praise and thank Thee for the help which these Thy radiant servants so joyously do render unto us, and pray that we may pattern after them in purity and zeal, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The portion of Scripture appointed for the Epistle is taken from the twelfth chapter of the Book of Tobit, beginning at the sixth verse.
+
+> And the Angel said unto them: Bless God, praise Him and magnify Him, and praise Him for the things which He hath done unto you in the sight of all that live. It is good to praise God and exalt His Name, and honourably to show forth the works of God; therefore be not slack to praise Him. Do that which is good, and no evil shall touch you. A little with righteousness is better than much with unrighteousness. It is better to give alms than to lay up gold; for those that exercise alms and righteousness shall be filled with life, but they that sin are enemies to their own life. God hath sent me to heal thee and thy daughter, for I am Raphael, one of the seven holy Angels which present the prayers of the saints, and go in and out before the glory of the Holy One.
+>
+> Then they were troubled and fell upon their faces; for they feared. But the Angel said unto them: Fear not; it shall go well with you. Not of any favour of mine, but of the will of our God I came; therefore praise Him for ever and give Him thanks, for I go up to Him that sent me.
+>
+> Then they confessed the great and wonderful works of God, and how the Angel of the Lord had appeared unto them; and they said: Blessed art Thou, O God, and blessed is Thy name for ever; and blessed are all Thy holy Angels.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the eighth verse.
+
+> While Zacharias executed the priest's office before God in the order of his course, according to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord. And the whole multitude of the people were praying without at the time of incense. And there appeared unto him an Angel of the Lord, standing on the right side of the altar of incense. And when Zacharias saw him, he was troubled, and fear fell upon him; but the Angel said unto him: Fear not, Zacharias; thy prayer is heard, and thou shalt have joy and gladness. I am Gabriel, that stand in the Presence of God; and I am sent to speak unto thee, and to show thee these glad tidings.
+
+---
+
+## Fourth Sunday after Trinity
+
+**Intent:** GOD as Love
+
+### The Collect
+
+O Christ, the Lord of Love, we lay our hearts upon Thy shrine, praying that Thou wilt accept, purify and enkindle them, so that they may forever glow with the undying fire of Thine infinite compassion, Who livest and reignest with the Father and the Holy Spirit, one God throughout all ages of ages.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fourth chapter of the First Epistle General of St. John, beginning at the seventh verse.
+
+> Beloved, let us love one another; for love is of God, and everyone that loveth is born of God, and knoweth God. He that loveth not knoweth not God; for God is Love. Beloved, if God so loved us, we ought also to love one another. No man hath seen God at any time. If we love one another, God dwelleth in us, and His love is perfected in us. Hereby know we that we dwell in Him, and He in us, because He hath given us His Spirit. God is Love; and he that dwelleth in love dwelleth in God, and God in him. There is no fear in love; but perfect love casteth out fear; because fear hath torment. He that feareth is not made perfect in love. We love Him, because He first loved us. If a man say: I love God, and hateth his brother, he is a liar; for he that loveth not his brother whom he hath seen, how can he love God, Whom he hath not seen? And this commandment have we from Him, that he who loveth God love his brother also.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fifteenth chapter of that according to St. John, beginning at the first verse.
+
+> I am the true vine, and My Father is the Husbandman. I am the Vine, ye are the branches. Abide in Me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in Me. He that abideth in Me, and I in him, the same bringeth forth much fruit; for without Me ye can do nothing. Herein is My Father glorified, that ye bear much fruit; so shall ye be My disciples. As the Father hath loved Me, so have I loved you; continue ye in My love. If ye keep My commandments, ye shall abide in My love; even as I have kept My Father's commandments, and abide in His love. These things have I spoken unto you, that My joy might remain in you, and that your joy might be full. These things I command you, that ye love one another.
+
+---
+
+## Fifth Sunday after Trinity
+
+**Intent:** GOD as Peace
+
+### The Collect
+
+Grant, O Lord, that the course of this world may soon be so peaceably ordered by Thy governance that Thy Church may joyfully serve Thee in all godly quietness, through Christ our Lord, Who liveth and reigneth with Thee and the Holy Ghost, ever One God throughout all ages of ages.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fifth chapter of that of St. Paul the Apostle to the Galatians, beginning at the thirteenth verse.
+
+> Brethren, ye have been called unto liberty; only, use not liberty for an occasion to the flesh, but by love serve one another. For all the law is fulfilled in one word, even in this: Thou shalt love thy neighbour as thyself. This I say then: Walk in the Spirit, and ye shall not fulfil the lust of the flesh. For the flesh lusteth against the Spirit, and the Spirit against the flesh; and these are contrary the one to the other, so that ye cannot do the things that ye would. The fruit of the Spirit is love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, temperance; against such there is no law. If we live in the Spirit, let us also walk in the Spirit.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the eighteenth verse.
+
+> Jesus said: I will not leave you comfortless; I will come to you. Because I live, ye shall live also. At that day ye shall know that I am in My Father, and ye in Me, and I in you. He that hath My commandments and keepeth them, he it is that loveth Me; and he that loveth Me shall be loved of My Father, and I will love him, and will manifest Myself to him. If a man love Me, he will keep My words; and My Father will love him, and We will come unto him, and make Our abode with him. He that keepeth not My sayings loveth Me not. Peace I leave with you, My peace I give unto you; not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
