@@ -943,3 +943,486 @@ The Epistle is taken from the fifth chapter of that of St. Paul the Apostle to t
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the eighteenth verse.
 
 > Jesus said: I will not leave you comfortless; I will come to you. Because I live, ye shall live also. At that day ye shall know that I am in My Father, and ye in Me, and I in you. He that hath My commandments and keepeth them, he it is that loveth Me; and he that loveth Me shall be loved of My Father, and I will love him, and will manifest Myself to him. If a man love Me, he will keep My words; and My Father will love him, and We will come unto him, and make Our abode with him. He that keepeth not My sayings loveth Me not. Peace I leave with you, My peace I give unto you; not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+Here is the cleaned and corrected liturgical text formatted in Markdown. I've fixed OCR errors (e.g., "Che" → "The", "Crinity" → "Trinity", stray punctuation/hyphens), removed page numbers and artifacts, restored proper line breaks, and preserved the original liturgical structure and wording:
+
+```markdown
+## The Sixth Sunday after Trinity  
+*Intent: Steadfast Service*
+
+### The Collect
+
+O GOD, Who hast prepared for Thy faithful servants such good things as pass man's understanding; may our hearts be so filled with love towards Thee, that we, loving Thee above all things, may show forth that love in continual service to our brethren, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the twelfth chapter of the Epistle of St. Paul the Apostle to the Romans, beginning at the first verse.
+
+I BESEECH you, therefore, brethren, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. Let love be without dissimulation. Abhor that which is evil; cleave to that which is good. Be kindly affectioned one to another in brotherly love, in honour preferring one another; not slothful in business; fervent in spirit, serving the Lord; rejoicing in hope, patient in tribulation; distributing to the necessity of saints, given to hospitality. Bless them which persecute you; bless, and curse not. Rejoice with them that do rejoice, and weep with them that weep. Be of the same mind one towards another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceit. Recompense to no man evil for evil. Provide things honest in the sight of all men. If it be possible, as much as lieth in you, live peaceably with all men. Owe no man anything, but to love one another, for he that loveth another hath fulfilled the law. Love worketh no ill to his neighbour; therefore love is the fulfilling of the law.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the twenty-fifth chapter of that according to St. Matthew, beginning at the thirty-first verse.
+
+When the Son of Man shall come in His glory, and all the holy Angels with Him, then shall He sit upon the throne of His glory. Before Him shall be gathered all nations, and He shall separate them one from another, as a shepherd divideth his sheep from the goats; and He shall set the sheep on His right hand, but the goats on the left. Then shall the King say unto them on His right hand: Come, ye blessed of My Father, inherit the kingdom prepared for you from the foundation of the world: For I was an hungred and ye gave Me meat; I was thirsty and ye gave Me drink; I was a stranger, and ye took Me in; naked, and ye clothed Me; I was sick, and ye visited Me; I was in prison, and ye came unto Me. Then shall the righteous answer Him, saying: Lord, when saw we Thee an hungred, and fed Thee? or thirsty, and gave Thee drink? When saw we Thee a stranger, and took Thee in? Or naked, and clothed Thee? Or when saw we Thee sick, or in prison, and came unto Thee? And the King shall answer and say unto them: Amen, I say unto you, inasmuch as ye have done it unto one of the least of these My brethren, ye have done it unto Me. Then shall He say also unto them on the left hand: Depart from Me. For I was an hungred, and ye gave Me no meat; I was thirsty, and ye gave Me no drink; I was a stranger, and ye took Me not in; naked, and ye clothed Me not; sick, and in prison, and ye visited Me not. Then shall they also answer Him saying: Lord, when saw we Thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto Thee? Then shall He answer them, saying: Amen, I say unto you, inasmuch as ye did it not to one of the least of these, ye did it not to Me.
+
+---
+
+## The Seventh Sunday after Trinity  
+*Intent: Purity; a day of devotion to the Holy Spirit*
+
+### The Collect
+
+O SPIRIT of all-perfect Purity, before Whose light an Angel veils his face, we Thy humble servants, sin-stained and weary though we be, do now most earnestly desire to keep our hearts unspotted from the world. To reach this purity we ask for strength from Thee, Who, with the Father, and the Son, livest and reignest one God throughout all ages of ages.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the second chapter of the First Epistle General of St. John, beginning at the fifteenth verse.
+
+LOVE not the world, neither the things that are in the world; for all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof; but he that doeth the will of God abideth for ever. Let that therefore abide in you which ye have heard from the beginning; for this is the promise that He hath promised us, even eternal life. Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God. Beloved, now are we the sons of God, and it doth not yet appear what we shall be; but we know that when He shall appear, we shall be like Him, for we shall see Him as He is. And every man that hath this hope in him purifieth himself, even as He is pure.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the seventeenth chapter of that according to St. John, beginning at the eleventh verse.
+
+AND Jesus said: Holy Father, keep through Thine own Name those whom Thou hast given Me, that they may be one, as We are. I pray not that Thou shouldest take them out of the world, but that Thou shouldest keep them from the evil. They are not of the world, even as I am not of the world. Sanctify them through Thy truth; Thy word is truth. Neither pray I for these alone, but for them also which shall believe on Me through their word; that they all may be one, as Thou, Father, art in Me and I in Thee, that they also may be one in Us. The glory which Thou gavest Me I have given them; that they may be one, even as We are one. I in them, and Thou in Me, that they may be made perfect in one; and that the world may know that Thou hast loved them, as Thou hast loved Me. Father, I will that they also, whom Thou hast given Me, be with Me where I am. I have declared unto them Thy Name, that the love wherewith Thou hast loved Me may be in them, and I in them.
+
+---
+
+## The Eighth Sunday after Trinity  
+*Intent: Wisdom*
+
+### The Collect
+
+O GOD, Who art the Wisdom of the wise and the Strength of the strong, Whose Beauty shines through the whole universe; may we so open our hearts to the Spirit of wisdom and understanding that we may ever be strong in Thee, our Rock of Ages, and may show forth in our lives the beauty of holiness, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the third chapter of the General Epistle of St. James, beginning at the thirteenth verse.
+
+WHO is a wise man, and endued with knowledge among you? Let him show out of a good conversation his works with meekness of wisdom. But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth. Such wisdom descendeth not from above, but is earthly, sensual, devilish. For where envying and strife is, there is confusion and every evil work. But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be entreated, full of mercy and good fruits, without partiality, and without hypocrisy. And the fruit of righteousness is sown in peace of them that make peace.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the second chapter of that according to St. Luke, beginning at the fortieth verse.
+
+THE child Jesus grew, and waxed strong in spirit, filled with wisdom; and the grace of God was upon Him. Now His parents went to Jerusalem every year at the feast of the passover. And when He was twelve years old, they went up to Jerusalem after the custom of the feast. And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and His mother knew not of it. But they, supposing Him to have been in the company, went a day's journey; and they sought Him among their kinsfolk and acquaintance. And when they found Him not, they turned back again to Jerusalem, seeking Him. And it came to pass, that after three days they found Him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard Him were astonished at His understanding and answers. And when they saw Him they were amazed: and His mother said unto Him: Son, why hast Thou thus dealt with us? Behold, Thy father and I have sought Thee sorrowing. And He said unto them: How is it that ye sought Me? Wist ye not that I must be about My Father's business? And they understood not the saying which He spake unto them. But His mother kept all these sayings in her heart. And Jesus increased in wisdom and stature, and in favour with God and man.
+
+---
+
+## The Ninth Sunday after Trinity  
+*Intent: Confidence*
+
+### The Collect
+
+O LORD, Who never failest to help and govern them whom Thou dost bring up in Thy steadfast joy and love; may we abide for ever under the protection of Thy good providence, and be filled with perpetual reverence and love for Thy holy Name, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the second chapter of that of St. Paul the Apostle to the Philippians, beginning at the second verse.
+
+FULFIL ye my joy; be ye likeminded, having the same love, being of one accord, of one mind. Let nothing be done through strife or vainglory; but in lowliness of heart let each esteem other better than himself. Look not every man on his own things, but every man also on the things of others. Let this mind be in you, which was also in Christ Jesus, Who, being in the form of God, made Himself of no reputation, and took upon Him the form of a servant, and was made in the likeness of men, and became obedient unto death. Wherefore God hath highly exalted Him, and given Him a Name which is above every name, that at the Name of Jesus every knee should bow, of things in heaven and things in earth, and things under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the twenty-third verse.
+
+JESUS said: The hour is come that the Son of Man should be glorified. Amen, Amen, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone; but if it die, it bringeth forth much fruit. He that loveth his life shall lose it; and he that careth not for his life in this world shall keep it unto life eternal. If any man serve Me, let him follow Me; and where I am, there shall also My servant be. Father, glorify Thy Name. Then came there a voice from heaven saying: I have both glorified it, and will glorify it again.
+```#
+
+Here is the cleaned and corrected liturgical text formatted in Markdown. I've fixed OCR errors (e.g., "Che" → "The", "Genth/Crinity" → "Tenth/Trinity", stray punctuation/hyphens), removed page artifacts and numbering, restored proper line breaks, and preserved the original liturgical structure and archaic language:
+
+```markdown
+## The Tenth Sunday after Trinity  
+*Intent: Devotion*
+
+### The Collect
+
+LORD and Master, we Thy servants continually do worship Thee with heartfelt praise and thanksgiving; may our fervent adoration rise ever before Thee like incense, until the light of our love becomes one with Thine infinite Light, Thou Who livest and reignest with the Father and the Holy Ghost, One God throughout all ages of ages.  
+℟. Amen.
+
+### The Epistle
+
+The portion of Scripture appointed for the Epistle is taken from the fifteenth chapter of the Revelation of St. John the Divine, beginning at the second verse.
+
+I SAW as it were a sea of glass mingled with fire; and they that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God. And they sing the song of Moses, the servant of God, and the song of the Lamb, saying: Great and marvellous are Thy works, Lord God Almighty; just and true are Thy ways, Thou King of saints. Thou only art holy; for all nations shall come and worship before Thee, for Thy judgments are made manifest. Amen; blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fourth chapter of that according to St. John, beginning at the nineteenth verse.
+
+THE woman of Samaria saith unto Him: Sir, I perceive that Thou art a prophet. Our fathers worshipped in this mountain; and ye say that in Jerusalem is the place where men ought to worship. Jesus said unto her: Believe Me, the hour cometh when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. Ye worship ye know not what; we know what we worship. But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth, for the Father seeketh such to worship Him. God is a Spirit; and they that worship Him must worship Him in spirit and in truth. The woman saith unto Him: I know that Messias cometh, which is called the Christ; when He is come, He will tell us all things. Jesus said unto her: I that speak unto thee am He.
+
+---
+
+## The Eleventh Sunday after Trinity  
+*Intent: Discernment*
+
+### The Collect
+
+O GOD, Whose never-failing providence ordereth all things both in heaven and earth, grant that we may unfold within ourselves such discernment, that we may avoid those things that be hurtful to the soul, and seek only those things that give us strength to serve Thee better, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the second chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the sixth verse.
+
+WE speak wisdom among them that are perfect; yet not the wisdom of this world. But we speak the wisdom of God in a mystery, even the hidden wisdom which God ordained before the world unto our glory. Eye hath not seen nor ear heard, neither have entered into the heart of man the things which God hath prepared for them that love Him. But God hath revealed them unto us by His Spirit; for the Spirit searcheth all things, yea, the deep things of God. Now we have received not the spirit of the world, but the Spirit which is of God, that we might know the things that are freely given to us of God. The natural man receiveth not the things of the Spirit of God, for they are foolishness unto him; neither can he know them, because they are spiritually discerned. But he that is spiritual discerneth all things; yet he himself is discerned of no man.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the twelfth chapter of that according to St. Luke, beginning at the fifty-fourth verse.
+
+JESUS said unto the people: When ye see a cloud rise out of the west, straightway ye say: There cometh a shower; and so it is. And when ye see the south wind blow, ye say: There will be heat; and it cometh to pass. Ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time? Yea, and why even of yourselves judge ye not what is right? Seek not ye what ye shall eat or what ye shall drink, for all these things do the nations of the world seek after. Rather seek ye the kingdom of God and His righteousness, and all these things shall be added unto you. Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.
+
+---
+
+## The Twelfth Sunday after Trinity  
+*Intent: Self-Dedication*
+
+### The Collect
+
+ALMIGHTY and everlasting God, grant that we may ever increase in faith, hope and charity; and, that we may quickly attain that for which Thou hast destined us, may we love the path which Thou hast ordained, through Christ our holy Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fifteenth chapter of that of St. Paul the Apostle to the Romans, beginning at the first verse.
+
+WE then that are strong ought to bear the infirmities of the weak, and not to please ourselves. Let everyone of us please his neighbour for his good to edification. For even Christ pleased not Himself. Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus; that ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ. Wherefore receive ye one another, as Christ also received us to the glory of God.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fifth chapter of that according to St. Matthew, beginning at the seventeenth verse.
+
+THINK not that I am come to destroy the law or the prophets; I am not come to destroy, but to fulfil. Amen, I say unto you: Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law till all be fulfilled. Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven; but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. For I say unto you that except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven. Ye have heard that it hath been said: Thou shalt love thy neighbour and hate thine enemy. But I say unto you: Love your enemies; bless them that curse you, do good to them that hate you, and pray for them that despitefully use you and persecute you; that ye may be the children of your Father Which is in heaven. For He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
+
+---
+
+## The Thirteenth Sunday after Trinity  
+*Intent: Good works*
+
+### The Collect
+
+GRANT us, O Lord, to hold fast within our hearts Thy love, which doth always prevent and follow us; that so, loving Thee above all things, we may continually be given to all good works, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fourth chapter of that of St. Paul the Apostle to the Ephesians, beginning at the first verse.
+
+I THEREFORE, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, with all lowliness and meekness, with longsuffering, forbearing one another in love; endeavouring to keep the unity of the Spirit in the bond of peace. There is one body, and one Spirit, even as ye are called in one hope of your calling; one Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the seventh chapter of that according to St. Matthew, beginning at the sixteenth verse.
+
+YE shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? Even so, every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Wherefore by their fruits ye shall know them. Not every one that saith unto Me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of My Father Which is in heaven. Many will say to Me, Lord, Lord, have we not prophesied in Thy Name? and in Thy Name have cast out devils? and in Thy Name done many wonderful works? Then will I profess unto them: I never knew you; depart from Me, ye that work iniquity. Therefore whosoever heareth these sayings of Mine and doeth them, I will liken him unto a wise man, which built his house upon a rock; and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not, for it was founded upon a rock. But everyone that heareth these sayings of Mine and doeth them not, shall be likened unto a foolish man which built his house upon the sand; and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell; and great was the fall of it.
+
+---
+
+## The Fourteenth Sunday after Trinity  
+*Intent: Renewal of Heart*
+
+### The Collect
+
+O GOD, Who in Thy lovingkindness hast appointed for us a ministry of reconciliation, that by it our feet may be restored to the path wherein we should walk; grant us that, firmly resisting all temptation, we may follow that path unto its glorious end in Thee, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the first chapter of the First Epistle General of St. John, beginning at the first verse.
+
+THAT which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life (for the life was manifested, and we have seen it, and bear witness, and show unto you that eternal life, which was with the Father, and was manifested unto us); that which we have seen and heard declare we unto you, that ye also may have fellowship with us; and truly our fellowship is with the Father, and with His Son Jesus Christ. If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. These things write we unto you, that your joy may be full. This then is the message which we have heard of Him, and declare unto you, that God is Light, and in Him is no darkness at all.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the ninth chapter of that according to St. Matthew, beginning at the second verse.
+
+THEY brought to Him a man sick of the palsy, lying on a bed; and Jesus, seeing their faith, said unto the sick of the palsy: Son, be of good cheer; thy sins be forgiven thee. But certain of the scribes said within themselves: This man blasphemeth. And Jesus, knowing their thoughts, said: Wherefore think ye evil in your hearts? For whether is easier, to say: Thy sins be forgiven thee, or to say: Arise and walk? But that ye may know that the Son of Man hath power on earth to forgive sins (then saith He to the sick of the palsy): Arise, take up thy bed, and go into thy house. And he arose and departed to his house. And when the multitude saw it, they marvelled, and glorified God, which had given such power unto men.
+
+---
+
+## The Fifteenth Sunday after Trinity  
+*Intent: The Reality of Things Eternal; a day of devotion to the Holy Spirit*
+
+### The Collect
+
+O HOLY Spirit, the Comforter of all that trust in Thee, without Whom nothing is strong, nothing is holy; increase and multiply within us Thy heavenly wisdom; that, Thou being our Ruler and Guide, we may so pass through things temporal as never to lose sight of the things eternal, and may ever live in the service of Christ our holy Lord, Who with Thee and the Almighty Father liveth and reigneth One God for evermore.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fourth chapter of the Second Epistle of St. Paul the Apostle to the Corinthians, beginning at the fourteenth verse.
+
+HE Who raised up the Lord Jesus shall raise us up also by Jesus, and shall present us with you. For all things are for your sakes, that the abundant grace might, through the thanksgiving of many, redound to the glory of God. For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. For our light affliction, which is but for a moment, worketh for us a far more exceeding weight of glory, while we look not at the things which are seen; for the things which are seen are temporal; but the things which are not seen are eternal.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the tenth chapter of that according to St. Luke, beginning at the twenty-fifth verse.
+
+A CERTAIN lawyer stood up saying: Master, what shall I do to inherit eternal life? Jesus said unto him: What is written in the law? How readest thou? And he answering said: Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. Jesus said unto him: Thou hast answered right; this do and thou shalt live. But he, willing to justify himself, said unto Jesus: And who is my neighbour? And Jesus answering said: A certain man went down from Jerusalem to Jericho and fell among thieves, which stripped him of his raiment and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way; and when he saw him, he passed by on the other side. Likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. But a certain Samaritan, as he journeyed, came where he was; when he saw him, he had compassion on him, and went to him and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. And on the morrow when he departed, he took out two pence and gave them to the host, and said unto him: Take care of him; and whatever thou spendest more, when I come again I will repay thee. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? And the lawyer said: He that showed mercy on him. Then said Jesus unto him: Go, and do thou likewise.
+
+---
+
+## The Sixteenth Sunday after Trinity  
+*Intent: Justice*
+
+### The Collect
+
+O GOD, in Whom is no variableness, neither shadow of turning; we lean upon Thy justice as upon a pillar of Thy throne; we thank and bless Thee for Thy holy Law that changeth not, and pray for wisdom that under it we may live according to Thy will, Who livest and reignest, Father, Son and Spirit, one God for evermore.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the sixth chapter of the Epistle of St. Paul the Apostle to the Galatians, beginning at the fourth verse.
+
+LET every man prove his own work, for every man shall bear his own burden. Be not deceived; God is not mocked, for whatsoever a man soweth, that shall he also reap. He that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the spirit shall of the spirit reap life everlasting. Let us not be weary in well-doing, for in due season we shall reap, if we faint not. As we have opportunity, let us do good unto all men, especially unto them who are of the household of faith. As many as walk according to this rule, peace be on them and mercy, and upon the Israel of God.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fifth chapter of that according to St. John, beginning at the twenty-fifth verse.
+
+AMEN, Amen, I say unto you, the hour is coming, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live. For as the Father hath life in Himself, so hath He given to the Son to have life in Himself, and hath given Him authority to execute judgment also, because He is the Son of Man. Marvel not at this; for the hour is coming in which all that are in the graves shall hear His voice and shall come forth: they that have done good unto the resurrection of life, and they that have done evil unto the resurrection of condemnation. As I hear, I judge, and My judgment is just; for the Son of Man shall come in the glory of His Father with His Angels, and then shall He reward every man according to his works.
+
+---
+
+## The Seventeenth Sunday after Trinity  
+*Intent: Eternal Progress*
+
+### The Collect
+
+ALMIGHTY God and loving Father, of Whose only gift it cometh that Thy faithful people do unto Thee true and laudable service; grant, we pray Thee, that we may so loyally serve Thee in this life that we may be numbered among Thy leal and trusty soldiers in all lives to come, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the sixth chapter of the First Epistle of St. Paul the Apostle to Timothy, beginning at the sixth verse.
+
+GODLINESS with contentment is great gain; for we brought nothing into this world, and it is certain that we can carry nothing out; so, having food and raiment, let us be therewith content. For they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil, which some having coveted, they have erred from the faith and pierced themselves through with many sorrows. But thou, O man of God, flee these things, and follow after righteousness, godliness, faith, love, patience, meekness. Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called. I give thee charge in the sight of God, that thou keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ, Who is the blessed and only Potentate, King of Kings and Lord of Lords, to Whom be honour and power everlasting.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the eleventh chapter of that according to St. Matthew, beginning at the seventh verse.
+
+JESUS began to say unto the multitudes concerning John: What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? Behold, they that wear soft clothing are in kings' houses. But what went ye out for to see? A prophet? Yea, I say unto you, and more than a prophet. For this is he of whom it is written: Behold, I send My messenger before thy face, which shall prepare thy way before thee. Amen, I say unto you, among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding, he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear.
+```
+
+```markdown
+## The Tenth Sunday after Trinity  
+*Intent: Devotion*
+
+### The Collect
+
+LORD and Master, we Thy servants continually do worship Thee with heartfelt praise and thanksgiving; may our fervent adoration rise ever before Thee like incense, until the light of our love becomes one with Thine infinite Light, Thou Who livest and reignest with the Father and the Holy Ghost, One God throughout all ages of ages.  
+℟. Amen.
+
+### The Epistle
+
+The portion of Scripture appointed for the Epistle is taken from the fifteenth chapter of the Revelation of St. John the Divine, beginning at the second verse.
+
+I SAW as it were a sea of glass mingled with fire; and they that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God. And they sing the song of Moses, the servant of God, and the song of the Lamb, saying: Great and marvellous are Thy works, Lord God Almighty; just and true are Thy ways, Thou King of saints. Thou only art holy; for all nations shall come and worship before Thee, for Thy judgments are made manifest. Amen; blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fourth chapter of that according to St. John, beginning at the nineteenth verse.
+
+THE woman of Samaria saith unto Him: Sir, I perceive that Thou art a prophet. Our fathers worshipped in this mountain; and ye say that in Jerusalem is the place where men ought to worship. Jesus said unto her: Believe Me, the hour cometh when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father. Ye worship ye know not what; we know what we worship. But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth, for the Father seeketh such to worship Him. God is a Spirit; and they that worship Him must worship Him in spirit and in truth. The woman saith unto Him: I know that Messias cometh, which is called the Christ; when He is come, He will tell us all things. Jesus said unto her: I that speak unto thee am He.
+
+---
+
+## The Eleventh Sunday after Trinity  
+*Intent: Discernment*
+
+### The Collect
+
+O GOD, Whose never-failing providence ordereth all things both in heaven and earth, grant that we may unfold within ourselves such discernment, that we may avoid those things that be hurtful to the soul, and seek only those things that give us strength to serve Thee better, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the second chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the sixth verse.
+
+WE speak wisdom among them that are perfect; yet not the wisdom of this world. But we speak the wisdom of God in a mystery, even the hidden wisdom which God ordained before the world unto our glory. Eye hath not seen nor ear heard, neither have entered into the heart of man the things which God hath prepared for them that love Him. But God hath revealed them unto us by His Spirit; for the Spirit searcheth all things, yea, the deep things of God. Now we have received not the spirit of the world, but the Spirit which is of God, that we might know the things that are freely given to us of God. The natural man receiveth not the things of the Spirit of God, for they are foolishness unto him; neither can he know them, because they are spiritually discerned. But he that is spiritual discerneth all things; yet he himself is discerned of no man.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the twelfth chapter of that according to St. Luke, beginning at the fifty-fourth verse.
+
+JESUS said unto the people: When ye see a cloud rise out of the west, straightway ye say: There cometh a shower; and so it is. And when ye see the south wind blow, ye say: There will be heat; and it cometh to pass. Ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time? Yea, and why even of yourselves judge ye not what is right? Seek not ye what ye shall eat or what ye shall drink, for all these things do the nations of the world seek after. Rather seek ye the kingdom of God and His righteousness, and all these things shall be added unto you. Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.
+
+---
+
+## The Twelfth Sunday after Trinity  
+*Intent: Self-Dedication*
+
+### The Collect
+
+ALMIGHTY and everlasting God, grant that we may ever increase in faith, hope and charity; and, that we may quickly attain that for which Thou hast destined us, may we love the path which Thou hast ordained, through Christ our holy Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fifteenth chapter of that of St. Paul the Apostle to the Romans, beginning at the first verse.
+
+WE then that are strong ought to bear the infirmities of the weak, and not to please ourselves. Let everyone of us please his neighbour for his good to edification. For even Christ pleased not Himself. Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus; that ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ. Wherefore receive ye one another, as Christ also received us to the glory of God.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fifth chapter of that according to St. Matthew, beginning at the seventeenth verse.
+
+THINK not that I am come to destroy the law or the prophets; I am not come to destroy, but to fulfil. Amen, I say unto you: Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law till all be fulfilled. Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven; but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. For I say unto you that except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven. Ye have heard that it hath been said: Thou shalt love thy neighbour and hate thine enemy. But I say unto you: Love your enemies; bless them that curse you, do good to them that hate you, and pray for them that despitefully use you and persecute you; that ye may be the children of your Father Which is in heaven. For He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
+
+---
+
+## The Thirteenth Sunday after Trinity  
+*Intent: Good works*
+
+### The Collect
+
+GRANT us, O Lord, to hold fast within our hearts Thy love, which doth always prevent and follow us; that so, loving Thee above all things, we may continually be given to all good works, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fourth chapter of that of St. Paul the Apostle to the Ephesians, beginning at the first verse.
+
+I THEREFORE, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, with all lowliness and meekness, with longsuffering, forbearing one another in love; endeavouring to keep the unity of the Spirit in the bond of peace. There is one body, and one Spirit, even as ye are called in one hope of your calling; one Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the seventh chapter of that according to St. Matthew, beginning at the sixteenth verse.
+
+YE shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? Even so, every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Wherefore by their fruits ye shall know them. Not every one that saith unto Me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of My Father Which is in heaven. Many will say to Me, Lord, Lord, have we not prophesied in Thy Name? and in Thy Name have cast out devils? and in Thy Name done many wonderful works? Then will I profess unto them: I never knew you; depart from Me, ye that work iniquity. Therefore whosoever heareth these sayings of Mine and doeth them, I will liken him unto a wise man, which built his house upon a rock; and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not, for it was founded upon a rock. But everyone that heareth these sayings of Mine and doeth them not, shall be likened unto a foolish man which built his house upon the sand; and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell; and great was the fall of it.
+
+---
+
+## The Fourteenth Sunday after Trinity  
+*Intent: Renewal of Heart*
+
+### The Collect
+
+O GOD, Who in Thy lovingkindness hast appointed for us a ministry of reconciliation, that by it our feet may be restored to the path wherein we should walk; grant us that, firmly resisting all temptation, we may follow that path unto its glorious end in Thee, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the first chapter of the First Epistle General of St. John, beginning at the first verse.
+
+THAT which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life (for the life was manifested, and we have seen it, and bear witness, and show unto you that eternal life, which was with the Father, and was manifested unto us); that which we have seen and heard declare we unto you, that ye also may have fellowship with us; and truly our fellowship is with the Father, and with His Son Jesus Christ. If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. These things write we unto you, that your joy may be full. This then is the message which we have heard of Him, and declare unto you, that God is Light, and in Him is no darkness at all.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the ninth chapter of that according to St. Matthew, beginning at the second verse.
+
+THEY brought to Him a man sick of the palsy, lying on a bed; and Jesus, seeing their faith, said unto the sick of the palsy: Son, be of good cheer; thy sins be forgiven thee. But certain of the scribes said within themselves: This man blasphemeth. And Jesus, knowing their thoughts, said: Wherefore think ye evil in your hearts? For whether is easier, to say: Thy sins be forgiven thee, or to say: Arise and walk? But that ye may know that the Son of Man hath power on earth to forgive sins (then saith He to the sick of the palsy): Arise, take up thy bed, and go into thy house. And he arose and departed to his house. And when the multitude saw it, they marvelled, and glorified God, which had given such power unto men.
+
+---
+
+## The Fifteenth Sunday after Trinity  
+*Intent: The Reality of Things Eternal; a day of devotion to the Holy Spirit*
+
+### The Collect
+
+O HOLY Spirit, the Comforter of all that trust in Thee, without Whom nothing is strong, nothing is holy; increase and multiply within us Thy heavenly wisdom; that, Thou being our Ruler and Guide, we may so pass through things temporal as never to lose sight of the things eternal, and may ever live in the service of Christ our holy Lord, Who with Thee and the Almighty Father liveth and reigneth One God for evermore.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the fourth chapter of the Second Epistle of St. Paul the Apostle to the Corinthians, beginning at the fourteenth verse.
+
+HE Who raised up the Lord Jesus shall raise us up also by Jesus, and shall present us with you. For all things are for your sakes, that the abundant grace might, through the thanksgiving of many, redound to the glory of God. For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. For our light affliction, which is but for a moment, worketh for us a far more exceeding weight of glory, while we look not at the things which are seen; for the things which are seen are temporal; but the things which are not seen are eternal.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the tenth chapter of that according to St. Luke, beginning at the twenty-fifth verse.
+
+A CERTAIN lawyer stood up saying: Master, what shall I do to inherit eternal life? Jesus said unto him: What is written in the law? How readest thou? And he answering said: Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. Jesus said unto him: Thou hast answered right; this do and thou shalt live. But he, willing to justify himself, said unto Jesus: And who is my neighbour? And Jesus answering said: A certain man went down from Jerusalem to Jericho and fell among thieves, which stripped him of his raiment and wounded him, and departed, leaving him half dead. And by chance there came down a certain priest that way; and when he saw him, he passed by on the other side. Likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. But a certain Samaritan, as he journeyed, came where he was; when he saw him, he had compassion on him, and went to him and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. And on the morrow when he departed, he took out two pence and gave them to the host, and said unto him: Take care of him; and whatever thou spendest more, when I come again I will repay thee. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? And the lawyer said: He that showed mercy on him. Then said Jesus unto him: Go, and do thou likewise.
+
+---
+
+## The Sixteenth Sunday after Trinity  
+*Intent: Justice*
+
+### The Collect
+
+O GOD, in Whom is no variableness, neither shadow of turning; we lean upon Thy justice as upon a pillar of Thy throne; we thank and bless Thee for Thy holy Law that changeth not, and pray for wisdom that under it we may live according to Thy will, Who livest and reignest, Father, Son and Spirit, one God for evermore.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the sixth chapter of the Epistle of St. Paul the Apostle to the Galatians, beginning at the fourth verse.
+
+LET every man prove his own work, for every man shall bear his own burden. Be not deceived; God is not mocked, for whatsoever a man soweth, that shall he also reap. He that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the spirit shall of the spirit reap life everlasting. Let us not be weary in well-doing, for in due season we shall reap, if we faint not. As we have opportunity, let us do good unto all men, especially unto them who are of the household of faith. As many as walk according to this rule, peace be on them and mercy, and upon the Israel of God.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the fifth chapter of that according to St. John, beginning at the twenty-fifth verse.
+
+AMEN, Amen, I say unto you, the hour is coming, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live. For as the Father hath life in Himself, so hath He given to the Son to have life in Himself, and hath given Him authority to execute judgment also, because He is the Son of Man. Marvel not at this; for the hour is coming in which all that are in the graves shall hear His voice and shall come forth: they that have done good unto the resurrection of life, and they that have done evil unto the resurrection of condemnation. As I hear, I judge, and My judgment is just; for the Son of Man shall come in the glory of His Father with His Angels, and then shall He reward every man according to his works.
+
+---
+
+## The Seventeenth Sunday after Trinity  
+*Intent: Eternal Progress*
+
+### The Collect
+
+ALMIGHTY God and loving Father, of Whose only gift it cometh that Thy faithful people do unto Thee true and laudable service; grant, we pray Thee, that we may so loyally serve Thee in this life that we may be numbered among Thy leal and trusty soldiers in all lives to come, through Christ our Lord.  
+℟. Amen.
+
+### The Epistle
+
+The Epistle is taken from the sixth chapter of the First Epistle of St. Paul the Apostle to Timothy, beginning at the sixth verse.
+
+GODLINESS with contentment is great gain; for we brought nothing into this world, and it is certain that we can carry nothing out; so, having food and raiment, let us be therewith content. For they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil, which some having coveted, they have erred from the faith and pierced themselves through with many sorrows. But thou, O man of God, flee these things, and follow after righteousness, godliness, faith, love, patience, meekness. Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called. I give thee charge in the sight of God, that thou keep this commandment without spot, unrebukable, until the appearing of our Lord Jesus Christ, Who is the blessed and only Potentate, King of Kings and Lord of Lords, to Whom be honour and power everlasting.
+
+*Here endeth the Epistle.*
+
+### The Gospel
+
+The holy Gospel is taken from the eleventh chapter of that according to St. Matthew, beginning at the seventh verse.
+
+JESUS began to say unto the multitudes concerning John: What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? Behold, they that wear soft clothing are in kings' houses. But what went ye out for to see? A prophet? Yea, I say unto you, and more than a prophet. For this is he of whom it is written: Behold, I send My messenger before thy face, which shall prepare thy way before thee. Amen, I say unto you, among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding, he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear.
+```
