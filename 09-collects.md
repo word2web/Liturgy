@@ -1425,4 +1425,313 @@ GODLINESS with contentment is great gain; for we brought nothing into this world
 The holy Gospel is taken from the eleventh chapter of that according to St. Matthew, beginning at the seventh verse.
 
 JESUS began to say unto the multitudes concerning John: What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? Behold, they that wear soft clothing are in kings' houses. But what went ye out for to see? A prophet? Yea, I say unto you, and more than a prophet. For this is he of whom it is written: Behold, I send My messenger before thy face, which shall prepare thy way before thee. Amen, I say unto you, among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding, he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear.
+`
+
+``# The Eighteenth Sunday after Trinity
+
+**Theme:** Christ as Truth
+
+## The Collect
+
+O Lord Christ, Who art the Way, the Truth and the Life, grant that we may find strength to be true in thought, word and deed, that so we may reach Thee, the eternal Truth, to Whom be honour and glory for evermore. Amen.
+
+## The Epistle
+
+The Epistle is taken from the fourth chapter of that of St. Paul the Apostle to the Ephesians, beginning at the seventh verse.
+
+> Unto every one of us is given grace according to the measure of the gift of Christ, till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ; that we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, but speaking the truth in love, may grow up into Him in all things, which is the head, even Christ; from Whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. Wherefore putting away lying, speak every man truth with his neighbour; for we are members one of another.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the first verse.
+
+> Let not your heart be troubled; ye believe in God, believe also in Me. In My Father's house are many mansions; if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto Myself; that where I am, there ye may be also. And whither I go ye know, and the way ye know. Thomas saith unto Him: Lord, we know not whither Thou goest; and how can we know the way? Jesus saith unto Him: I am the way, the truth, and the life; no man cometh unto the Father, but by Me. If ye had known Me, ye should have known My Father also; and from henceforth ye know Him, and have seen Him. Philip saith unto Him: Lord, show us the Father, and it sufficeth us. Jesus said unto him: Have I been so long time with you, and yet hast thou not known Me, Philip? He that hath seen Me hath seen the Father.
+
+---
+
+# The Nineteenth Sunday after Trinity
+
+**Theme:** Tact and Tolerance
+
+## The Collect
+
+O God, Who meetest every man upon that path by which he draweth nigh unto Thee, grant us such a measure of Thy wisdom that by our love and gentleness the wandering sheep be guided to Thy fold, through Christ our holy Lord. Amen.
+
+## The Epistle
+
+The Epistle is taken from the ninth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the nineteenth verse.
+
+> Though I be free from all men, yet have I made myself servant unto all, that I might gain the more. Unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law; to them that are without law, as without law (being not without law to God, but under the law to Christ), that I might gain them that are without law. To the weak became I as weak, that I might gain the weak; I am made all things to all men, that I might by all means save some. And this I do for the gospel's sake, that I might be partaker thereof with you. Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain. And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible. I therefore so run, not as uncertainly; so fight I, not as one that beateth the air. But I keep under my body, and bring it into subjection; lest that by any means, when I have preached to others, I myself should be a castaway.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the tenth chapter of that according to St. John, beginning at the seventh verse.
+
+> Then said Jesus unto them again: Amen, Amen, I say unto you, I am the door of the sheep. By Me if any man enter in, he shall be saved, and shall go in and out, and find pasture. I am come that they might have life, and that they might have it more abundantly. I am the good shepherd; the good shepherd giveth His life for the sheep. The hireling fleeth, because he is an hireling, and careth not for the sheep. I am the good shepherd, and know My sheep, and am known of Mine. As the Father knoweth Me, even so know I the Father; and I lay down My life for the sheep. And other sheep I have which are not of this fold; them also I must bring, and they shall hear My voice; and there shall be one fold, and one shepherd.
+
+---
+
+# The Twentieth Sunday after Trinity
+
+**Theme:** Serenity
+
+## The Collect
+
+Unchanging and immortal God, Who reignest for ever serene above the waterfloods, grant us to gain and hold that holy peace which naught on earth can vex, through Christ the Prince of Peace, Who liveth with Thee and the Holy Ghost, One God for evermore. Amen.
+
+## The Epistle
+
+The Epistle is taken from the first chapter of the Second Epistle General of St. Peter, beginning at the fifth verse.
+
+> Giving all diligence, add to your faith virtue, and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ. But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. What manner of persons then ought ye to be in all holy conversation and godliness, looking for and hasting unto the coming of the day of God? Therefore, beloved, beware lest, being led away with the error of the wicked, ye fall from your own steadfastness. But grow in grace and in the knowledge of our Lord and Saviour Jesus Christ, to Whom be glory now and for ever.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the eleventh chapter of that according to St. Matthew, beginning at the twenty-eighth verse.
+
+> Come unto Me, all ye that labour and are heavy laden, and I will give you rest. Take My yoke upon you, and learn of Me, for I am meek and lowly in heart; and ye shall find rest unto your souls. For My yoke is easy and My burden is light. That it might be fulfilled which was spoken of Esaias the prophet, saying: Behold My servant, Whom I have chosen; My beloved, in Whom My soul is well pleased; I will put My Spirit upon Him, and He shall show judgment to the Gentiles. He shall not strive nor cry, neither shall any man hear His voice in the street. A bruised reed shall He not break, and smoking flax shall He not quench, till He send forth judgment unto victory; and in His Name shall the Gentiles trust.
+
+---
+
+# The Twenty-first Sunday after Trinity
+
+**Theme:** Perseverance
+
+## The Collect
+
+Lord of all power and might, Who art the author and giver of all good things, may our hearts be so filled with gratitude to Thee that we may continually increase in true religion, and from Thine omnipotence may we draw strength to persevere, through Christ our Lord. Amen.
+
+## The Epistle
+
+The Epistle is taken from the sixth chapter of the Epistle of St. Paul the Apostle to the Ephesians, beginning at the tenth verse.
+
+> My brethren, be strong in the Lord, and in the power of His might. Put on the whole armour of God, that ye may be able to stand against the wiles of the adversary. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness, and your feet shod with the preparation of the gospel of peace; above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God, watching thereunto with all perseverance.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the tenth chapter of that according to St. Matthew, beginning at the first verse.
+
+> When Jesus had called unto Him His twelve disciples, He gave them power over unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease. And He said unto them: Behold, I send you forth as sheep in the midst of wolves; be ye therefore wise as serpents, and harmless as doves. The disciple is not above his master, nor the servant above his lord. He that receiveth you receiveth Me, and he that receiveth Me receiveth Him that sent Me. Whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, Amen I say unto you, he shall by no means lose his reward. He that loveth father or mother more than Me is not worthy of Me; and he that loveth son or daughter more than Me is not worthy of Me. And he that taketh not his cross and followeth after Me is not worthy of Me. He that findeth his life shall lose it; and he that loseth his life for My sake shall find it. But he that endureth to the end shall be saved.
+
+---
+
+# The Twenty-second Sunday after Trinity
+
+**Theme:** Right Energy
+
+## The Collect
+
+Stir up, O Lord, we pray Thee, the wills of Thy faithful people, that they, plenteously bringing forth the fruit of good deeds, may become tireless workers in Thy holy service, through Christ our Lord. Amen.
+
+## The Epistle
+
+The Epistle is taken from the second chapter of that of St. Paul the Apostle to Titus, beginning at the first verse.
+
+> Speak thou the things which become sound doctrine, in all things showing thyself a pattern of good works; in doctrine showing uncorruptness, gravity, sincerity, sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you. For the grace of God that bringeth salvation hath appeared to all men, teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously and godly in this present world, looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ; putting us in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, to speak evil of no man, to be no brawlers, but gentle, showing all meekness unto all men. This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the sixth chapter of that according to St. Luke, beginning at the twenty-seventh verse.
+
+> I say unto you which hear: Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you. And as ye would that men should do to you, do ye also to them likewise. Love ye your enemies, and do good and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest, for He is kind unto the unthankful and to the evil. Be ye therefore merciful, as your Father is merciful. Judge not, and ye shall not be judged; condemn not, and ye shall not be condemned; forgive, and ye shall be forgiven. Give, and it shall be given unto you; good measure, pressed down and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
+
+---
+
+# The Twenty-third Sunday after Trinity
+
+**Theme:** The Practice of What is Taught
+
+## The Collect
+
+Almighty God, the fountain of all wisdom, we pray Thee that the words which we hear this day with our outward ears may through Thy grace be so grafted inwardly in our hearts that they may bring forth in us the fruit of good living, to the honour and praise of Thy Name, through Christ our Lord. Amen.
+
+## The Epistle
+
+The Epistle is taken from the first chapter of the General Epistle of St. James, beginning at the nineteenth verse.
+
+> My beloved brethren, let every man be swift to hear, slow to speak, slow to wrath; for the wrath of man worketh not the righteousness of God. Be ye doers of the word, and not hearers only, deceiving your own selves. For if any man be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass; for he beholdeth himself, and goeth his way and straightway forgetteth what manner of man he was. But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. Pure religion and undefiled before God and the Father is this: To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the sixth chapter of that according to St. John, beginning at the twenty-eighth verse.
+
+> Then said they unto Jesus: What shall we do, that we might work the works of God? Jesus answered and said unto them: This is the work of God, that ye believe on Him Whom He hath sent. For the Bread of God is He Which cometh down from heaven, and giveth life unto the world. Then said they unto Him: Lord, evermore give us this bread. And Jesus said unto them: I am the Bread of Life; he that cometh to Me shall never hunger; and he that believeth on Me shall never thirst. All that the Father giveth Me shall come to Me; and him that cometh to Me I will in no wise cast out. For this is the Father's will which hath sent Me, that of all which He hath given Me I should lose nothing, but should raise it up again at the last day. It is the spirit that quickeneth; the flesh profiteth nothing; the words that I speak unto you, they are spirit and they are life.
+
+---
+
+# The Twenty-fourth Sunday after Trinity
+
+**Theme:** Openness of Mind
+
+## The Collect
+
+O Lord of Light unquenchable, grant unto Thy people that with pure heart and open mind they may reverently receive Thy holy Word, truly serving Thee in holiness and righteousness all the days of their life, through Christ our Lord. Amen.
+
+## The Epistle
+
+The Epistle is taken from the third chapter of the Epistle of St. Paul the Apostle to the Ephesians, beginning at the fourteenth verse.
+
+> For this cause I bow my knees unto the Father of our Lord Jesus Christ, of Whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might by His Spirit in the inner man; that Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, may be able to comprehend with all saints what is the breadth, and length, and depth, and height; and to know the love of Christ which passeth knowledge, that ye might be filled with all the fullness of God. Now unto Him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, unto Him be glory in the Church by Christ Jesus throughout all ages, world without end. Amen.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+The holy Gospel is taken from the seventh chapter of that according to St. John, beginning at the sixteenth verse.
+
+> Jesus said: My doctrine is not Mine, but His that sent Me. If any man will do His will, he shall know of the doctrine whether it be of God. Judge not according to the appearance, but judge righteous judgment. If any man thirst, let him come unto Me and drink. I am the light of the world; he that followeth Me shall not walk in darkness, but shall have the light of life. If ye continue in My word, then are ye My disciples indeed; and ye shall know the truth, and the truth shall make you free.
+
+
+Here is the cleaned and properly formatted liturgical text in Markdown, with OCR errors corrected, page numbers removed, line breaks fixed, and consistent liturgical structure applied:
+
+```markdown
+# The Sunday Next Before Advent
+
+*Intent: The Dispelling of Ignorance; a day of devotion to the Holy Spirit.*
+
+## The Collect
+
+> O HOLY SPIRIT, Breath of Life and Fire of Love,  
+> touch our cold hearts, we pray Thee, with the glow  
+> of that celestial flame, that by Thine indwelling power  
+> we may shine forth as the sun to enlighten and  
+> encourage those our brethren who are lost in the  
+> darkness of ignorance, and guide them to Thee, Who,  
+> with the Father and the Son, art worshipped and  
+> glorified for ever.  
+> **℟. Amen.**
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Book of the Prophet Daniel, beginning at the ninth verse.*
+
+> DANIEL said: I saw in my vision by night, and the Ancient of Days did sit, Whose garment was white as snow, and the hair of His head like the pure wool; His throne was like the fiery flame, and His wheels as burning fire. A fiery stream issued and came forth from before Him; thousand thousands ministered unto Him, and ten thousand times ten thousand stood before Him. And behold, one like the Son of Man came with the clouds of heaven, and came to the Ancient of Days, and they brought Him near before Him. And there was given Him dominion and glory and a kingdom, that all people, nations and languages should serve Him; His dominion is an everlasting dominion, which shall not pass away, and His kingdom that which shall not be destroyed. The saints of the most High also shall take the kingdom, and possess it for ever and ever. And at that time shall Michael stand up, the great Prince which standeth for the children of Thy people; and they that be wise shall shine as the brightness of the firmament; but they that turn many to righteousness as the stars for ever and ever.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+*The holy Gospel is taken from the eighth chapter of that according to St. Luke, beginning at the fourth verse.*
+
+> WHEN much people were gathered together Jesus spake unto them by a parable: A sower went out to sow his seed; and as he sowed some fell by the wayside, and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. He that hath ears to hear, let him hear. And His disciples asked Him: What might this parable be? And He said: Unto you it is given to know the mysteries of the kingdom of God; but to others in parables; that seeing they might not see, and hearing, they might not understand. The parable is this: The seed is the word of God. Those by the wayside are they that hear; then cometh the adversary, and taketh away the word out of their hearts, lest they should understand and be saved. They on the rock are they who, when they hear, receive the word with joy; but these have no root, which for a while believe, and in time of temptation fall away. And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection. But that on the good ground are they which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
+
+> *If there be more than twenty-five Sundays after Trinity, the service of some of those Sundays that were omitted after the Epiphany shall be used to supply as many as are wanting. And if there be fewer than twenty-five Sundays, those that remain over may be omitted, provided that this last Collect, Epistle and Gospel shall always be used upon the Sunday next before Advent.*
+
+---
+
+# The Baptism of Our Lord
+
+## The Collect
+
+> O LORD, Who didst deign as at this time to receive the baptism of water at the hands of Thy Forerunner, grant that we may become worthy to receive at Thy Hands the baptism of the Holy Ghost and of Fire, Thou Who art the Way, the Truth and the Life, to Whom be praise for evermore.  
+> **℟. Amen.**
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the eleventh chapter of the Book of the Prophet Isaiah, beginning at the first verse.*
+
+> THERE shall come forth a Rod out of the stem of Jesse, and a Branch shall grow out of his roots; and the Spirit of the Lord shall rest upon Him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and of reverence to the Lord. He shall not judge after the sight of His eyes, neither reprove after the hearing of His ears; but with righteousness shall He judge the poor, and reprove with equity for the meek of the earth; and righteousness shall be the girdle of His loins, and faithfulness the girdle of His reins. They shall not hurt nor destroy in all My holy mountain; for the earth shall be full of the knowledge of the Lord, as the waters cover the sea.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+*The holy Gospel is taken from the third chapter of that according to St. Matthew, beginning at the first verse.*
+
+> IN those days came John the Baptist, preaching in the wilderness of Judea, and saying: Repent ye, for the kingdom of heaven is at hand. I indeed baptize you with water unto repentance; but He that cometh after me is mightier than I, Whose shoes I am not worthy to bear; He shall baptize you with the Holy Ghost and with Fire. Then cometh Jesus from Galilee to Jordan unto John, to be baptized of Him. But John forbad Him, saying: I have need to be baptized of Thee, and comest Thou to me? And Jesus said unto him: Suffer it to be so now; for thus it becometh us to fulfil all righteousness. Then he suffered Him. And Jesus, when He was baptized, went up straightway out of the water; and, lo, the heavens were opened unto Him, and He saw the Spirit of God descending like a dove, and lighting upon Him. And, lo, a voice from heaven, saying: This is My beloved Son, in whom I am well pleased.
+
+> *The same Collect, Epistle and Gospel shall serve for seven days after.*
+
+---
+
+# The Transfiguration
+
+## The Collect
+
+> O LORD CHRIST, Who upon Mount Tabor didst show Thyself in Thy true glory unto Thy disciples, grant that we Thy humble servants may also in due time ascend the holy mountain, and be transfigured into Thy likeness, O Thou great King of Glory to Whom be praise and adoration for evermore.  
+> **℟. Amen.**
+
+## The Epistle
+
+*The Epistle is taken from the first chapter of the Second Epistle General of St. Peter, beginning at the sixteenth verse.*
+
+> WE have not followed cunningly devised fables when we made known unto you the power and coming of our Lord Jesus Christ, but were eye-witnesses of His majesty. For He received from God the Father honour and glory, when there came such a voice to Him from the excellent glory: This is My beloved Son, in Whom I am well pleased. And this voice which came from heaven we heard, when we were with Him in the holy mount. We have also a more sure word of prophecy, whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day-star arise in your hearts.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+*The holy Gospel is taken from the seventeenth chapter of that according to St. Matthew, beginning at the first verse.*
+
+> JESUS taketh Peter, James, and John his brother, and bringeth them up into a high mountain apart, and was transfigured before them; and His face did shine as the sun, and His raiment was white as the light. And behold, there appeared unto them Moses and Elias talking with Him. Then said Peter unto Jesus: Lord, it is good for us to be here; if Thou wilt, let us make here three tabernacles; one for Thee, and one for Moses, and one for Elias. While he yet spake, behold, a bright cloud overshadowed them; and behold, a voice out of the cloud, which said: This is My beloved Son, in Whom I am well pleased; hear ye Him. And when the disciples heard it, they fell on their faces, and were sore afraid. But Jesus came and touched them, and said: Arise, and be not afraid. And when they had lifted up their eyes, they saw no man save Jesus only.
+
+> *The same Collect, Epistle and Gospel shall serve for seven days after, except on the Festival of the Presentation of our Lord in the Temple, when the Collect alone shall be said after that of the Day.*
+
+---
+
+# The Presentation of Our Lord in the Temple, or Candlemas
+
+## The Blessing of the Candles
+
+During the ceremony of the Blessing of the Candles no flowers or other objects should stand on the Altar, and over the white Altar frontal, which is to be used during the Celebration, should be placed another of violet.
+
+The clergy and celebrant in violet vestments and the acolytes enter the chancel by the short way and take their usual places. The ceremony of the Asperges is then performed. When this is finished the Priest, taking the aspergill, sprinkles the candles which lie upon a credence table. He now exorcizes and blesses the candles, saying:
+
+> Let these candles be **+** purified and **+** blessed by Him in Whose honour they shall be burned.
+
+The Priest blesses some incense; the candles are now censed and afterwards distributed by the Priest to the clergy, acolytes and choir. The clergy then group themselves before the Altar and the Priest says:
+
+> Blessed Lord, Who art the Light of the world, grant that as on this day we do receive Thee with glory in Thine earthly Temple, so may the Light of Thy holy Presence ever burn brightly in the Temple of our hearts.  
+> **℟. Amen.**
+
+The Priest now turns to the people and, momentarily extending his hands, says:
+
+> Let us go forth in peace.  
+> **People:** In the Name of the Lord.
+
+### The Procession
+
+The procession starts and moves through the body of the church singing a hymn and passes out into the vestibule. Here the candles are lighted, and the violet vestments changed to white. The Priest, wearing a humeral veil, takes the monstrance containing the Host (which has been taken beforehand to the vestibule, and there guarded by a cleric), and the procession enters the church singing another hymn. Upon reaching the chancel the Altar is dressed, and the violet Altar frontal removed, leaving the white in its place; the monstrance is then placed on its throne. After the celebrant is properly vested the Eucharist begins as usual; it is celebrated before the Exposed Sacrament.
+
+## The Collect
+
+> O LORD, who as on this day didst formally present Thy Body in the Temple of Thy Father, grant that we too may one day be found worthy to stand in His Presence, before the shining Star of Whose glory the Angels veil their faces, praising evermore Three Persons in One God, throughout all ages of ages.  
+> **℟. Amen.**
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the fortieth chapter of the Book of the Prophet Ezekiel, beginning at the fourth verse.*
+
+> AND it was said unto me: Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall show thee; for to the intent that I might show them unto thee art thou brought hither. And he brought me to the gate of the Temple, the gate that looketh toward the east. And behold, the glory of God came from the way of the east; and His Voice was like the voice of many waters, and the earth shone with His glory; and I fell upon my face. And the glory of the Lord came into the house by the way of the gate whose prospect is toward the east. So the Spirit took me up and brought me into the inner court; and behold, the glory of the Lord filled the whole house, and I heard Him speaking unto me. And He said unto me: Son of man, the place of My throne shall be holy, where I will dwell in the midst of My children for ever; the whole limit thereof round about shall be most holy; behold, this is the law of the house. And again I fell upon my face before the glory of the Lord.
+
+*Here endeth the Epistle.*
+
+## The Gospel
+
+*The holy Gospel is taken from the second chapter of that according to St. Luke, beginning at the twenty-second verse.*
+
+> AND when the days of her purification according to the law of Moses were accomplished, they brought Him to Jerusalem to present Him to the Lord. And behold, there was a man in Jerusalem whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel; and the Holy Ghost was upon him. And it was revealed unto him by the Holy Ghost that he should not see death before he had seen the Lord's Christ. And he came by the Spirit into the Temple; and when the parents brought in the child Jesus, to do for Him after the custom of the law, then took he Him up in his arms, and blessed God, and said: Lord, now lettest Thou Thy servant depart in peace, according to Thy word; for mine eyes have seen Thy salvation, which Thou hast prepared before the face of all people, to be a light to lighten the Gentiles, and to be the glory of Thy people Israel. And Joseph and His mother marvelled at those things which were spoken of Him.
+
+---
+
+# St. David's Day
+
+## The Collect
+
+> WE praise Thee, O Lord, for the example and assistance given to us by St. David, and we pray Thee ever to bless with Thy love and protection the land of which he is the Patron, through Christ our Lord, Who liveth and reigneth with Thee and the Holy Ghost, throughout all ages of ages.  
+> **℟. Amen.**
+
+> *The Epistle and Gospel shall be the same as those appointed for the Feast of St. George.*
 ```
