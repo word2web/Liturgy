@@ -1,30 +1,363 @@
-THE CONSECRATION OF A 
-CHURCH 
+*The clergy and acolytes enter the chancel singing a hymn, and group themselves around the Altar, which is uncovered and unadorned.*
 
+---
 
+## The Invocation
 
+**Bishop.** In the Name of the Father, † and of the Son, and of the Holy Ghost.  
+**℟.** Amen.
 
+*A short address appropriate to the occasion may be given by the Bishop, or by one of the clergy appointed for the purpose; or the homily which follows may be read.*
 
-Lhe clergy and acolytes enter the chancel singing a 
-hymn, and group themselves around the Altar, which is 
-uncovered and unadorned. 
+> It is the immemorial custom of holy Church to consecrate the building in which her services are permanently to be held; and it is for this purpose that we are met together to-day. Our first step in this ceremony is to endeavour to purify the mental atmosphere of the building by the use of holy water and of incense, so that worldly thought and influence may be banished from it; and our thoughts during our first procession should be devoted to that end. Having performed the ritual of purification, we call upon Almighty God to consecrate and to hallow all its various parts to the purposes in His service for which they are destined, and to that end we anoint with holy oil certain special centres of influence. In that second procession of consecration our minds should be strongly fixed upon the idea that this Church shall be not only a place free from selfish or worldly thought, but definitely an active centre of good and holy thought—not merely free from evil, but actively good. When this great act of consecration has been duly performed, we at once begin our first Service—the highest and holiest Service that we know—the Holy Eucharist which Christ Himself ordained. In the course of this celebration the third procession will take place, and the sacred Host will be borne round the Church as a crowning benediction. During that time our hearts should be filled with deepest adoration to our Lord and with heartiest thankfulness for His wondrous love. Remember, then, these three keynotes of the different portions of the Service—first purification, secondly consecration, and thirdly adoration and thankfulness.
 
+---
 
-THE INVOCATION 
+## The Purification
 
+**B.** Let us pray.  
+*All kneel.*
 
-Bishop. In the Name of the Father, yy and of the 
-Son, and of the Holy Ghost. R. Amen. 
+> **B.** O God, omnipotent and omnipresent, Who dost deign especially to hallow and to dwell within those places set apart for Thy worship, we pray Thee so to purify this temple by the influence of Thy Holy Spirit, that no evil thought may enter herein. Through Christ our Lord, Who liveth and reigneth with Thee in the unity of the same Holy Spirit, one God throughout all ages of ages.  
+> **℟.** Amen.
 
-A short address appropriate to the occasion may be 
-given by the Bishop, or by one of the clergy appointed 
-‘or the purpose; or the homily which follows may be 
-‘ead. 
+*All rise and the people are seated.*
 
-Tt is the immemorial custom of holy Church to con- 
-ecrate the building in which her services are per- 
-anently to be held; and it is for this purpose that 
-© are met together to-day. Our first step in this 
+### The Purification of the Altar
+
+*The Bishop takes the aspergill, and, standing before the Altar, sprinkles it thrice with holy water; he goes once round the Altar, sprinkling it meanwhile; then he faces the people and asperses them.*
+
+**B.** Let us pray.  
+*The people kneel.*
+
+> **B.** Guide us, O Almighty Father, in all our doings, and from Thy heavenly throne send down Thy holy Angel to be with Thy people who have met together to serve and to worship Thee. Through Christ our Lord.  
+> **℟.** Amen.
+
+*The people are seated.*
+
+### The Procession of Purification
+
+*The procession forms, leaves the chancel by the centre, and encircles the church, the Bishop sprinkling the walls. Meantime a hymn is sung by all.*
+
+*The procession returns to the chancel.*
+
+---
+
+## The Consecration
+
+**B.** Let us pray.  
+*All kneel.*
+
+> **B.** God the Father, God the Son, God the Holy Ghost, † accept, † hallow and † bless this place to the end whereunto we have separated it, even to be a sanctuary of the Most High, and a Church of the Living God. The Lord with His favour graciously regard our work, and so send down His spiritual benediction and grace, that it may be unto Him the house of God, and unto His people worshipping therein the gate of heaven.  
+> **℟.** Amen.
+
+### The Consecration of the Altar
+
+*The people are seated. The Bishop goes to the Altar, and with his thumb makes the sign of the cross with chrism upon the five crosses carved upon the Altar-stone (or upon the Altar itself if it be made of stone). He then anoints the cross of the tabernacle (or the Altar cross) with chrism, and says:*
+
+> O God, Whose wisdom mightily and sweetly ordereth all things, look down, we pray Thee, upon the handiwork of Thy servants, and fill this house with heavenly wisdom, that they who serve Thee here may be so filled with the Spirit of wisdom and a love that they may constantly labour to raise Thy people from the darkness of ignorance to the light of Thy holy truth.
+>
+> Wherefore do we † consecrate and † hallow this Altar to the glory of God, to the perfecting of humanity, and in honour of *His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*\*This will vary according to the dedication of the Church.*
+
+*The Altar is dressed, the chalice and paten arranged upon it as usual, and the candles lighted.*
+
+*The Altar is censed by the Bishop, assisted by his ministers.*
+
+### The Procession of Consecration
+
+*The procession is formed, and leaves the chancel by the centre. The following verses are sung as the procession moves to the cross in the south-east corner:*
+
+> Blessed city, heavenly Salem,  
+> Vision dear of peace and love,  
+> Who of living stones art builded  
+> In the height of heaven above,  
+> And, with Angels hosts encircled,  
+> As a bride doth earthward move;  
+>
+> From celestial realms descending,  
+> Bridal glory round thee shed,  
+> Meet for Him Whose love espoused thee,  
+> To thy Lord shalt thou be led;  
+> All thy streets, and all thy bulwarks  
+> Of pure gold are fashioned.
+
+*The Bishop anoints this cross with chrism, and says:*
+
+> O Thou Whose beauty shineth through the whole universe, grant that as in this Thy shrine we seek to mirror the beauties of Thy celestial glory, so may we continually irradiate our lives with the light of Thine indwelling Presence.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The third verse of the hymn is sung as the procession moves to the cross in the south-west corner:*
+
+> Many a blow and biting sculpture  
+> Polished well those stones elect,  
+> In their places now compacted  
+> By the heavenly Architect,  
+> Who therewith hath willed for ever  
+> That His Palace should be decked.
+
+*The Bishop anoints this cross with chrism, and says:*
+
+> O Thou great Master-Builder, Who hast laid the foundations of the universe in order and symmetry, grant that Thy people may so mould and polish the rude material of their natures, that they may be found just and accurate in Thy sight.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The fourth verse of the hymn is sung as the procession moves to the cross in the west:*
+
+> Christ is made the sure Foundation,  
+> Christ the Head and Corner-stone,  
+> Chosen of the Lord, and precious,  
+> Binding all the Church in one,  
+> Holy Zion's help for ever,  
+> And her confidence alone.
+
+*The Bishop anoints this cross with chrism, and says:*
+
+> O God, the King of Angels, Ruler of all the hosts of heaven, we praise Thee for the help which these Thy radiant servants so joyously do render unto us; may we find strength to unfold within ourselves such courage, such wisdom, and such purity that we may be found worthy to be fellow-workers with them in Thy most glorious service.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The fifth verse of the hymn is sung as the procession moves to the cross in the north-west corner:*
+
+> All that dedicated city,  
+> Dearly loved of God on high,  
+> In exultant jubilation  
+> Pours perpetual melody,  
+> God the One in Three adoring,  
+> In glad hymns eternally.
+
+*The Bishop anoints this cross with chrism, and says:*
+
+> O Christ, the Lord of Love, we lay our hearts upon Thy shrine; in this Thy house of praise may the fervent adoration of Thy servants rise ever before Thee like incense, until the light of their love becomes one with Thine infinite Light.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The sixth verse of the hymn is sung as the procession moves to the cross in the north-east corner:*
+
+> To this Temple, where we call Thee,  
+> Come, O Lord of hosts, to-day;  
+> With Thy wonted lovingkindness  
+> Hear Thy servants, as they pray:  
+> And Thy fullest benediction  
+> Shed within its walls alway.
+
+*The Bishop anoints this cross with chrism and says:*
+
+> O God, Who meetest every man upon that path by which he draweth nigh unto Thee, grant us grace so to see Thee in the hearts of all men, that we may never fail in courtesy and understanding; and as Thou, O Lord, fulfillest Thyself in many ways, so may we rightly discern Thy purpose amidst the tumult of our earthly life.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The seventh verse of the hymn is sung as the procession moves to the cross in the centre:*
+
+> Here vouchsafe to all Thy servants  
+> What they ask of Thee to gain,  
+> What they gain from Thee for ever  
+> With the Blessed to retain,  
+> And hereafter in Thy glory  
+> Evermore with Thee to reign.
+
+*The Bishop anoints this cross with chrism, and says:*
+
+> O God, the Rock of Ages, the strength of all them that put their trust in Thee, we pray Thee graciously to regard our work and to fill this house with Thine almighty power, that they who worship here may be girded with strength for Thy holy service.
+>
+> Wherefore do we † consecrate and † hallow this temple to the glory of God, to the perfecting of humanity, and in honour of His glorious Martyr, the holy St. . . .* In the Name of the † Father, and of the † Son, and of the Holy † Ghost.  
+> **℟.** Amen.
+
+*The eighth verse of the hymn is sung as the procession enters the chancel:*
+
+> Laud and honour to the Father,  
+> Laud and honour to the Son,  
+> Laud and honour to the Spirit,  
+> Ever Three, and ever One,  
+> Consubstantial, co-eternal,  
+> While unending ages run. Amen.
+
+*The Celebration begins as usual.*
+
+---
+
+## The Collect
+
+> O CHRIST our Royal Master, we pray Thee to accept and ever to hallow this temple which we have now dedicated to Thy holy Name; may the incense of praise and thanksgiving rise ever within its walls, and may the lives of those who worship here be truly in accordance with Thy most holy will, Who livest and reignest with the Father in the unity of the Holy Spirit, God throughout all ages of ages.  
+> **℟.** Amen.
+
+*The Collect of the Day and the Collect for Peace follow here.*
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the twenty-first chapter of the Revelation of St. John the Divine, beginning at the second verse.*
+
+> AND I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. And I heard a great voice out of heaven saying: Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people, and God Himself shall be with them, and be their God. And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. And He that sat upon the throne said: Behold, I make all things new.
+
+*Here endeth the Epistle.*
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the sixth verse.*
+
+> JESUS said: I am the Way, the Truth and the Life; no man cometh unto the Father but by Me. He that hath seen Me hath seen the Father; for I am in the Father, and the Father in Me. I and My Father are one; as the Father hath loved Me, so have I loved you; and this is My commandment, that ye love one another, as I have loved you. When the Comforter is come, Whom I will send unto you from the Father, even the Spirit of Truth, Which proceedeth from the Father, He shall testify of Me. And ye also shall bear witness, because ye have been with Me from the beginning. By this shall all men know that ye are My disciples, if ye have love one to another.
+
+---
+
+## The Procession of the Blessed Sacrament
+
+*At the end of the hymn "Adeste Fideles," following the consecration, the Host is placed within the monstrance by the deacon.*
+
+*The people kneel.*
+
+*The procession forms (the Bishop carrying the monstrance, over which a canopy must be held) and moves through the body of the church as the Litany is sung alternately. If it be convenient a Cantor appointed by the Bishop may sing the first, third, fifth, and other verses bearing odd numbers, the even verses being sung by the choir and the people.*
+
+### The Litany
+
+1.  
+> God the Father, seen of none,  
+> God the co-eternal Son,  
+> God the Spirit—Three in One,  
+> Hear us, Holy Trinity.
+
+2.  
+> Son of God and Prince of Light,  
+> Throned in glory, robed in might,  
+> Morning star, serene and bright,  
+> Christ our Lord, we hail Thee.
+
+3.  
+> Captain of the Hosts of Light,  
+> Overcoming sin's dark blight,  
+> Ever-growing splendour bright,  
+> Son of God, we hail Thee.
+
+4.  
+> Thou, before Whose purging ray  
+> Mists of evil fade away;  
+> Orb of everlasting day,  
+> Son of God, we hail Thee.
+
+5.  
+> Thou, Whose wisdom all things planned,  
+> Held by Whose almighty Hand  
+> All things in their order stand,  
+> We, Thy Church, adore Thee.
+
+6.  
+> Thou, Whose life and strength pervade  
+> Whatsoever Thou hast made,  
+> All-Preserver, strong to aid,  
+> We, Thy Church, adore Thee.
+
+7.  
+> Thou Whose beauty, like a star  
+> Throbbing in the void afar,  
+> Only earth-born clouds can mar,  
+> We, Thy Church, adore Thee.
+
+8.  
+> Thou, Whose universal might  
+> Saints acclaim with mystic rite,  
+> Clad in robes of dazzling light,  
+> Christ our Lord, we hail Thee.
+
+9.  
+> Thou for Whom, in heavenly choir,  
+> Angel forms of living fire  
+> Wake the everlasting lyre,  
+> Christ our Lord, we hail Thee.
+
+10.  
+> Lord of Wisdom, from Whose lore  
+> Wisest men of earth may store  
+> Riches new for evermore,  
+> We, Thy Church, adore Thee.
+
+11.  
+> Still in bounty, Lord, bestow  
+> Blessings on Thy Church below,  
+> Till her measure overflow;  
+> King of Glory, hear us.
+
+12.  
+> King of Salem, Priest Divine,  
+> Thou, Whose love hath sealed us Thine  
+> Through Thy mystic Bread and Wine,  
+> We, Thy Church, adore Thee.
+
+13.  
+> Priest and Victim, Whom of old  
+> Type and prophecy foretold,  
+> Thee Incarnate we behold;  
+> Son of God, we hail Thee.
+
+14.  
+> Purged in vision through Thy grace,  
+> We by faith may see Thy face,  
+> Feel Thee near in every place,  
+> Christ our Lord, we hail Thee.
+
+15.  
+> Ruth divine that givest heed  
+> Unto every cry of need,  
+> Healing balm to hearts that bleed,  
+> Help us, Holy Master.
+
+16.  
+> Healer of the souls distressed,  
+> Happiness of all the blest,  
+> Peace of those who long for rest;  
+> We, Thy Church, adore Thee.
+
+17.  
+> Sweet Physician, skilled to heal  
+> Every pang the soul can feel,  
+> Thou that hearest each appeal;  
+> Help us, Holy Master.
+
+18.  
+> Lest by thought or action base,  
+> Ignorant, we slight Thy grace,  
+> Lest we hide from us Thy Face,  
+> Help us, Holy Master.
+
+19.  
+> That our hearts may win release,  
+> That our hands from ill may cease,  
+> That our souls may know Thy peace,  
+> Help us, Holy Master.
+
+20.  
+> That, from selfish lusts made free,  
+> Each, at length, clear-eyed may see—  
+> See, and tread—the path to Thee,  
+> Help us, Holy Master.
+
+21.  
+> Till our pilgrimage complete,  
+> Rest shall come and comfort sweet,  
+> Friend of pilgrims, at Thy Feet,  
+> Son of God, we hail Thee.
+
+22.  
+> God the Father, seen of none,  
+> God the co-eternal Son,  
+> God the Spirit—Three in One,  
+> We are Thine, O Trinity.
+
+*After the procession returns to the chancel, the Eucharistic service is continued to the end.*
+
+---
+
+> **Note:** When it is desirable to use a Church before the Bishop can conveniently attend to consecrate it, the Priest should use the Collect of Purification (p. 386), sprinkling the Altar and Church with holy water, and then the Collect of Consecration (p. 387). The Altar-stone must have been blessed by a Bishop.first step in this 
 
 remony is to endeavour to purify the mental at- 
 nosphere of the building by the use of holy water 
