@@ -1,4 +1,4 @@
-Advent Sunday
+## Advent Sunday
 
 The Collect
 O Christ our Lord, we pray for strength to cast away the works of darkness and put upon us the armour of light, that we may prepare ourselves not only to keep aright Thy holy Feast of Christmas, but also faithfully and acceptably to serve Thee when Thou shalt come again, to Whom we ever offer heartfelt love and worship. R. Amen.
@@ -23,7 +23,7 @@ And take heed to yourselves, lest at any time your hearts be overcharged with su
 
 In your patience possess ye your souls; heaven and earth shall pass away, but My words shall not pass away.
 
-Second Sunday in Advent
+## Second Sunday in Advent
 The Collect
 O God, Creator and Preserver of mankind, we thank Thee for Thy never-failing love, and do most earnestly desire and resolve to show forth Thy praise not only with our lips, but in our lives, by giving up ourselves to Thy service, and by walking before Thee in holiness and righteousness all our days, through Christ our Lord. R. Amen.
 
@@ -51,7 +51,7 @@ To Be Used Throughout the Year
 The Collect, Epistle, and Gospel appointed for the Sunday shall serve all the week after, where it is not in this Book otherwise ordered.
 The Collect appointed for any Sunday or other Feast should be used at the Evening Service of the day before, if that Service be later than six o’clock.
 
-Advent Sunday
+## Advent Sunday
 The Collect
 O Christ our Lord, we pray for strength to cast away the works of darkness and put upon us the armour of light, that we may prepare ourselves not only to keep aright Thy holy Feast of Christmas, but also faithfully and acceptably to serve Thee when Thou shalt come again, to Whom we ever offer heartfelt love and worship. R. Amen.
 
@@ -75,7 +75,7 @@ And take heed to yourselves, lest at any time your hearts be overcharged with su
 
 In your patience possess ye your souls; heaven and earth shall pass away, but My words shall not pass away.
 
-Second Sunday in Advent
+## Second Sunday in Advent
 The Collect
 O God, Creator and Preserver of mankind, we thank Thee for Thy never-failing love, and do most earnestly desire and resolve to show forth Thy praise not only with our lips, but in our lives, by giving up ourselves to Thy service, and by walking before Thee in holiness and righteousness all our days, through Christ our Lord. R. Amen.
 
@@ -97,7 +97,7 @@ So is the kingdom of God, as if a man should cast seed into the ground and shoul
 
 Whereunto shall we liken the kingdom of God? Or with what comparison shall we compare it? It is like a grain of mustard seed, which when it is sown in the earth is less than all the seeds that be in the earth; but when it is sown it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.
 
-Third Sunday in Advent
+## Third Sunday in Advent
 The Collect
 Grant us, O Lord, so to prepare and make ready Thy way, by turning the hearts of the disobedient to the wisdom of the just, that when Thou shalt come to teach the world, the ground may be found fit for Thy sowing, Thou Who art the Teacher alike of Angels and of men. R. Amen.
 
@@ -115,7 +115,7 @@ The holy Gospel is taken from the first chapter of that according to St. Mark, b
 
 THE beginning of the Gospel of Jesus Christ the Son of God; as it is written in the prophets: Behold, I send my messenger before Thy face, which shall prepare Thy way before Thee; the voice of one crying in the wilderness: Prepare ye the way of the Lord, make His paths straight. John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins. And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river Jordan, confessing their sins. And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey; and preached, saying: There cometh after me One mightier than I, the latchet of Whose shoes I am not worthy to stoop down and unloose. I indeed have baptized you with water, but He shall baptize you with the Holy Ghost.
 
-Fourth Sunday in Advent
+## Fourth Sunday in Advent
 The Collect
 Almighty everliving God, we pray Thee to inspire continually Thy universal Church with the spirit of truth, unity and concord, that all they who do confess Thy holy Name may agree in the truth of Thy holy Word, and live in unity and godly love, through Christ our Lord. R. Amen.
 
@@ -133,7 +133,7 @@ JESUS, knowing that the Father had given all things into His hands, and that He 
 
 Amen, Amen, I say unto you: The servant is not greater than his lord; neither he that is sent greater than he that sent him. If ye know these things, happy are ye if ye do them. Amen, Amen, I say unto you: He that receiveth whomsoever I send receiveth Me; and he that receiveth Me receiveth Him that sent Me. A new commandment I give unto you, that ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are My disciples, if ye have love one to another.
 
-Christmas Day
+## Christmas Day
 The Nativity of Our Lord
 
 The Collect
@@ -155,7 +155,7 @@ And there were in the same country shepherds abiding in the field, keeping watch
 
 The same Collect, Epistle and Gospel shall serve for every day after until Compline on New Year’s Eve, unless otherwise ordered.
 
-New Year’s Day
+## New Year’s Day
 The Collect
 Almighty God, who hast brought us in safety to the beginning of this year, we humbly beseech Thee that as Thou dost enable us to begin anew the course of our earthly life, so Thou wouldst graciously grant us to spend the days of our lives in Thy holy fear and service, and at last attain everlasting joy; through Jesus Christ our Lord. R. Amen.
 
@@ -197,7 +197,7 @@ He was in the world, and the world was made by Him, and the world knew Him not. 
 
 And the Word was made flesh and dwelt among us (and we beheld His glory, the glory as of the only-begotten of the Father), full of grace and truth.
 
-The Circumcision of Christ
+## The Circumcision of Christ
 (January 1st)
 
 Note: In some traditions, the Feast of the Circumcision coincides with New Year’s Day. Where observed separately, the following may be used.
@@ -217,7 +217,7 @@ The holy Gospel is taken from the second chapter of that according to St. Luke, 
 
 AND when eight days were accomplished for the circumcising of the Child, His Name was called JESUS, which was so named of the Angel before He was conceived in the womb.
 
-The Epiphany of Our Lord
+## The Epiphany of Our Lord
 (January 6th)
 
 The Collect
@@ -247,7 +247,7 @@ When they had heard the king, they departed; and, lo, the star which they saw in
 
 And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
 
-The First Sunday after Epiphany
+## The First Sunday after Epiphany
 (The Baptism of Our Lord)
 
 The Collect
@@ -267,7 +267,7 @@ AND as the people were in expectation, and all men mused in their hearts of John
 
 Now when all the people were baptized, it came to pass that Jesus also being baptized, and praying, the heaven was opened, and the Holy Ghost descended in a bodily shape like a dove upon Him, and a voice came from heaven which said: Thou art My beloved Son; in Thee I am well pleased.
 
-The Second Sunday after Epiphany
+## The Second Sunday after Epiphany
 The Collect
 Almighty and everlasting God, who dost govern all things in heaven and earth, mercifully hear the supplications of Thy people, and grant us Thy peace all the days of our life; through Jesus Christ our Lord. R. Amen.
 
@@ -289,7 +289,7 @@ His mother saith unto the servants: Whatsoever He saith unto you, do it. And the
 
 When the ruler of the feast had tasted the water that was made wine, and knew not whence it was (but the servants which drew the water knew), the governor of the feast called the bridegroom, and saith unto him: Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse; but thou hast kept the good wine until now. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.
 
-The Third Sunday after Epiphany
+## The Third Sunday after Epiphany
 The Collect
 O Lord, we beseech Thee mercifully to receive the prayers of Thy people, and to turn the hearts of sinners to the wisdom of the just, that they may rejoice in the return of health and obtain pardon and peace; through Jesus Christ our Lord. R. Amen.
 
@@ -311,7 +311,7 @@ And when He was entered into Capernaum, there came unto Him a centurion, beseech
 
 When Jesus heard it, He marvelled, and said to them that followed: Verily I say unto you, I have not found so great faith, no, not in Israel. And I say unto you that many shall come from the East and West, and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven.
 
-Septuagesima Sunday
+## Septuagesima Sunday
 (Approximately 17 days before Lent)
 
 The Collect
@@ -335,7 +335,7 @@ So when even was come, the lord of the vineyard saith unto his steward: Call the
 
 But he answered one of them and said: Friend, I do thee no wrong; didst not thou agree with me for a penny? Take that thine is, and go thy way; I will give unto this last even as unto thee. Is it not lawful for me to do what I will with mine own? Is thine eye evil because I am good? So the last shall be first, and the first last.
 
-Sexagesima Sunday
+## Sexagesima Sunday
 (Approximately 10 days before Lent)
 
 The Collect
@@ -361,7 +361,7 @@ And when He had said these things, He cried: He that hath ears to hear, let him 
 
 Now the parable is this: The seed is the word of God. Those by the wayside are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved. They on the rock are they which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away. And that which fell among thorns are they which, when they have heard, go forth and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection. But that on the good ground are they which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
 
-Quinquagesima Sunday
+## Quinquagesima Sunday
 (The Sunday before Ash Wednesday)
 
 The Collect
@@ -389,7 +389,7 @@ And it came to pass that as He was come nigh unto Jericho, a certain blind man s
 
 And they which went before rebuked him that he should hold his peace; but he cried so much the more: Thou Son of David, have mercy on me! And Jesus stood and commanded him to be brought unto Him; and when he was come near, He asked him, saying: What wilt thou that I shall do unto thee? And he said: Lord, that I may receive my sight. And Jesus said unto him: Receive thy sight; thy faith hath made thee whole. And immediately he received his sight, and followed Him, glorifying God; and all the people, when they saw it, gave praise unto God.
 
-Ash Wednesday
+## Ash Wednesday
 (The First Day of Lent)
 
 The Collect
@@ -415,7 +415,7 @@ Amen, Amen, I say unto thee, we speak that we do know, and testify that we have 
 
 The same Collect, Epistle and Gospel shall serve for every day after, unto the next Sunday.
 
-The First Sunday in Lent
+## he First Sunday in Lent
 (Intent: Self-Examination)
 
 The Collect
@@ -437,7 +437,7 @@ GOD so loved the world that He gave His only-begotten Son, that whosoever believ
 
 And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
 
-The Second Sunday in Lent
+## The Second Sunday in Lent
 (Intent: Control of Speech)
 
 The Collect
@@ -459,7 +459,7 @@ WHY beholdest thou the mote that is in thy brother’s eye, but perceivest not t
 
 For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree bring forth good fruit. For every tree is known by his own fruit; for of thorns men do not gather figs, nor of a bramble bush gather they grapes. A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil; for of the abundance of the heart his mouth speaketh.
 
-The Third Sunday in Lent
+## The Third Sunday in Lent
 (Intent: Understanding)
 
 The Collect
@@ -483,7 +483,7 @@ But Jesus stooped down, and with His finger wrote on the ground, as though He he
 
 When Jesus had lifted Himself up, and saw none but the woman, He said unto her: Woman, where are those thine accusers? Hath no man condemned thee? She said: No man, Lord. And Jesus said unto her: Neither do I condemn thee; go, and sin no more.
 
-The Fourth Sunday in Lent
+## The Fourth Sunday in Lent
 (Refreshment Sunday)
 (Intent: Spiritual Refreshment)
 
@@ -508,21 +508,23 @@ One of His disciples, Andrew, Simon Peter’s brother, saith unto Him: There is 
 
 When they were filled, He said unto His disciples: Gather up the fragments that remain, that nothing be lost. Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves which remained over and above unto them that had eaten. Then those men, when they had seen this miracle which Jesus did, said: This is of a truth that prophet which should come into the world.
 
-The Fifth Sunday in Lent, or
+## The Fifth Sunday in Lent, or
 Passion Sunday
 Intent: Humility
 The Altar Cross is veiled in violet gauze.
 The Collect
 O LORD, Who didst lay aside Thy glory, and take upon Thee the earthly robe of mortal flesh, we pray for wisdom to avoid the specious snare of pride, and ever to walk humbly and heedfully in Thy sight, Who livest and reignest with the Father and the Holy Ghost throughout all ages of ages. R. Amen.
+
 The Epistle
 The Epistle is taken from the twelfth chapter of that of St. Paul the Apostle to the Romans, beginning at the second verse.
 BE not conformed to this world, but be ye transformed by the renewing of your mind, that ye may prove what is that good and acceptable and perfect will of God. For I say to every man that is among you not to think of himself more highly than he ought to think, but to think soberly according as God hath dealt to every man the measure of faith. For as we have many members in one body, and all members have not the same office, so we, being many, are one body in Christ, and every one members one of another. Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith; or ministry, let us wait on our ministering; or he that teacheth, on teaching; or he that exhorteth, on exhortation. He that giveth, let him do it with simplicity; he that ruleth, with diligence; he that showeth mercy, with cheerfulness. Dearly beloved, avenge not yourselves, for it is written: Vengeance is Mine, I will repay, saith the Lord. Therefore if thine enemy hunger, feed him; if he thirst, give him drink; in so doing, thou shalt heap coals of fire upon his head. Be not overcome of evil, but overcome evil with good.
 Here endeth the Epistle.
+
 The Gospel
 The holy Gospel is taken from the eighteenth chapter of that according to St. Luke, beginning at the ninth verse.
 HE spake this parable unto certain which trusted in themselves that they were righteous, and despised others: Two men went up into the temple to pray; the one a Pharisee, and the other a publican. The Pharisee stood and prayed thus with himself: God, I thank Thee that I am not as other men are, extortioners, unjust, or even as this publican. I fast twice in the week, I give tithes of all that I possess. And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying: God be merciful to me, a sinner. I tell you, this man went down to his house justified rather than the other; for every one that exalteth himself shall be abased, and he that humbleth himself shall be exalted. And they brought unto Him also infants, that He should touch them; but when His disciples saw it, they rebuked them. But Jesus called them unto Him, and said: Suffer little children to come unto Me, and forbid them not; for of such is the kingdom of God. Amen, I say unto you: Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
-The Sunday Next before Easter, or
-Palm Sunday
+
+## The Sunday Next before Easter, or Palm Sunday
 The Blessing of the Palms
 The procession enters as usual. Upon reaching the chancel the palm branches upon the table are uncovered. The antiphon "Hosanna Filio David" is then sung, as followeth:
 Priest. Hosanna to the Son of David: blessed is He that cometh in the Name of the Lord.
@@ -539,16 +541,19 @@ P. Let us go forth in peace.
 C. In the Name of Christ.
 The procession moves through the church and out of the door singing an appropriate hymn.* The door is closed at the end of the hymn, and the people within turn in its direction and sing the first verse of "All glory, laud, and honour." This verse is repeated by those without the door. The people and choir then sing the next verse, and those on the outside repeat the refrain, which is the same as the first verse. This is done alternately throughout all the verses, all, however, joining in the refrain after the last verse. The cross-bearer then knocks at the church door with the base of the processional cross; the door is immediately opened, and the procession enters singing some appropriate hymn. The Holy Eucharist now begins as usual.
 Hymn 132 is suitable.
+
 The Collect
 O LORD Christ, before Whom in Thy one earthly triumph the children of the Hebrews did cast their votive palms, grant unto Thy faithful servants that in Thine own good time we too may bear the palm of victory, and may be found worthy to stand in Thy holy Presence, Thou Who dwellest ever in the unity of the Father and the Holy Spirit throughout all ages of ages. R. Amen.
 The Epistle
 The portion of Scripture appointed for the Epistle is taken from the nineteenth chapter of the Revelation of St. John the Divine, beginning at the first verse.
 I HEARD a great voice of much people in heaven saying: Alleluia; salvation and glory and honour and power unto the Lord our God, for true and righteous are His judgments. And again they said Alleluia. And the four-and-twenty elders and the four beasts fell down and worshipped God that sat on the Throne, saying: Amen, Alleluia; and a voice came out of the Throne saying: Praise our God, all ye His servants and ye that love Him, both small and great. And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying: Alleluia; for the Lord God Omnipotent reigneth: let us be glad and rejoice and give honour to Him. And I saw heaven opened, and behold a white horse, and he that sat upon him was called Faithful and True. His eyes were as a flame of fire, and on His Head were many crowns; and His name is called The Word of God; and He hath on His vesture and on His thigh a name written: King of Kings and Lord of Lords.
 Here endeth the Epistle.
+
 The Gospel
 The holy Gospel is taken from the twenty-first chapter of that according to St. Matthew, beginning at the first verse.
 WHEN they drew nigh unto Jerusalem and were come to Bethphage unto the Mount of Olives, then sent Jesus two disciples, saying unto them: Go unto the village over against you, and straightway ye shall find an ass tied and a colt with her; loose them and bring them unto Me. And if any man say aught unto you, ye shall say: The Lord hath need of them; and straightway he will send them. And the disciples went and did as Jesus commanded them, and brought the ass and the colt, and put on them their clothes, and they set Him thereon. And a very great multitude spread their garments in the way; others cut down branches from the trees and strewed them in the way. And the multitude that went before and that followed cried, saying: Hosanna to the Son of David: Blessed is He that cometh in the Name of the Lord: Hosanna in the highest. And when He was come into Jerusalem all the city was moved, saying: Who is this? And the multitude said: This is Jesus the prophet of Nazareth of Galilee.
 The same Collect, Epistle and Gospel shall serve for every day until Maundy Thursday.
+
 NOTE ON HOLY WEEK SERVICES
 The traditional services at the conclusion of Holy Week, in which the successive events in the mystery-drama of the Gospels from Thursday to Easter Sunday are portrayed, are an interesting survival of primitive rites of the Church.
 Maundy Thursday takes its name from the opening words of the antiphon Mandatum novum do vobis ("a new commandment I give unto you"), which introduces the ancient ceremony of the washing of the feet. Apart from this ceremony, which is not observed among us, the day is kept in honour of the institution of the Holy Eucharist, and the Celebration is one of festal splendour, with procession of the Blessed Sacrament. On this day also the Bishop, in his cathedral church, consecrates the Holy Oils to be used for the succeeding year.
@@ -556,7 +561,8 @@ On Good Friday the Church commemorates the solemn event of the crucifixion in th
 The traditional offices of this and the following day are protracted by the reading of long passages from the Old Testament, but these are not part of our rite. In the Eastern Church a Mass of the Presanctified is enjoined for all days in Lent, except Saturdays and Sundays.
 In ancient times the people spent the night before Easter in prayer and watching. During this night the water in the baptismal font was blessed and catechumens were baptized in readiness to share in the Celebration of the Resurrection at dawn. In preparation for all this, long discourses and scripture readings were given for the edification of the faithful. Part of the symbolism, also, was the blessing of the new fire, and the lighting therefrom of the paschal candle and the lamps of the church. During the middle ages a tendency to anticipate liturgical events came increasingly and irresistibly into evidence, and now the Roman Catholic Church celebrates the Mass of Resurrection, as well as the blessing of the new fire and of the baptismal font, on the Saturday morning.
 The Liberal Catholic rite has reverted to the older and surely sounder usage of not celebrating the Eucharist of the Resurrection until Easter morning.
-Maundy Thursday
+
+## Maundy Thursday
 White vestments are used, and the purple veil covering the cross during Holy Week is replaced by one of white.
 The Collect
 O GOD, Who in this wonderful Sacrament hast left us a perpetual memorial of Thy love; may we, by the inspiration of Thy Holy Spirit, so reverence the sacred mysteries of Thy Body and Blood, that we may the more worthily receive this Thy most glorious gift and blessing. Through Christ our Lord. R. Amen.
@@ -572,7 +578,9 @@ During the singing of the Adeste Fideles, the Blessed Sacrament is carried round
 At evening a ciborium containing the three Hosts is carried out, in solemn procession if there be an evening service. These, together with some Particles for possible use of the sick, should be reserved in a tabernacle in the sacristy or some other convenient place out of the church. Two of these Hosts are required for the Masses of the Presanctified on Good Friday and Holy Saturday respectively, and the third is to be placed in the tabernacle of the high Altar before the first Celebration on Easter Day, or on Saturday evening, if the first Vespers of Easter and Benediction be celebrated.
 After the evening service the Altars are stripped of flowers, cloths and frontals, the tabernacle door left open, and the cross again veiled in violet.
 The Office of Blessing the Oils on Maundy Thursday will be found later in this Book.
-Good Friday
+
+
+## Good Friday
 The Altar is covered with a plain linen cloth and violet frontal, but otherwise unadorned. No candles are lighted. If convenient, Prime may be sung before the special service of the Day. If that be done the lessons which follow shall be used as the First and Second Lessons at Prime in place of the Epistle and Gospel.
 The First Lesson
 The First Lesson is taken from the fifty-eighth chapter of the Book of the Prophet Isaiah, beginning at the third verse.
@@ -596,6 +604,7 @@ The Epistle is taken from the first chapter of the Second Epistle of St. Paul th
 
 BLESSED be God, even the Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort, Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble by the comfort wherewith we ourselves are comforted of God. For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ. And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer; or whether we be comforted, that also is for your consolation and salvation. And our hope of you is steadfast, knowing that as ye are partakers of the sufferings, so shall ye be also of the consolation.
 Here endeth the Epistle.
+
 The Gospel
 The holy Gospel is taken from the ninth chapter of that according to St. Luke, beginning at the eighteenth verse.
 AND Jesus asked His disciples: Whom say the people that I am? They answering said: John the Baptist; but some say Elias; and others say that one of the old prophets is risen again. He said unto them: But whom say ye that I am? Peter answering said: The Christ of God. And He straitly charged them, and commanded them to tell to no man that thing, saying: The Son of Man must suffer many things, and be rejected by the elders and chief priests and Scribes, and be slain, and be raised the third day. And He said to them all: If any man will come after Me, let him deny himself and take up his cross daily, and follow Me. For whosoever doth not bear his cross and come after Me, cannot be My disciple. Likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be My disciple. For whosoever will save his life shall lose it; but whosoever will lose his life for My sake, the same shall save it.
@@ -713,7 +722,7 @@ The holy Gospel is taken from the twenty-seventh chapter of that according to St
 WHEN the even was come, there came a rich man of Arimathea, named Joseph, who also himself was Jesus' disciple. He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered. And when Joseph had taken the body, he wrapped it in a clean linen cloth, and laid it in his own new tomb, which he had hewn out in the rock; and he rolled a great stone to the door of the sepulchre, and departed. And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre. Now the next day that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate, saying: Sir, we remember that that deceiver said, while He was yet alive: After three days I will rise again. Command therefore that the sepulchre be made sure until the third day, lest His disciples come by night and steal Him away, and say unto the people: He is risen from the dead: so the last error shall be worse than the first. Pilate said unto them: Ye have a watch; go your way, make it as sure as ye can. So they went and made the sepulchre sure, sealing the stone, and setting a watch.
 The sermon, if there is to be one, is given here. Then the procession is formed to bring in the Presanctified Host, and the remainder of the service follows exactly the course of that of the preceding day.
 
-Easter Day
+## Easter Day
 The Collect
 O GOD of Love, we praise Thee, we bless Thee,
 with all our hearts do we thank Thee and magnify
@@ -733,7 +742,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the twenty-eighth chapter of that according to St. Matthew, beginning at the first verse.
 AS it began to dawn towards the first day of the week came Mary Magdalene and the other Mary to see the sepulchre. And, behold, there was a great earthquake, for the Angel of the Lord descended from heaven, and came and rolled back the stone from the door and sat upon it. His countenance was like lightning, and his raiment white as snow, and for fear of him the keepers did shake, and became as dead men. And the Angel said unto the women: Fear not ye, for I know that ye seek Jesus, Who was crucified. He is not here; He is risen, as He said. Come, see the place where the Lord lay. And go quickly and tell His disciples that He is risen from the dead. And they departed quickly from the sepulchre with fear and great joy, and did run to bring His disciples word. And as they went to tell His disciples, behold, Jesus met them, saying: All hail. And they came and took Him by the feet, and worshipped Him.
-The First Sunday after Easter, or Low Sunday
+
+## The First Sunday after Easter, or Low Sunday
 The Collect
 O LORD Christ, by Whose eternal Sacrifice we exist, and in Whose victory we triumph, grant that, in joy or in sorrow, we may never lose our grateful memory of Thine unchanging love, Who livest and reignest God throughout all ages.
 ℟ Amen.
@@ -745,7 +755,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the twenty-fourth chapter of that according to St. Luke, beginning at the thirteenth verse.
 BEHOLD, two of His disciples went that same day to a village called Emmaus, which was from Jerusalem about three-score furlongs. And they talked together of all these things which had happened. And it came to pass that, while they communed together and reasoned, Jesus Himself drew near, and went with them. But their eyes were holden, that they should not know Him. And He said unto them: What manner of communications are these that ye have one to another, as ye walk, and are sad? And the one of them, whose name was Cleopas, answering, said unto Him: Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days? And He said unto them: What things? And they said unto Him: Concerning Jesus of Nazareth, Who was a prophet mighty in deed and word, before God and all the people; and how the chief priests and our rulers delivered Him to be condemned to death, and have crucified Him. But we trusted that it had been He which should have redeemed Israel; and, besides all this, to-day is the third day since these things were done. Yea, and certain women also of our company made us astonished, which were early at the sepulchre; and when they found not His body, they came, saying that they had also seen a vision of Angels, which said that He was alive. And certain of them which were with us went to the sepulchre, and found it even so as the women had said; but Him they saw not. Then He said unto them: O fools and slow of heart to believe all that the prophets have spoken; ought not Christ to have suffered these things, and to enter into His glory? And, beginning at Moses, and all the prophets, He expounded unto them in all the Scriptures the things concerning Himself. And they drew nigh unto the village whither they went, and He made as though He would have gone further; but they constrained Him, saying: Abide with us, for it is towards evening, and the day is far spent. And He went in to tarry with them. And it came to pass, as He sat at meat with them, He took bread, and blessed it, and brake, and gave it to them. And their eyes were opened, and they knew Him, and He vanished out of their sight. And they said one to another: Did not our heart burn within us while He talked with us by the way, and while He opened to us the Scriptures? And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them, saying: The Lord is risen indeed and hath appeared to Simon. And they told what things were done in the way, and how He was known of them in breaking of bread.
-The Second Sunday after Easter
+
+## The Second Sunday after Easter
 The Collect
 O LORD Christ, the Sun of Righteousness, Who as at holy Eastertide didst rise from the darkness of death to shine with exceeding glory upon Thy people, hasten Thou Thy Coming, we pray Thee, that once more that brightness may rise upon our longing eyes, and that all the earth may be filled with Thy glory, even as the waters cover the sea, Thou Who dwellest ever in the unity of the Father and the Holy Ghost throughout all ages of ages.
 ℟ Amen.
@@ -756,7 +767,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the twentieth chapter of that according to St. John, beginning at the nineteenth verse.
 THE same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them: Peace be unto you. And when He had so said, He showed unto them His hands and His side. Then were the disciples glad when they saw the Lord. Then said Jesus to them again: Peace be unto you; as My Father hath sent Me, even so send I you. And when He had said this, He breathed on them, and saith unto them: Receive ye the Holy Ghost. Whosesoever sins ye remit, they are remitted unto them; and whosesoever sins ye retain, they are retained.
-The Third Sunday after Easter
+
+## The Third Sunday after Easter
 The Collect
 O LORD Christ, as Thou didst at this season rise from death into the wondrous power of an endless life, so may we by Thy most gracious help rise from the darkness of sin into the ineffable splendour of conscious life in Thee, O Light of Light, Who livest and reignest for evermore.
 ℟ Amen.
@@ -767,7 +779,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the twenty-fourth chapter of that according to St. Luke, beginning at the thirty-sixth verse.
 JESUS Himself stood in the midst of them, and saith unto them: Peace be unto you. And He said: These are the words which I spake unto you while I was yet with you, that all things must be fulfilled which were written in the law of Moses and in the Prophets and in the Psalms concerning Me. Then opened He their understanding, that they might understand the Scriptures, and said unto them: Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day; and that repentance and remission of sins should be preached in His Name among all nations, beginning at Jerusalem. And ye are witnesses of these things.
-The Fourth Sunday after Easter
+
+## The Fourth Sunday after Easter
 The Collect
 O CHRIST our Lord and Master, grant that as Thou hast risen from the dead, Thy people may rise from ignorance to the firm ground of true knowledge, and thence press onwards towards the mount of heavenly wisdom, where fair peace forever dwells, Thou Who livest and reignest throughout the ages of ages.
 ℟ Amen.
@@ -778,7 +791,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the sixteenth chapter of that according to St. Mark, beginning at the first verse.
 WHEN the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun. And they said among themselves: Who shall roll us away the stone from the door of the sepulchre? And when they looked they saw that the stone was rolled away; for it was very great. And, entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment, and they were affrighted. And he saith unto them: Be not affrighted; ye seek Jesus of Nazareth Which was crucified. He is risen; He is not here; behold the place where they laid Him. But go your way, tell His disciples and Peter that He goeth before you into Galilee: there shall ye see Him, as He said unto you.
-The Fifth Sunday after Easter
+
+## The Fifth Sunday after Easter
 The Collect
 LORD Christ, Whose wondrous triumph Thy faithful people year by year do celebrate, we pray Thee that as the years roll on we also may triumph over sin, and, following Thy glorious ensample, may rise unto the fullness of our spiritual heritage, O Thou Who livest and reignest with the Father and the Holy Spirit, God throughout all ages of ages.
 ℟ Amen.
@@ -790,7 +804,7 @@ The Gospel
 The holy Gospel is taken from the sixteenth chapter of that according to St. Mark, beginning at the ninth verse.
 NOW when Jesus was risen early the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven devils. And she went and told them that had been with Him, as they mourned and wept. And they, when they heard that He was alive, and had been seen of her, believed not. After that He appeared in another form unto two of them, as they walked, and went into the country. And they went and told it unto the residue: neither believed they them. Afterward He appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen. And He said unto them: Go ye into all the world, and preach the Gospel to every creature.
 
-Ascension Day
+## Ascension Day
 The Collect
 O GOD, the King of glory, we pray Thee that, as Thine only-begotten Son our dear Lord Christ hath ascended into the heavens, we may also in heart and mind thither ascend, and with Him continually dwell, Who liveth and reigneth with Thee and the Holy Ghost, one God, throughout all ages of ages.
 ℟ Amen.
@@ -804,7 +818,8 @@ BEHOLD, I send the promise of My Father upon you: but tarry ye in the city of Je
 The same Collect, Epistle and Gospel shall serve for nine days after.
 After the Gospel on Ascension Day, when the deacon has censed the celebrant, the latter shall reverently extinguish the Paschal Candle, saying:
 The great forty days are over; the Lord hath ascended into heaven; and so in His Name I extinguish this Paschal Candle, which for forty days has symbolized among us His risen body, for a token that as its light, leaving this lower world, passes to higher realms, so may we in heart and mind thither ascend and with Him continually dwell.
-Whitsunday
+
+## Whitsunday
 The Collect
 O GOD, Who as at this time didst teach the hearts of Thy faithful people by the sending to them the light of Thy Holy Spirit, grant us by the same Spirit to have a right judgment in all things, and evermore to rejoice in His holy comfort; through the love of Christ our Master, Who liveth and reigneth with Thee, in the unity of the same Spirit, one God, throughout all ages of ages.
 ℟ Amen.
@@ -815,7 +830,9 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the sixteenth verse.
 JESUS said unto His disciples: I will pray the Father, and He shall give you another Comforter, that He may abide with you for ever; even the Spirit of Truth, Whom the world cannot receive, because it seeth Him not, neither knoweth Him; but ye know Him; for He dwelleth with you, and shall be in you. I will not leave you comfortless; I will come to you. Yet a little while, and the world seeth Me no more; but ye see Me; because I live, ye shall live also. The Comforter, Which is the Holy Ghost, Whom the Father will send in My Name, He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. Peace I leave with you, My peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
-Trinity Sunday
+
+
+## Trinity Sunday
 The Collect
 O ALMIGHTY and everlasting God, Who hast given unto us Thy servants by the confession of a true faith to acknowledge the glory of the eternal Trinity, and in the power of the Divine Majesty to worship the Unity; we pray Thee that Thou wouldest keep us steadfast in this knowledge, and evermore defend us from all error, Who livest and reignest, one God, throughout all ages of ages.
 ℟ Amen.
@@ -826,7 +843,8 @@ Here endeth the Epistle.
 The Gospel
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the sixth verse.
 JESUS said: I am the Way, the Truth, and the Life; no man cometh unto the Father, but by Me. He that hath seen Me hath seen the Father; for I am in the Father, and the Father in Me. I and My Father are one; as the Father hath loved Me, so have I loved you; and this is My commandment, that ye love one another, as I have loved you. When the Comforter is come, Whom I will send unto you from the Father, even the Spirit of Truth, which proceedeth from the Father, He shall testify of Me. And ye also shall bear witness, because ye have been with Me from the beginning. By this shall all men know that ye are My disciples, if ye have love one to another.
-Corpus Christi
+
+## Corpus Christi
 The Collect
 O CHRIST our holy Lord, Who in this wonderful Sacrament of the Altar hast given unto us the grace of Thy perpetual Presence and an abiding memorial of Thy surpassing love; grant us so to receive this Thy most precious gift, that our hearts may be pure in Thy sight and our lives ever dedicated to Thy service, Who livest and reignest with the Father and the Holy Spirit, one God throughout all ages of ages.
 ℟ Amen.
@@ -1039,11 +1057,8 @@ FULFIL ye my joy; be ye likeminded, having the same love, being of one accord, o
 The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the twenty-third verse.
 
 JESUS said: The hour is come that the Son of Man should be glorified. Amen, Amen, I say unto you, except a corn of wheat fall into the ground and die, it abideth alone; but if it die, it bringeth forth much fruit. He that loveth his life shall lose it; and he that careth not for his life in this world shall keep it unto life eternal. If any man serve Me, let him follow Me; and where I am, there shall also My servant be. Father, glorify Thy Name. Then came there a voice from heaven saying: I have both glorified it, and will glorify it again.
-```#
 
-Here is the cleaned and corrected liturgical text formatted in Markdown. I've fixed OCR errors (e.g., "Che" → "The", "Genth/Crinity" → "Tenth/Trinity", stray punctuation/hyphens), removed page artifacts and numbering, restored proper line breaks, and preserved the original liturgical structure and archaic language:
 
-```markdown
 ## The Tenth Sunday after Trinity  
 *Intent: Devotion*
 
@@ -1233,9 +1248,7 @@ GODLINESS with contentment is great gain; for we brought nothing into this world
 The holy Gospel is taken from the eleventh chapter of that according to St. Matthew, beginning at the seventh verse.
 
 JESUS began to say unto the multitudes concerning John: What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? Behold, they that wear soft clothing are in kings' houses. But what went ye out for to see? A prophet? Yea, I say unto you, and more than a prophet. For this is he of whom it is written: Behold, I send My messenger before thy face, which shall prepare thy way before thee. Amen, I say unto you, among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding, he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear.
-```
 
-```markdown
 ## The Tenth Sunday after Trinity  
 *Intent: Devotion*
 
@@ -1734,4 +1747,882 @@ The procession starts and moves through the body of the church singing a hymn an
 > **℟. Amen.**
 
 > *The Epistle and Gospel shall be the same as those appointed for the Feast of St. George.*
-```
+
+
+# St. Patrick’s Day
+
+---
+
+## The Collect
+
+O ALMIGHTY and everlasting God,  
+Who didst give to Thy holy Apostle St. Patrick grace truly to believe and to preach Thy Word;  
+grant unto Thy holy Church to love that Word which he believed,  
+and both to preach and receive the same;  
+through Christ our Lord,  
+Who liveth and reigneth with Thee and the Holy Ghost,  
+ever One God throughout all ages of ages.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the sixty-first chapter of the Book of the Prophet Isaiah, beginning at the first verse.*
+
+THE Spirit of the Lord God is upon me,  
+because the Lord hath anointed me to preach good tidings unto the meek.  
+He hath sent me to bind up the broken-hearted,  
+to proclaim liberty to the captives and the opening of the prison to them that are bound;  
+to proclaim the acceptable year of the Lord,  
+and to comfort all that mourn;  
+to appoint unto them that mourn to give unto them beauty for ashes,  
+the oil of joy for mourning,  
+the garment of praise for the spirit of heaviness;  
+that they might be called trees of righteousness,  
+the planting of the Lord, that He might be glorified.  
+And ye shall be named the priests of the Lord;  
+men shall call you the ministers of our God.  
+Behold, I will greatly rejoice in the Lord;  
+I shall be joyful in my God;  
+for He hath clothed me with the garments of salvation.  
+He hath covered me with the robe of righteousness as a bridegroom decketh himself with ornaments,  
+and as a bride adorneth herself with her jewels.  
+For as the earth bringeth forth her bud,  
+and as the garden causeth the things that are sown in it to spring forth,  
+so the Lord God will cause righteousness and praise to spring forth before all the nations.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the twenty-second chapter of that according to St. Luke, beginning at the twenty-fifth verse.*
+
+AND He said unto them:  
+The kings of the Gentiles exercise lordship over them;  
+and they that exercise authority upon them are called benefactors.  
+But ye shall not be so:  
+he that is greatest among you, let him be as the younger;  
+and he that is chief as he that doth serve;  
+for I am among you as he that serveth.  
+Go ye therefore and teach all nations,  
+baptizing them in the Name of the Father and of the Son and of the Holy Ghost,  
+teaching them to observe all things whatsoever I have commanded you;  
+and lo, I am with you alway, even unto the consummation of the age.
+
+---
+
+---
+
+# The Annunciation of Our Lady
+
+---
+
+## The Collect
+
+WE thank Thee, O God,  
+for that most sweet and laudable pattern set before us by the holy Lady Mary, mother of Jesus,  
+whom Thy holy Church hath ever held up unto her people as a bright ensample of purity and godly life;  
+and we pray that on this the Festival of her Annunciation  
+there may shine forth within us the light of ever-growing purity and holiness,  
+through Christ our Lord.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Book of the Prophet Isaiah, beginning at the fourteenth verse.*
+
+THE Lord Himself shall give you a sign:  
+Behold, a Virgin shall conceive and bear a son, and shall call His Name Emmanuel.  
+And it shall be said:  
+The people that walked in darkness have seen a great light;  
+they that dwell in the land of the shadow of death, upon them hath the light shined.  
+For unto us a Child is born, unto us a Son is given;  
+and the government shall be upon His Shoulder;  
+and His Name shall be called Wonderful, Counsellor, The Mighty God, The Everlasting Father, The Prince of Peace.  
+Of the increase of His government and peace there shall be no end,  
+upon the throne of David and upon his kingdom,  
+to order it and to establish it with judgment and with justice from henceforth even for ever.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the twenty-sixth verse.*
+
+AND in the sixth month the Angel Gabriel was sent from God unto a city of Galilee named Nazareth,  
+to a Virgin espoused to a man whose name was Joseph, of the house of David;  
+and the Virgin’s name was Mary.  
+And the Angel came in unto her, and said:  
+Hail, thou that art highly favoured, the Lord is with thee; blessed art thou among women.  
+And when she saw him she was troubled at his saying,  
+and cast in her mind what manner of salutation this should be.  
+And the Angel said unto her:  
+Fear not, Mary; for thou hast found favour with God.  
+And behold, thou shalt bring forth a Son, and shalt call His name Jesus.  
+He shall be great, and shall be called the Son of the Highest;  
+and the Lord God shall give unto Him the throne of His father David.  
+And He shall reign over the house of Jacob for ever;  
+and of His kingdom there shall be no end.  
+The Holy Ghost shall come upon thee,  
+and the power of the Highest shall overshadow thee:  
+therefore also that holy thing which shall be born of thee shall be called the Son of God.  
+And Mary said:  
+Behold the handmaid of the Lord; be it unto me according to thy word.
+
+---
+
+---
+
+# St. George’s Day
+
+---
+
+## The Collect
+
+WE praise Thee, O Lord,  
+for the example and assistance given to us by Thy holy Martyr St. George;  
+and we pray Thee ever to bless with Thy love and protection the land of which he is the Patron,  
+through Christ our Lord,  
+Who liveth and reigneth with Thee and the Holy Ghost,  
+throughout all ages of ages.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the third chapter of the Book of the Wisdom of Solomon, beginning at the first verse.*
+
+THE souls of the righteous are in the hand of God,  
+and there shall no torment touch them.  
+In the sight of the unwise they seemed to die,  
+and their departure is taken for misery,  
+and their going from us to be utter destruction;  
+but they are in peace.  
+For though they be punished in the sight of men,  
+yet is their hope full of immortality.  
+And having been a little chastised, they shall be greatly rewarded;  
+for God proved them, and found them worthy for Himself.  
+As gold in the furnace hath He tried them,  
+and received them as a burnt offering.  
+They shall judge the nations, and have dominion over the people,  
+and their Lord shall reign for ever.  
+They that put their trust in Him shall understand the truth,  
+and such as be faithful in love shall abide with Him;  
+for grace and mercy is to His saints,  
+and He hath care for His elect.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the sixteenth chapter of that according to St. Matthew, beginning at the twenty-fourth verse.*
+
+THEN said Jesus unto His disciples:  
+If any man will come after Me, let him deny himself, and take up his cross, and follow Me.  
+For whosoever will save his life shall lose it;  
+and whosoever will lose his life for My sake shall find it.  
+For what is a man profited, if he shall gain the whole world, and lose his own soul?  
+or what shall a man give in exchange for his soul?  
+For the Son of Man shall come in the glory of His Father with His Angels;  
+and then He shall reward every man according to his works.
+
+---
+
+---
+
+# Empire Day
+
+---
+
+## The Collect
+
+WE thank Thee, O most mighty Lord,  
+for this great Empire which Thy hands have builded;  
+may we who love it labour to uphold its honour by nobility of life,  
+each seeking not advantage for himself,  
+but working with true heart and fervent zeal to aid the common good,  
+that peace and brotherhood may reign throughout the world;  
+through Christ our Holy Lord.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The Epistle is taken from the twelfth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the twelfth verse.*
+
+AS the body is one and hath many members,  
+and all the members of that body, being many, are one body;  
+so also is Christ.  
+For by one Spirit we are all baptized into one body,  
+whether we be Jews or Gentiles, whether we be bond or free,  
+and have been all made to drink into one Spirit.  
+For the body is not one member, but many;  
+and the eye cannot say unto the hand: I have no need of thee;  
+nor again the head to the feet: I have no need of you.  
+There should be no schism in the body,  
+but the members should have the same care one for another.  
+And where one member suffers, all the members suffer with it;  
+or one member be honoured, all the members rejoice with it.  
+Now ye are the body of Christ and members in particular.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The Holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the sixty-eighth verse.*
+
+BLESSED be the Lord God of Israel,  
+for He hath visited and redeemed His people,  
+and hath raised up a mighty salvation for us in the house of His servant David,  
+as He spake by the mouth of His holy Prophets, which have been since the world began:  
+that we should be saved from our enemies and from the hands of all that hate us,  
+to perform the mercy promised to our forefathers,  
+and to remember His holy Covenant;  
+to perform the oath which He sware to our forefather Abraham,  
+that He would give us that we, being delivered out of the hands of our enemies,  
+might serve Him without fear in holiness and righteousness before Him, all the days of our life.  
+And thou, child, shalt be called the prophet of the Highest,  
+for thou shalt go before the face of the Lord to prepare His ways;  
+to give knowledge of salvation unto His people for the remission of their sins,  
+through the tender mercy of our God,  
+whereby the day-spring from on high hath visited us,  
+to give light to them that sit in darkness and in the shadow of death,  
+and to guide our feet into the way of peace.
+
+---
+
+---
+
+# St. Alban’s Day
+
+---
+
+## The Collect
+
+WE praise Thee, O Lord,  
+for the example and assistance given to us by Thy holy Martyr St. Alban;  
+and we pray Thee ever to bless with Thy love and protection the land in which he was the first to die for Christ’s sake;  
+through the same Christ our Lord.  
+**R.** Amen.
+
+> **In countries where the Liberal Catholic Church has adopted St. Alban as its Patron, the following Collect shall be substituted for the foregoing:**
+
+WE praise Thee, O Lord,  
+for the example and assistance given to us by Thy holy Martyr St. Alban, the Patron of our Church,  
+and we pray Thee that under his protection Thy Church in this land may continually serve Thee in all good works,  
+through Christ our Lord.  
+**R.** Amen.
+
+*The Epistle and Gospel shall be the same as those appointed for the Feast of St. George.*
+
+---
+
+---
+
+# St. John Baptist’s Day
+
+---
+
+## The Collect
+
+O CHRIST our Lord,  
+Who as at this time sentest forth Thy servant John the Baptist to prepare Thy way before Thee;  
+accept us now, we pray Thee, unworthy though we be,  
+as heralds of Thy glorious Coming,  
+that by devotion, steadfastness, and gentleness we too may win men’s hearts to Thee,  
+Whom we confess as Lord and Master, now and evermore.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the fortieth chapter of the Book of the Prophet Isaiah, beginning at the third verse.*
+
+THE voice of him that crieth in the wilderness:  
+Prepare ye the way of the Lord, make straight in the desert a highway for our God.  
+Every valley shall be exalted, and every mountain and hill shall be made low,  
+and the crooked shall be made straight, and the rough places plain.  
+And the glory of the Lord shall be revealed, and all flesh shall see it together:  
+for the mouth of the Lord hath spoken it.  
+The grass withereth, the flower fadeth;  
+but the word of our God shall stand for ever.  
+Behold, the Lord God will come with strong hand, and His arm shall rule for Him:  
+behold, His reward is with Him, and His work before Him.  
+He shall feed His flock like a shepherd;  
+He shall gather the lambs with His arm, and carry them in His bosom,  
+and shall gently lead those that are with young.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the sixty-eighth verse.*
+
+BLESSED be the Lord God of Israel,  
+for He hath visited and redeemed His people,  
+and hath raised up a mighty salvation for us in the house of His servant David;  
+as He spake by the mouth of His holy Prophets, which have been since the world began;  
+that we should be saved from our enemies, and from the hands of all that hate us;  
+to perform the mercy promised to our forefathers,  
+and to remember His holy covenant;  
+that we, being delivered out of the hands of our enemies,  
+might serve Him without fear, in holiness and righteousness before Him, all the days of our life.  
+And thou, child, shalt be called the Prophet of the Highest,  
+for thou shalt go before the face of the Lord to prepare His ways;  
+to give knowledge of salvation unto His people for the remission of their sins,  
+through the tender mercy of our God,  
+whereby the day-spring from on high hath visited us;  
+to give light to them that sit in darkness, and in the shadow of death,  
+and to guide our feet into the way of peace.
+
+---
+
+---
+
+# St. Peter and the Holy Apostles
+
+---
+
+## The Collect
+
+WE thank Thee, Lord,  
+for the teaching and example of Thy holy Apostles,  
+and we pray that those to whom their wondrous power has descended  
+may ever be filled with Thy wisdom and Thy love,  
+that under their firm guidance Thy holy Church may ever joyfully serve the Father, Son, and Holy Ghost,  
+One God for evermore.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the twelfth chapter of the Acts of the Apostles, beginning at the fifth verse.*
+
+PETER therefore was kept in prison;  
+but prayer was made without ceasing of the Church unto God for him.  
+The same night Peter was sleeping between two soldiers, bound with two chains;  
+and the keepers before the door kept the prison.  
+And behold, the Angel of the Lord came upon him, and a light shined in the prison;  
+and he smote Peter on the side, and raised him up, saying:  
+Arise up quickly.  
+And his chains fell off from his hands.  
+And the Angel said unto him:  
+Gird thyself, and bind on thy sandals;  
+and so he did.  
+And he saith unto him:  
+Cast thy garment about thee, and follow me.  
+And he went out and followed him,  
+and wist not that it was true which was done by the Angel,  
+but thought he saw a vision.  
+When they were past the first and the second ward,  
+they came unto the iron gate that leadeth unto the city,  
+which opened to them of his own accord;  
+and they went out, and passed on through one street,  
+and forthwith the Angel departed from him.  
+And when Peter was come to himself, he said:  
+Now I know of a surety that the Lord hath sent His Angel,  
+and hath delivered me out of the hand of Herod,  
+and from all the expectation of the people of the Jews.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the sixteenth chapter of that according to St. Matthew, beginning at the thirteenth verse.*
+
+WHEN Jesus came into the coasts of Caesarea Philippi,  
+He asked His disciples, saying:  
+Whom do men say that I, the Son of Man, am?  
+And they said:  
+Some say that Thou art John the Baptist, some Elias, and others Jeremias, or one of the prophets.  
+He saith unto them:  
+But whom say ye that I am?  
+And Simon Peter answered and said:  
+Thou art Christ, the Son of the living God.  
+And Jesus answered and said unto him:  
+Blessed art thou, Simon Barjona;  
+for flesh and blood hath not revealed it unto thee, but My Father Which is in heaven.  
+And I say also unto thee, that thou art Peter,  
+and upon this rock I will build My Church;  
+and the gates of hell shall not prevail against it.  
+And I will give unto thee the keys of the kingdom of heaven,  
+and whatsoever thou shalt bind on earth shall be bound in heaven;  
+and whatsoever thou shalt loose on earth shall be loosed in heaven.
+
+---
+
+---
+
+# The Assumption of Our Lady
+
+---
+
+## The Collect
+
+O LORD Christ,  
+Who for her wondrous humility and purity hast exalted the holy Lady Mary among the hosts of heaven;  
+grant that we, Thy people, may so follow that her most noble example,  
+that we may at the latter end be found worthy to serve Thee even as do Thy holy Angels,  
+Thou Who livest and reignest in glory for evermore.  
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the ninth chapter of the Book of the Wisdom of Solomon, beginning at the first verse.*
+
+O GOD of my fathers,  
+Who hast made all things with Thy word,  
+give me wisdom, that sitteth by Thy throne,  
+and reject me not from among Thy children.  
+For though a man be never so perfect among the children of men,  
+yet if Thy wisdom be not with him, he shall be nothing regarded.  
+For wisdom was with Thee, which knoweth Thy works,  
+and was present when Thou madest the world,  
+and knew what was acceptable in Thy sight, and right in Thy commandments.  
+O send her out of Thy holy heavens,  
+and from the throne of Thy glory,  
+that being present, she may labour with me,  
+that I may know what is pleasing unto Thee.  
+For she knoweth and understandeth all things,  
+and she shall lead me soberly in my doings,  
+and preserve me in her power;  
+so shall my works be acceptable.  
+For who can think what the will of the Lord is,  
+and Thy counsel who hath known,  
+except Thou give wisdom, and send Thy Holy Spirit from above?  
+So the ways of them which lived on the earth were reformed,  
+and men were taught the things that are pleasing unto Thee,  
+and were saved through wisdom.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the twenty-sixth verse.*
+
+AND in the sixth month the Angel Gabriel was sent from God unto a city of Galilee named Nazareth,  
+to a Virgin espoused to a man whose name was Joseph, of the house of David;  
+and the Virgin’s name was Mary.  
+And the Angel came in unto her, and said:  
+Hail, thou that art highly favoured, the Lord is with thee; blessed art thou among women.  
+And when she saw him she was troubled at his saying,  
+and cast in her mind what manner of salutation this should be.  
+And the Angel said unto her:  
+Fear not, Mary; for thou hast found favour with God.  
+And behold, thou shalt bring forth a Son, and shalt call His name Jesus.  
+He shall be great, and shall be called the Son of the Highest;  
+and the Lord God shall give unto Him the throne of His father David.  
+And He shall reign over the house of Jacob for ever;  
+and of His kingdom there shall be no end.  
+The Holy Ghost shall come upon thee,  
+and the power of the Highest shall overshadow thee:  
+therefore also that holy thing which shall be born of thee shall be called the Son of God.  
+And Mary said:  
+Behold the handmaid of the Lord; be it unto me according to thy word.
+
+*The same Collect, Epistle and Gospel shall serve for seven days after.*
+
+---
+
+---
+
+# The Nativity of Our Lady
+
+*The Collect, Epistle, and Gospel for the Nativity of Our Lady are the same as those for the Annunciation of Our Lady.*
+
+Here is your cleaned and formatted Markdown text, with OCR errors corrected and sections clearly organized:
+
+---
+
+# The Nativity of Our Lady
+
+---
+
+## The Collect
+
+WE thank Thee, O God,
+for that most sweet and laudable pattern set before us by the holy Lady Mary, mother of Jesus,
+whom Thy holy Church hath ever held up unto her people as a bright ensample of purity and godly life;
+and we pray that on this the Festival of her Nativity
+there may shine forth within us the light of ever-growing purity and holiness,
+through Christ our Lord.
+**R.** Amen.
+
+---
+
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the eighth chapter of the Book of the Wisdom of Solomon, beginning at the first verse.*
+
+WISDOM reacheth from one end of the world to the other;
+mightily and sweetly doth she order all things.
+In that she is conversant with God, she hath magnified her nobility;
+yea, the Lord of all things Himself loved her.
+For she is privy to the mysteries of the knowledge of God,
+and a lover of His works.
+If riches be a possession to be desired in this life,
+what is richer than wisdom, that worketh all things?
+And if prudence work, who of all that are is a more cunning worker than she?
+If a man love righteousness, her labours are virtues;
+for she teacheth temperance and prudence, justice and fortitude,
+than which men can have nothing more profitable in their life.
+By means of her I shall obtain immortality,
+for she is the mother of fair love, and of patience and perseverance, and of holy hope.
+Thou shalt put her on as a robe of honour,
+and shalt put her about thee as a crown of joy.
+
+**Here endeth the Epistle.**
+
+---
+
+## The Gospel
+
+*The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the thirty-ninth verse.*
+
+MARY arose in those days, and went into the hill country,
+into a city of Juda, and entered into the house of Zacharias, and saluted Elizabeth.
+And it came to pass that when Elizabeth heard the salutation of Mary,
+she was filled with the Holy Ghost,
+and she spake out with a loud voice, and said:
+Blessed art thou among women, and blessed is the fruit of thy womb.
+Whence is this to me, that the mother of my Lord should come to me?
+For lo! as soon as the voice of thy salutation sounded in mine ears,
+the babe leaped in my womb for joy.
+Blessed is she that believeth;
+for there shall be a performance of those things which were told her from the Lord.
+And Mary said:
+My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour.
+For He hath regarded the lowliness of His handmaiden;
+for behold, from henceforth all generations shall call me blessed.
+For He that is mighty hath magnified me; and holy is His Name.
+
+---
+
+---
+# St. Michael and All Angels
+
+---
+
+## The Collect
+
+ALMIGHTY and everlasting God,
+with all our hearts we praise Thee for the great glory of Thy most holy Angels;
+we thank Thee for their wonderful wisdom, their supreme strength, their radiant beauty;
+and, as their resistless power is used always and utterly in Thy service,
+so may we, following zealously their resplendent example,
+devote ourselves wholly to the helping of our brethren,
+through Christ our Lord.
+**R.** Amen.
+
+---
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the seventh and eighth chapters of the Revelation of St. John the Divine.*
+
+I SAW the seven Angels which stood before God;
+and to them were given seven trumpets.
+And another Angel came and stood at the Altar, having a golden censer;
+and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden Altar which was brought before the throne.
+And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the Angel’s hand.
+
+And all the Angels stood round about the throne,
+and about the elders and the four beasts,
+and fell before the throne on their faces, and worshipped God, saying:
+Amen; blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever.
+Amen.
+
+**Here endeth the Epistle.**
+
+---
+## The Gospel
+
+*The holy Gospel is taken from the eighteenth chapter of that according to St. Matthew, beginning at the first verse.*
+
+THEN came the disciples unto Jesus, saying:
+Who is the greatest in the Kingdom of heaven?
+And Jesus called a little child unto Him, and set him in the midst of them, and said:
+Amen, I say unto you, except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
+Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
+And whoso shall receive one such little child in My Name receiveth Me.
+But whoso shall offend one of these little ones which believe in Me,
+it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
+Woe unto the world because of offences;
+for it must needs be that offences come, but woe to that man by whom the offence cometh.
+Take heed that ye despise not one of these little ones;
+for I say unto you, that in heaven their Angels do always behold the face of My Father which is in heaven.
+
+*The same Collect, Epistle and Gospel shall serve for six days after, but on the seventh day those of the Third Sunday after Trinity shall be used.*
+
+---
+
+---
+# All Saints’ Day
+
+---
+## The Collect
+
+O ALMIGHTY God,
+Who hast knit together Thy servants in one communion and fellowship in the mystical body of Thy Son, Christ our Lord;
+may we so follow Thy blessed saints in all virtuous and godly living,
+that we may come to the unspeakable joys which Thou hast prepared for those who unfeignedly love Thee,
+through Christ our Lord.
+**R.** Amen.
+
+---
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Revelation of St. John the Divine, beginning at the ninth verse.*
+
+I BEHELD, and lo, a great multitude, which no man could number, of all nations and kindreds, and people, and tongues, stood before the throne and before the Lamb, clothed with white robes and palms in their hands, and cried with a loud voice, saying:
+Salvation to our God Which sitteth upon the throne, and unto the Lamb.
+And all the Angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God, saying:
+Amen. Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever.
+Amen.
+And one of the elders said unto me:
+What are these which are arrayed in white robes, and whence came they?
+These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+Therefore are they before the throne of God, and serve Him day and night in His Temple;
+and He that sitteth on the throne shall dwell among them.
+They shall hunger no more, neither thirst any more;
+neither shall the sun light on them, nor any heat.
+For the Lamb which is in the midst of the throne shall feed them,
+and shall lead them unto living fountains of waters;
+and God shall wipe away all tears from their eyes.
+
+**Here endeth the Epistle.**
+
+---
+## The Gospel
+
+*The holy Gospel is taken from the twenty-fifth chapter of that according to St. Matthew, beginning at the thirty-fourth verse.*
+
+THEN shall the King say unto them on His right hand:
+Come, ye blessed of My Father, inherit the kingdom prepared for you from the foundation of the world.
+For I was an hungred, and ye gave Me meat;
+I was thirsty, and ye gave Me drink;
+I was a stranger and ye took Me in,
+naked and ye clothed Me,
+I was sick and ye visited Me,
+I was in prison and ye came unto Me.
+Then shall the righteous answer Him, saying:
+Lord, when saw we Thee an hungred, and fed Thee, or thirsty and gave Thee drink?
+When saw we Thee a stranger and took Thee in, or naked and clothed Thee?
+Or when saw we Thee sick, or in prison, and came unto Thee?
+And the King shall answer and say unto them:
+Amen, I say unto you, inasmuch as ye have done it unto one of the least of these My brethren, ye have done it unto Me.
+
+*The same Collect, Epistle and Gospel shall serve for seven days after, except on the Holy Day of All Souls, when the Collect alone shall be said after that of the Day.*
+
+---
+
+---
+# All Souls’ Day
+
+---
+## The Collect
+
+O LORD Christ,
+Who hast dominion over the living and the dead,
+and dost hold all Thy people in the everlasting arms of Thy love,
+we thank Thee for the joyous rest which Thou dost give to those who pass through the gateway of death to a fuller life with Thee;
+and we pray Thee that, as Thou didst preach to the spirits in prison,
+so may our earnest efforts avail to bring refreshment, light and peace to those who know Thee not as yet,
+O Lord of the Living Spirit,
+Who with the Father and the Holy Ghost reignest one God for evermore.
+**R.** Amen.
+
+---
+## The Epistle
+
+*The Epistle is taken from the fourth chapter of the First Epistle of St. Paul the Apostle to the Thessalonians, beginning at the thirteenth verse.*
+
+I WOULD not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
+For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with Him;
+so shall we ever be with the Lord.
+Wherefore comfort one another with these words.
+
+**Here endeth the Epistle.**
+
+---
+## The Gospel
+
+*The holy Gospel is taken from the fifth chapter of that according to St. John, beginning at the twenty-fourth verse.*
+
+AMEN, Amen, I say unto you,
+he that heareth My word, and believeth on Him that sent Me, hath everlasting life,
+and shall not come into condemnation;
+but is passed from death unto life.
+Amen, Amen, I say unto you,
+the hour is coming, and now is, when the dead shall hear the voice of the Son of God;
+and they that hear shall live.
+For as the Father hath life in Himself, so hath He given to the Son to have life in Himself,
+and hath given Him authority to execute judgment also, because He is the Son of Man.
+Marvel not at this;
+they that have done good shall come unto the resurrection of life;
+and they that have done evil unto the resurrection of judgment.
+
+Here is your cleaned and formatted Markdown text, with OCR errors corrected and sections clearly organized:
+
+---
+
+# Armistice Day
+
+---
+## The Collect
+
+O ALMIGHTY God,
+the Sovereign Commander of all the world,
+in Whose hand are power and might which none is able to withstand;
+we bless and magnify Thy glorious Name
+for the great peace and victory which Thou didst give us on this most happy day;
+and we pray for wisdom to use the power entrusted to us
+to Thy glory, to the honour of our King and country,
+and to the benefit of all mankind,
+through Christ our Holy Lord.
+**R.** Amen.
+
+---
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the twenty-second chapter of the Second Book of Samuel, beginning at the second verse.*
+
+THE Lord is my rock, my fortress and my deliverer;
+the God of my rock, in Him will I trust;
+He is my shield, my high tower and my refuge.
+In my distress I called upon the Lord;
+He delivered me from my strong enemy, and from them that hated me.
+The Lord was my stay, and He brought me forth also into a large place.
+Thou art my lamp, O Lord; the Lord will lighten my darkness.
+His way is perfect; the word of the Lord is tried;
+He is a buckler to all that trust in Him;
+He is my strength and my power.
+Thou, O Lord, hast given me the shield of Thy salvation,
+and Thy gentleness hath made me great.
+Thou hast lifted me up on high above them that rose up against me;
+Thou hast delivered me from the violent man;
+for the Lord wrought a great victory that day.
+
+**Here endeth the Epistle.**
+
+---
+## The Gospel
+
+*The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the twenty-third verse.*
+
+JESUS said:
+The hour is come that the Son of Man should be glorified.
+Amen, Amen, I say unto you:
+Except a corn of wheat fall into the ground and die, it abideth alone;
+but if it die, it bringeth forth much fruit.
+He that loveth his life shall lose it;
+and he that hateth his life in this world shall keep it unto life eternal.
+If any man serve Me, let him follow Me;
+and where I am, there shall also My servant be.
+And I, if I be lifted up from the earth, will draw all men unto Me.
+
+---
+
+---
+# St. Andrew’s Day
+
+---
+## The Collect
+
+WE praise Thee, O Lord,
+for the example and assistance given to us by Thy holy Martyr St. Andrew,
+and we pray Thee ever to bless with Thy love and protection the land of which he is the Patron,
+through Christ our Lord,
+Who liveth and reigneth with Thee and the Holy Ghost,
+throughout all ages of ages.
+**R.** Amen.
+
+*The Epistle and Gospel shall be the same as those appointed for the Feast of St. George.*
+
+---
+
+---
+# Common of Saints
+
+---
+## The Collect
+
+WE thank Thee, Lord, and praise Thee
+for the encouragement which Thou hast given us by the example of Thy holy Saints;
+and we pray for wisdom and for strength from Thy most Holy Spirit
+to serve Thee even as they did serve,
+Thou Who with the Father livest and reignest in glory
+in the unity of the same Holy Spirit,
+one God throughout all ages of ages.
+**R.** Amen.
+
+---
+## The Epistle
+
+*The portion of Scripture appointed for the Epistle is taken from the forty-second chapter of the Book of the Prophet Isaiah, beginning at the first verse.*
+
+BEHOLD My servant, whom I uphold;
+Mine elect, in whom My soul delighteth;
+I have put My Spirit upon him,
+and he shall bring forth judgment to My people.
+A bruised reed shall he not break,
+and the smoking flax shall he not quench;
+he shall bring forth judgment unto truth.
+He shall not fail nor be discouraged,
+till he have set judgment in the earth,
+and the isles shall wait for his law.
+I the Lord have called thee in righteousness,
+and will hold thine hand, and will keep thee,
+and give thee for a light of the Gentiles,
+to open the blind eyes,
+to bring out the prisoners from the prison,
+and them that sit in darkness out of the prison-house.
+I will lead them in paths that they have not known;
+I will make darkness light before them,
+and crooked things straight.
+These things will I do unto them, and not forsake them.
+
+**Here endeth the Epistle.**
+
+---
+## The Gospel
+
+*The holy Gospel is taken from the fifth chapter of that according to St. Matthew, beginning at the second verse.*
+
+JESUS taught His disciples, saying:
+Blessed are the poor in spirit; for theirs is the kingdom of heaven.
+Blessed are they that mourn; for they shall be comforted.
+Blessed are the meek; for they shall inherit the earth.
+Blessed are they which do hunger and thirst after righteousness; for they shall be filled.
+Blessed are the merciful; for they shall obtain mercy.
+Blessed are the pure in heart; for they shall see God.
+Blessed are the peacemakers; for they shall be called the children of God.
+Blessed are they which are persecuted for righteousness’ sake; for theirs is the kingdom of heaven.
+Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for My sake.
+Rejoice, and be exceeding glad;
+for great is your reward in heaven;
+for so persecuted they the prophets which were before you.
+
+

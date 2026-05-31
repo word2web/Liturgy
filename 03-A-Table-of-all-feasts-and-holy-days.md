@@ -8,7 +8,7 @@
 | The Epiphany                                           | Jan. 6      | A     | White   |
 | Baptism of our Lord                                    | Jan. 15     | C     | White   |
 | Transfiguration                                        | Feb. 7      | A     | White   |
-| Presentation of our Lord in the Temple (Candlemas)    | Feb. 2      | B     | White   |
+| Presentation of our Lord in the Temple (Candlemas)     | Feb. 2      | B     | White   |
 | The First Day of Lent (Ash Wednesday)                  | Movable     | A     | Violet  |
 | *St. David, Archbishop (Wales)                         | Mar. 1      | C     | White   |
 | *St. Patrick, Bishop (Ireland)                         | Mar. 17     | C     | White   |
@@ -29,7 +29,7 @@
 | All Souls’ Day                                         | Nov. 2      | A     | Violet  |
 | *St. Andrew, Apostle (Scotland)                        | Nov. 30     | C     | Red     |
 
-> **Notes:**  
-> - **\*** These Feasts are optional, except in the countries indicated, where they are celebrated as Feasts of the rank of **Class A**.  
+> **Notes:**
+> - **\*** These Feasts are optional, except in the countries indicated, where they are celebrated as Feasts of the rank of **Class A**.
 > - Feasts which have octaves are traditionally printed in *italics* in printed liturgies (though not shown here for simplicity).  
 > - In the British Empire it is customary to hold services of thanksgiving on **Empire Day (May 24)** and **Armistice Day (November 11)**. These are not ranked liturgical feasts but may be observed locally.

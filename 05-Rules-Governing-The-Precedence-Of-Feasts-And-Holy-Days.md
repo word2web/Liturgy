@@ -12,4 +12,4 @@ V. The Dedication Festival of a church has an octave and takes precedence of all
 
 VI. The Festival of the Patron Saint of any church is for that church a Feast of the rank of Class A, and has an octave.
 
-\*Certain Festivals are celebrated for eight days; the eighth day is called the “octave,” the intermediate days being “within the octave.”
+*Certain Festivals are celebrated for eight days; the eighth day is called the “octave,” the intermediate days being “within the octave.*  

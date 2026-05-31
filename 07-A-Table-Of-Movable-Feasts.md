@@ -4,4 +4,5 @@
 - Ascension Day  
 - Whitsunday  
 - Corpus Christi  
-- Sundays after Trinity
+- Sundays after Trinity  
+  

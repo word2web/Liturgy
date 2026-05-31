@@ -1,4 +1,4 @@
-PREFACE
+# PREFACE
 
 Some brief explanation of the principles which have guided the writing of this Liturgy of the Liberal Catholic Church may help the reader to understand its spirit and aim.
 
@@ -53,5 +53,4 @@ The rubrics are designed to indicate sufficiently to the people the sequence of 
 
 —C. W. Leadbeater,
 Presiding Bishop
-The Feast of the Epiphany, 1924
-
+The Feast of the Epiphany, 1924  

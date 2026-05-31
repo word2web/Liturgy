@@ -1,4 +1,4 @@
-# GENERAL INFORMATION 
+# GENERAL INFORMATION  
 
 The Liberal Catholic Church exists to forward the work of her Master Christ in the world, and to feed His flock. It draws the central inspiration of its work from an intense faith in the Living Christ, believing that the vitality of a Church gains in proportion as its members cease to think only of a Christ who lived two thousand years ago, and strive rather to serve as a vehicle for the Eternal Christ, who ever lives as a mighty spiritual Presence in the world, guiding and sustaining His people. “Lo, I am with you alway, even unto the consummation of the age.” “Before Abraham was, I am.”
 
@@ -8,4 +8,4 @@ Regarding the mind as one of the great avenues to spiritual apprehension, it enc
 
 It welcomes to its altars all who reverently and sincerely approach them, erecting no barriers in the nature of standards of dogmatic belief. It has no wish to proselytize, in the aggressive sense, from among the adherents of any other church, and as an earnest of this, welcomes people to regular and full participation in its services without asking or expecting them to leave their original church.
 
-The Liberal Catholic Church is a living Christian Church—“modernist,” in that it maintains that the form of religion should keep pace with human growth and enlightenment; “historic,” in that it holds that the Church has handed down a very precious heritage from Christ Himself.
+The Liberal Catholic Church is a living Christian Church—“modernist,” in that it maintains that the form of religion should keep pace with human growth and enlightenment; “historic,” in that it holds that the Church has handed down a very precious heritage from Christ Himself.  
