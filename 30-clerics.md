@@ -1,5 +1,5 @@
-Here is your cleaned-up and formatted text in Markdown, with OCR errors corrected and structure clarified:
-
+---
+title: "The Ordination of Clerics"
 ---
 
 # The Ordination of Clerics

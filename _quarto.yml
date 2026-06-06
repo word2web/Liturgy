@@ -1,0 +1,62 @@
+project:
+  type: book
+
+book:
+  title: "The Liturgy According to the Use of the Liberal Catholic Church"
+  author: "Liberal Catholic Church"
+  date: "8/18/2021"
+  chapters:
+    - index.md
+    - 01-General-Information.md
+    - 02-Preface.md
+    - 03-A-Table-of-all-feasts-and-holy-days.md
+    - 04-A-Table-of-Sundays.md
+    - 05-Rules-Governing-The-Precedence-Of-Feasts-And-Holy-Days.md
+    - 06-Rule-To-Know-When-Movable-Fests-Occur.md
+    - 07-A-Table-Of-Movable-Feasts.md
+    - 08-Notes-And-Directions.md
+    - 09-Collects-Epistles-Gospels.md 
+    - 10-The-Proper-Graduals-And-Preface-Of-The-Season.md 
+    - 11-Creeds-And-Acts-Of-Faith.md 
+    - 12-The-Celebration-Of-The-Holy-Eucharist.md 
+    - 13-The-Liturgy-Of-the-Holy-Eucharist.md 
+    - 14-A-Shorter-Form.md 
+    - 15-Form-for-Administration-Of-Holy-Communion-With-The-Reserved-Sacrament.md 
+    - 16-vespers.md 
+    - 17-solemn-benediction.md 
+    - 18-prime.md 
+    - 19-complin.md 
+    - 20-baptism.md 
+    - 21-confirmation.md 
+    - 22-holy-matrimony.md 
+    - 23-confession-and-absolution.md 
+    - 24-a-service-of-healing.md 
+    - 25-holy-unction.md 
+    - 26-burial-of-the-dead.md 
+    - 27-requiem-eucharist.md 
+    - 28-holy-orders.md 
+    - 29-minor-orders.md 
+    - 30-clerics.md 
+    - 31-doorkeepers.md 
+    - 32-readers.md 
+    - 33-excorsists.md 
+    - 34-acolytes.md 
+    - 35-subdeacons.md 
+    - 36-deacons.md 
+    - 37-priests.md
+    - 38-bishops.md 
+    - 39-form-of-admission.md 
+    - 40-singer.md 
+    - 41-server.md 
+    - 42-blessings.md 
+    - 43-consecration-of-a-church.md 
+    - 44-occasional-prayers.md 
+    - 45-sermons.md
+
+format:
+    html:
+      theme: cosmo
+    pdf:
+      documentclass: scrreprt
+    epub:
+      cover-image: cover.png

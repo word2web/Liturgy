@@ -1,3 +1,7 @@
+---
+title: "The Admission of a Server"
+---
+
 # The Admission of a Server
 
 ---

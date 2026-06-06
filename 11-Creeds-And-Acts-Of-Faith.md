@@ -1,3 +1,7 @@
+---
+title: "Creeds and Acts of Faith"
+---
+
 # Creeds and Acts of Faith
 
 ## The Nicaeno-Constantinopolitan Creed

@@ -1,3 +1,7 @@
+---
+title: "Rules Governing the Precedence of Feasts and Holy Days"
+---
+
 # Rules Governing the Precedence of Feasts and Holy Days
 
 I. Whenever two Holy Days fall upon the same day, the Collect, Epistle, and Gospel used shall be those of the Day which holds the higher rank, but the Collect of the other shall be recited after that of the Day.
@@ -12,4 +16,4 @@ V. The Dedication Festival of a church has an octave and takes precedence of all
 
 VI. The Festival of the Patron Saint of any church is for that church a Feast of the rank of Class A, and has an octave.
 
-*Certain Festivals are celebrated for eight days; the eighth day is called the “octave,” the intermediate days being “within the octave.*  
+*Certain Festivals are celebrated for eight days; the eighth day is called the “octave,” the intermediate days being “within the octave".*  

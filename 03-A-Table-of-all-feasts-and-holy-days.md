@@ -1,3 +1,7 @@
+---
+title: "A Table of All Feasts and Holy Days"
+---
+
 # A Table of All the Feasts and Holy Days Observed in the Liberal Catholic Church Throughout the Year
 
 | Feast or Holy Day                                      | Date        | Class | Colour  |
@@ -30,6 +34,8 @@
 | *St. Andrew, Apostle (Scotland)                        | Nov. 30     | C     | Red     |
 
 > **Notes:**
-> - **\*** These Feasts are optional, except in the countries indicated, where they are celebrated as Feasts of the rank of **Class A**.
+>
+> - *These Feasts are optional, except in the countries indicated, where they are celebrated as Feasts of the rank of **Class A**
 > - Feasts which have octaves are traditionally printed in *italics* in printed liturgies (though not shown here for simplicity).  
 > - In the British Empire it is customary to hold services of thanksgiving on **Empire Day (May 24)** and **Armistice Day (November 11)**. These are not ranked liturgical feasts but may be observed locally.
+>  

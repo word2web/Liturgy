@@ -1,5 +1,5 @@
-Here is the cleaned and properly formatted liturgical text in Markdown, with OCR errors corrected, line breaks normalized, and structure enhanced for readability while preserving its sacred character:
-
+---
+title: "Solemn Benediction"
 ---
 
 # Benediction of the Most Holy Sacrament

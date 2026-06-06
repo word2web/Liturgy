@@ -1,3 +1,7 @@
+---
+title: "Preface"
+---
+
 # PREFACE
 
 Some brief explanation of the principles which have guided the writing of this Liturgy of the Liberal Catholic Church may help the reader to understand its spirit and aim.
@@ -51,6 +55,6 @@ The rubrics are designed to indicate sufficiently to the people the sequence of 
 
 [The General Information and Preface, together with most of the Notes preceding each of the Services in this Book, are the work of our first Presiding Bishop, the Right Reverend James Ingall Wedgwood, to whom the Liberal Catholic Church owes a debt of the deepest gratitude. To his wide erudition and his indefatigable labours the compilation of this Liturgy is due.]
 
-—C. W. Leadbeater,
+— C. W. Leadbeater,
 Presiding Bishop
 The Feast of the Epiphany, 1924  

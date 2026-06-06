@@ -1,9 +1,15 @@
+---
+title: "Notes and Directions"
+---
+
 # Notes and Directions
 
 ## The Church’s Year
 
-The Church’s year divides itself into two portions.  
+The Church’s year divides itself into two portions.
+
 The first portion, from Advent to Whitsuntide, is devoted to the commemoration of the various scenes in the mystery-drama of the life of Christ, which in itself—as Origen pointed out—is typical of the life of every Christian.  
+
 The second portion, embracing all the Sundays after Trinity, is left for the practice of the virtues inculcated in the former.
 
 It has been thought desirable to assign something in the nature of a leading thought to Sundays in the latter portion not already marked out by the Church, and to certain others in the earlier half of the year. These leading thoughts or intents might have been wider in their range, had it not been for the difficulty of gathering together suitable Epistles and Gospels.

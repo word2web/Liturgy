@@ -1,3 +1,7 @@
+---
+title: "Sermons"
+---
+
 # SERMONS
 
 When sermons are preached in connection with any of the services, it is recommended that they should in all cases be preceded by the Invocation:

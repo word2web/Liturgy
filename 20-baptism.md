@@ -1,5 +1,5 @@
-Here is the cleaned and properly formatted liturgical text for Holy Baptism in Markdown, with OCR errors corrected, structure enhanced for clarity, and all rubrics, prayers, and theological language preserved with reverence:
-
+---
+title: "Holy Baptism"
 ---
 
 # Holy Baptism

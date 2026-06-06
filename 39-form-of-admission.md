@@ -1,10 +1,11 @@
 ---
+title: "A Form of Admission to the Liberal Catholic Church"
+---
 
 # A Form of Admission to the Liberal Catholic Church
 
 *To be used when conditional re-baptism or Confirmation is not administered.*
 
----
 
 The Priest stands at the entrance to the sanctuary, the candidate standing before him.
 

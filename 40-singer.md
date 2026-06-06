@@ -1,9 +1,10 @@
-
+---
+title: "The Admission of a Singer"
 ---
 
 # The Admission of a Singer
 
----
+
 
 The Priest stands at the foot of the Altar steps, the candidate standing before him.
 

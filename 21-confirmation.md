@@ -1,7 +1,6 @@
-Here is the cleaned and properly formatted liturgical text for Confirmation in Markdown, with OCR errors corrected, structure enhanced for clarity, and all rubrics, prayers, and theological language preserved with reverence:
-
 ---
-
+title: "Confirmation"
+---
 # Confirmation
 
 Confirmation is, literally, the making of the person firm or strong in the life in Christ begun at Baptism. It has the two-fold effect of strengthening the soul, and giving it greater power to express itself through the body.
