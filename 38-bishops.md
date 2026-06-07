@@ -1,7 +1,6 @@
 ---
 title: "The Consecration of a Bishop"
 ---
-
 # The Consecration of a Bishop
 
 ---

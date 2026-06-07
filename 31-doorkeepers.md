@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Doorkeepers"
 ---
-
 # The Ordination of Doorkeepers
 
 *At the appointed time those about to be made Doorkeepers are summoned by a Priest, as follows:*

@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Priests"
 ---
-
 # The Ordination of Priests
 
 *The Bishop celebrates the Holy Eucharist, at which the following special Collect and Epistle are used:*

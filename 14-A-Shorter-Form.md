@@ -1,7 +1,6 @@
 ---
 title: "A Shorter Form for the Celebration of the Holy Eucharist"
 ---
-
 # A Shorter Form for the Celebration of the Holy Eucharist
 
 ---

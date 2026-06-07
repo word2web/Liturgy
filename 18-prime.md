@@ -1,7 +1,6 @@
 ---
 title: "Prime"
 ---
-
 # Prime
 
 As already indicated in the introduction to Vespers, Prime is one of the morning, and Compline one of the evening, Offices of the Church. The greater services, such as the Holy Eucharist, Vespers and Benediction, are intended principally to pour out spiritual strength upon the world, whereas these minor Offices may not unreasonably be regarded as designed especially for the benefit of those who take part in them.

@@ -1,7 +1,6 @@
 ---
 title: "The Ordinaton of Deacons"
 ---
-
 # The Ordination of Deacons
 
 The Bishop celebrates the Holy Eucharist, at which the following special Collect and Epistle are used:

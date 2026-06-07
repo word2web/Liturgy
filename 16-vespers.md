@@ -1,7 +1,6 @@
 ---
 title: "Vespers"
 ---
-
 # Vespers
 
 Vespers is one of the ancient canonical hours of the Church, or portions of the Divine Office recited as an act of devotion. These are: Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline. Vespers has become the most popular of these, being well adapted to use as a public evening service.

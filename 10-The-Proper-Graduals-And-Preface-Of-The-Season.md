@@ -1,12 +1,11 @@
 ---
 title: "The Proper Graduals and Prefaces of the Season"
 ---
-
 # The Proper Graduals and Prefaces of the Season
 
-## **Christmas Day**
+## Christmas Day
 
-### **The Gradual for Christmas Day and Seven Days After**
+_The Gradual for Christmas Day and Seven Days After_
 
 > Unto us a Child is born: unto us a Son is given. His Name shall be called Wonderful, Counsellor: the mighty God, the everlasting Father, the Prince of Peace.
 > 

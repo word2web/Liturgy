@@ -1,7 +1,6 @@
 ---
 title: "Rules to Know When Movable Feasts Occur"
 ---
-
 # Rules to Know When Movable Feasts Occur
 
 - **Advent Sunday** is always the nearest Sunday to the Feast of St. Andrew, whether before or after.

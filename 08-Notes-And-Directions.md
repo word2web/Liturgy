@@ -1,7 +1,6 @@
 ---
 title: "Notes and Directions"
 ---
-
 # Notes and Directions
 
 ## The Church’s Year

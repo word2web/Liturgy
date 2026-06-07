@@ -1,11 +1,10 @@
 ---
 title: "Form for the Administration of Holy Communion with the Reserved Sacrament"
 ---
-
-## **Form for the Administration of Holy Communion with the Reserved Sacrament**
+# Form for the Administration of Holy Communion with the Reserved Sacrament  
 
 ---
-### **The Invocation**
+## The Invocation
 
 Standing before the Altar steps, the Priest says:
 
@@ -17,7 +16,7 @@ All kneel, and say the **Confiteor**.
 
 ---
 
-#### **Confiteor**
+## Confiteor
 
 O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness.
 
@@ -29,7 +28,7 @@ Through Christ our Lord. **Amen.**
 
 ---
 
-### **The Absolution**
+## The Absolution
 
 **P.** God the Father, God the Son, God the Holy Ghost, bless, preserve and sanctify you; the Lord in His lovingkindness look down upon you and be gracious unto you; the Lord absolve you from all your sins, and grant you the grace and comfort of the Holy Spirit. **R.** Amen.
 
@@ -59,6 +58,6 @@ If desired, the **Communio** and **Postcommunio** from the Eucharistic service, 
 
 ---
 
-### **The Benediction**
+## The Benediction
 
-**P.** The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of His Son, Christ our Lord; and the blessing of God Almighty, the Father, the Son and the Holy Ghost, be amongst you, and remain with you always. **R.** Amen.
+**P.** The peace of God, which passeth all understanding, keep your hearts and minds in the knowledge and love of God, and of His Son, Christ our Lord; and the blessing of God Almighty, the Father, the Son and the Holy Ghost, be amongst you, and remain with you always. **R.** Amen.  

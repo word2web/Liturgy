@@ -1,7 +1,6 @@
 ---
 title: "The Admission of a Singer"
 ---
-
 # The Admission of a Singer
 
 

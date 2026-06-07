@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Clerics"
 ---
-
 # The Ordination of Clerics
 
 At the appointed time, those about to be made Clerics are summoned by a Priest, as follows:

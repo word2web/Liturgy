@@ -11,4 +11,4 @@ Regarding the mind as one of the great avenues to spiritual apprehension, it enc
 
 It welcomes to its altars all who reverently and sincerely approach them, erecting no barriers in the nature of standards of dogmatic belief. It has no wish to proselytize, in the aggressive sense, from among the adherents of any other church, and as an earnest of this, welcomes people to regular and full participation in its services without asking or expecting them to leave their original church.
 
-The Liberal Catholic Church is a living Christian Church—“modernist,” in that it maintains that the form of religion should keep pace with human growth and enlightenment; “historic,” in that it holds that the Church has handed down a very precious heritage from Christ Himself.  
+The Liberal Catholic Church is a living Christian Church—“modernist,” in that it maintains that the form of religion should keep pace with human growth and enlightenment; “historic,” in that it holds that the Church has handed down a very precious heritage from Christ Himself.

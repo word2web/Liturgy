@@ -1,7 +1,6 @@
 ---
 title: "The Requiem Eucharist"
 ---
-
 # The Requiem Eucharist
 
 In the Requiem Eucharist violet is the colour used, save in the case of children of tender years, when the colour is white. In such case also the word "child" is substituted for "servant."

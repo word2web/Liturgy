@@ -1,9 +1,7 @@
 ---
 title: "Holy Unction and Communion of the Sick"
 ---
-
-# HOLY UNCTION AND COMMUNION OF THE SICK
-
+# HOLY UNCTION AND COMMUNION OF THE SICK  
 
 ## Introduction
 

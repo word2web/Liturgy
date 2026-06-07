@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Readers"
 ---
-
 # The Ordination of Readers
 
 *At the appointed time those about to be made Readers are summoned by a Priest, as follows:*

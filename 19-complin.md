@@ -1,8 +1,7 @@
 ---
 title: "Complin"
 ---
-
-# Compline
+# Complin
 
 ## The Benediction
 

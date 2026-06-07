@@ -1,7 +1,6 @@
 ---
 title: "Confession and Absolution"
 ---
-
 # Confession and Absolution
 
 Absolution is a Sacrament by which persons may be restored to a state of spiritual health after the commission of sin. (See John xx. 22, 23.) The word is derived from the Latin *ab*, from, and *solvere*, to loosen. Absolution must not be thought of as enabling a man to escape the consequences of his misdeeds. It is a spiritual process, a loosening from the bondage of sin, a process at-one-ment with the Higher Self, a restoration of that inner harmony of being which is disturbed by wrong-doing, so that the man can make a fresh effort towards righteousness, fortified by the uninterrupted flow of the Divine Power within him. That this Absolution may be fully effective, it is requisite that the candidate be anxious to rise above his imperfections of nature and to live the higher life. A man cannot escape the consequences of his misdeeds, though he can neutralize them by sowing fresh causes of a righteous kind. "Be not deceived: God is not mocked: for whatsoever a man soweth, that shall he also reap" (Galatians vi. 7).

@@ -1,7 +1,6 @@
 ---
 title: "Solemn Benediction"
 ---
-
 # Benediction of the Most Holy Sacrament
 
 In this service the people receive the blessing of Christ Himself through the Most Holy Sacrament. The latter is first exposed in the monstrance for the adoration and veneration of the people. Then the Priest, covering his hands with the humeral veil, takes the monstrance and gives the Solemn Benediction. The greatest devotion should mark this service.

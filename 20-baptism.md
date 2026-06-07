@@ -1,7 +1,6 @@
 ---
 title: "Holy Baptism"
 ---
-
 # Holy Baptism
 
 Baptism is a Sacrament by which the recipient is solemnly admitted to membership of Christ's holy Church and "grafted into His mystical body."

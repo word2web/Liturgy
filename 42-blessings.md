@@ -1,7 +1,6 @@
 ---
 title: "Blessings"
 ---
-
 # Blessings
 
 The following blessings are reserved to Bishops (with the exceptions noted below):

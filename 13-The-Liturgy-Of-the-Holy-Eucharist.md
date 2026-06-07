@@ -1,7 +1,6 @@
 ---
 title: "The Liturgy of the Holy Eucharist"
 ---
-
 # THE LITURGY OF THE HOLY EUCHARIST  
 
 ## ASPERGES

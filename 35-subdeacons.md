@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Subdeacons"
 ---
-
 # The Ordination of Subdeacons
 
 *The Bishop celebrates the Holy Eucharist, using the following special Collect:*

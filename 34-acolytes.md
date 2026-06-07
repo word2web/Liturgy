@@ -1,7 +1,6 @@
 ---
 title: "The Ordination of Acolytes"
 ---
-
 # The Ordination of Acolytes
 
 At the appointed time those about to be made Acolytes are summoned by a Priest, as follows:

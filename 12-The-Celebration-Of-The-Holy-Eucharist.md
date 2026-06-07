@@ -1,7 +1,6 @@
 ---
 title: "The Celebration of the Holy Eucharist Commonly Called the Mass"
 ---
-
 # The Celebration of the Holy Eucharist Commonly Called the Mass
 
 ---

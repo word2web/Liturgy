@@ -1,7 +1,6 @@
 ---
 title: "Rules Governing the Precedence of Feasts and Holy Days"
 ---
-
 # Rules Governing the Precedence of Feasts and Holy Days
 
 I. Whenever two Holy Days fall upon the same day, the Collect, Epistle, and Gospel used shall be those of the Day which holds the higher rank, but the Collect of the other shall be recited after that of the Day.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 ---
-
-# PREFACE
+# PREFACE  
 
 Some brief explanation of the principles which have guided the writing of this Liturgy of the Liberal Catholic Church may help the reader to understand its spirit and aim.
 
