@@ -1,3 +1,6 @@
+---
+title: "St. George's Day"
+---
 # St. George’s Day
 
 ## The Collect

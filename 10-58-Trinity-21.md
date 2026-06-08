@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Twenty-first Sunday after Trinity
 
 **Theme:** Perseverance

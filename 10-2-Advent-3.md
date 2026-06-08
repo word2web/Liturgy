@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Third Sunday in Advent
 
 ## The Collect

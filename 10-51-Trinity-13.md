@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Thirteenth Sunday after Trinity  
 
 *Intent: Good works*

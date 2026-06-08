@@ -1,6 +1,9 @@
-## The Circumcision of Christ
+---
+title: "Common of Saints"
+---
+# The Circumcision of Christ
 
-_(January 1st)_
+(January 1st)  
 
 > Note: In some traditions, the Feast of the Circumcision coincides with New Year’s Day. Where observed separately, the following may be used.
 

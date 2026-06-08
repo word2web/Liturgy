@@ -1,3 +1,6 @@
+---
+title: "St. John Baptist's Day"
+---
 # St. John Baptist’s Day
 
 ## The Collect

@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Seventh Sunday after Trinity  
 
 *Intent: Purity; a day of devotion to the Holy Spirit*

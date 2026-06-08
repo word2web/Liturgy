@@ -1,3 +1,6 @@
+---
+title: "Empire Day"
+---
 # Empire Day
 
 ## The Collect

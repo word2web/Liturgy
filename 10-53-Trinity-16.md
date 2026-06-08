@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Sixteenth Sunday after Trinity  
 
 *Intent: Justice*

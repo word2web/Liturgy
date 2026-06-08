@@ -1,3 +1,6 @@
+---
+title: "St. Michael and All Angels"
+---
 # St. Michael and All Angels
 
 ---

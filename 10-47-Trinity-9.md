@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Ninth Sunday after Trinity  
 
 _Intent: Confidence_

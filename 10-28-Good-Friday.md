@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Good Friday
 
 The Altar is covered with a plain linen cloth and violet frontal, but otherwise unadorned. No candles are lighted. If convenient, Prime may be sung before the special service of the Day. If that be done the lessons which follow shall be used as the First and Second Lessons at Prime in place of the Epistle and Gospel.

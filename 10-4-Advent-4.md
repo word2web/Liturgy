@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Fourth Sunday in Advent
 
 ## The Collect

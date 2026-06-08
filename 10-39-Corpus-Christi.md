@@ -1,4 +1,7 @@
-## Corpus Christi
+---
+title: "Common of Saints"
+---
+# Corpus Christi
 
 ## The Collect
 

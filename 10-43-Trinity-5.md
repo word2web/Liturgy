@@ -1,13 +1,16 @@
-## Fifth Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# Fifth Sunday after Trinity
 
 **Intent:** GOD as Peace
 
-### The Collect
+## The Collect
 
 Grant, O Lord, that the course of this world may soon be so peaceably ordered by Thy governance that Thy Church may joyfully serve Thee in all godly quietness, through Christ our Lord, Who liveth and reigneth with Thee and the Holy Ghost, ever One God throughout all ages of ages.  
 ℟. Amen.
 
-### The Epistle
+## The Epistle
 
 The Epistle is taken from the fifth chapter of that of St. Paul the Apostle to the Galatians, beginning at the thirteenth verse.
 
@@ -15,7 +18,7 @@ The Epistle is taken from the fifth chapter of that of St. Paul the Apostle to t
 
 *Here endeth the Epistle.*
 
-### The Gospel
+## The Gospel
 
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the eighteenth verse.
 

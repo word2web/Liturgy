@@ -1,4 +1,7 @@
-The Twenty-second Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# The Twenty-second Sunday after Trinity
 
 **Theme:** Right Energy
 

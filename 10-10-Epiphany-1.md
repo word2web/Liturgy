@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The First Sunday after Epiphany
 
 _(The Baptism of Our Lord)_

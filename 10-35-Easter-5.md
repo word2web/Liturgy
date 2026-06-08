@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Fifth Sunday after Easter
 
 ## The Collect

@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Ash Wednesday
 
 _(The First Day of Lent)_

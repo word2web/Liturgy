@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Fourteenth Sunday after Trinity  
 
 *Intent: Renewal of Heart*

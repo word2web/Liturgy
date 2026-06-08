@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Maundy Thursday
 
 White vestments are used, and the purple veil covering the cross during Holy Week is replaced by one of white.

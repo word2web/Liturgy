@@ -1,4 +1,7 @@
-The Eighteenth Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# The Eighteenth Sunday after Trinity
 
 **Theme:** Christ as Truth
 

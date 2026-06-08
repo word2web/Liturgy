@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Holy Saturday
 
 The Altar is covered with a plain linen cloth and violet frontal, but otherwise unadorned. No candles are yet lighted. The colour is violet.

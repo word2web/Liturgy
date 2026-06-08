@@ -1,3 +1,6 @@
+---
+title: "The Assumption of Our Lady"
+---
 # The Assumption of Our Lady
 
 ---

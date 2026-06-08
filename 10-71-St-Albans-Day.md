@@ -1,3 +1,6 @@
+---
+title: "St. Alban's Day"
+---
 # St. Alban’s Day
 
 ## The Collect

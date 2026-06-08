@@ -1,3 +1,6 @@
+---
+title: "The Transfiguration"
+---
 # The Transfiguration
 
 ## The Collect

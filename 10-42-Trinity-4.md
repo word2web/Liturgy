@@ -1,13 +1,16 @@
-## Fourth Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# Fourth Sunday after Trinity
 
 **Intent:** GOD as Love
 
-### The Collect
+## The Collect
 
 O Christ, the Lord of Love, we lay our hearts upon Thy shrine, praying that Thou wilt accept, purify and enkindle them, so that they may forever glow with the undying fire of Thine infinite compassion, Who livest and reignest with the Father and the Holy Spirit, one God throughout all ages of ages.  
 ℟. Amen.
 
-### The Epistle
+## The Epistle
 
 The Epistle is taken from the fourth chapter of the First Epistle General of St. John, beginning at the seventh verse.
 
@@ -15,7 +18,7 @@ The Epistle is taken from the fourth chapter of the First Epistle General of St.
 
 *Here endeth the Epistle.*
 
-### The Gospel
+## The Gospel
 
 The holy Gospel is taken from the fifteenth chapter of that according to St. John, beginning at the first verse.
 

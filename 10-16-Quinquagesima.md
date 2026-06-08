@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Quinquagesima Sunday
 
 _(The Sunday before Ash Wednesday)_

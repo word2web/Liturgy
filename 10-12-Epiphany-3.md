@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Third Sunday after Epiphany
 
 ## The Collect

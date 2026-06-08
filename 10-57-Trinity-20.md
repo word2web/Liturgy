@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Twentieth Sunday after Trinity
 
 **Theme:** Serenity

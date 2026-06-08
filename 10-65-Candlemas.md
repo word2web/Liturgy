@@ -1,3 +1,6 @@
+---
+title: "Candlemas"
+---
 # The Presentation of Our Lord in the Temple, or Candlemas
 
 ## The Blessing of the Candles

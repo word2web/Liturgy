@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Epiphany of Our Lord
 
 _(January 6th)_

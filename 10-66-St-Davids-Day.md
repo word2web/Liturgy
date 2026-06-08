@@ -1,3 +1,6 @@
+---
+title: "St. David's Day"
+---
 # St. David's Day
 
 ## The Collect

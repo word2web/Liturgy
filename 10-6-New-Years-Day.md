@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # New Year’s Day
 
 ## The Collect

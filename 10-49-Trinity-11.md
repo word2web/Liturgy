@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Eleventh Sunday after Trinity  
 
 *Intent: Discernment*

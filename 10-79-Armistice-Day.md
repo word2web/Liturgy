@@ -1,3 +1,6 @@
+---
+title: "Armistice Day"
+---
 # Armistice Day
 
 ---

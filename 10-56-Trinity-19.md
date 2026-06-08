@@ -1,4 +1,7 @@
-The Nineteenth Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# The Nineteenth Sunday after Trinity
 
 **Theme:** Tact and Tolerance
 

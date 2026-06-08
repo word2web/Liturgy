@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Twelfth Sunday after Trinity  
 
 *Intent: Self-Dedication*

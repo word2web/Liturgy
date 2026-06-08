@@ -1,4 +1,7 @@
- All Saints’ Day
+---
+title: "All Saints' Day"
+---
+# All Saints’ Day
 
 ---
 ## The Collect

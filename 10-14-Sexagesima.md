@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Sexagesima Sunday
 
 _(Approximately 10 days before Lent)_

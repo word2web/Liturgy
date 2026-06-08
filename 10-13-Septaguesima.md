@@ -1,6 +1,9 @@
-# Septuagesima Sunday
+---
+title: "Common of Saints"
+---
+# Septuagesima Sunday  
 
-_(Approximately 17 days before Lent)_
+(Approximately 17 days before Lent)  
 
 ## The Collect
 

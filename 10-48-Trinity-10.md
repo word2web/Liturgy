@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Tenth Sunday after Trinity  
 
 _Intent: Devotion_

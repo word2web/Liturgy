@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Fifteenth Sunday after Trinity  
 
 *Intent: The Reality of Things Eternal; a day of devotion to the Holy Spirit*

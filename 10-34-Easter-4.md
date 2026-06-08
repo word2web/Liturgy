@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Fourth Sunday after Easter
 
 ## The Collect

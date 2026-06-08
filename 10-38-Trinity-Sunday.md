@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Trinity Sunday
 
 ## The Collect

@@ -1,13 +1,16 @@
-## Second Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# Second Sunday after Trinity
 
 **Intent:** GOD as Light
 
-### The Collect
+## The Collect
 
 O Father of Light, in Whom is no darkness at all; may our hearts be so irradiated by the glory of Thy divine Love that we may ever shine as beacons amid the stormy sea of life; that through us weary and tempest-driven souls may be guided to the haven where they would be, and may rest in the eternal sunlight of Thy holy Presence, through Christ our Lord.  
 ℟. Amen.
 
-### The Epistle
+## The Epistle
 
 The Epistle is taken from the first chapter of the First Epistle General of St. John, beginning at the third verse.
 
@@ -15,7 +18,7 @@ The Epistle is taken from the first chapter of the First Epistle General of St. 
 
 *Here endeth the Epistle.*
 
-### The Gospel
+## The Gospel
 
 The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the thirty-second verse.
 

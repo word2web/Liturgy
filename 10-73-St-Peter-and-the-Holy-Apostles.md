@@ -1,3 +1,6 @@
+---
+title: "St. Peter and the Holy Apostles"
+---
 # St. Peter and the Holy Apostles
 
 ## The Collect

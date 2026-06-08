@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Sunday Next Before Advent
 
 *Intent: The Dispelling of Ignorance; a day of devotion to the Holy Spirit.*

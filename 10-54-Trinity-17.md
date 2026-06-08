@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Seventeenth Sunday after Trinity  
 
 *Intent: Eternal Progress*

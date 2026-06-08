@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Whitsunday
 
 ## The Collect

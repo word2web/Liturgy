@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Twenty-third Sunday after Trinity
 
 **Theme:** The Practice of What is Taught

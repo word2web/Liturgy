@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The First Sunday after Easter, or Low Sunday
 
 ## The Collect

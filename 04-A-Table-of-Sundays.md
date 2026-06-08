@@ -11,7 +11,7 @@ title: "A Table of Sundays"
 | The Epiphany                                           | Jan. 6      | A     | White   |
 | Baptism of our Lord                                    | Jan. 15     | C     | White   |
 | Transfiguration                                        | Feb. 7      | A     | White   |
-| Presentation of our Lord in the Temple (Candlemas)    | Feb. 2      | B     | White   |
+| Presentation of our Lord in the Temple (Candlemas)     | Feb. 2      | B     | White   |
 | The First Day of Lent (Ash Wednesday)                  | Movable     | A     | Violet  |
 | *St. David, Archbishop (Wales)                         | Mar. 1      | C     | White   |
 | *St. Patrick, Bishop (Ireland)                         | Mar. 17     | C     | White   |

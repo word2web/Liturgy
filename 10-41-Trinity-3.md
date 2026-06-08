@@ -1,13 +1,16 @@
-## Third Sunday after Trinity
+---
+title: "Common of Saints"
+---
+# Third Sunday after Trinity
 
 **Intent:** GOD as the Ruler of Angels
 
-### The Collect
+## The Collect
 
 O God the King of Angels, Ruler of all the Hosts of heaven, we praise and thank Thee for the help which these Thy radiant servants so joyously do render unto us, and pray that we may pattern after them in purity and zeal, through Christ our Lord.  
 ℟. Amen.
 
-### The Epistle
+## The Epistle
 
 The portion of Scripture appointed for the Epistle is taken from the twelfth chapter of the Book of Tobit, beginning at the sixth verse.
 
@@ -19,7 +22,7 @@ The portion of Scripture appointed for the Epistle is taken from the twelfth cha
 
 *Here endeth the Epistle.*
 
-### The Gospel
+## The Gospel
 
 The holy Gospel is taken from the first chapter of that according to St. Luke, beginning at the eighth verse.
 

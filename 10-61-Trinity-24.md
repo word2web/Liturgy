@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Twenty-fourth Sunday after Trinity
 
 **Theme:** Openness of Mind

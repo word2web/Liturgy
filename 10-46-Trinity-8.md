@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Eighth Sunday after Trinity  
 
 *Intent: Wisdom*

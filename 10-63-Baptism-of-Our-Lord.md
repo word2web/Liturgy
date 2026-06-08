@@ -1,3 +1,6 @@
+---
+title: "The Baptism of Our Lord"
+---
 # The Baptism of Our Lord
 
 ## The Collect

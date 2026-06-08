@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Christmas Day
 
 _The Nativity of Our Lord_

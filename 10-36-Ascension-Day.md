@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # Ascension Day
 
 ## The Collect

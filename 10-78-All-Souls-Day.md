@@ -1,3 +1,6 @@
+---
+title: "All Souls' Day"
+---
 # All Souls’ Day
 
 ---

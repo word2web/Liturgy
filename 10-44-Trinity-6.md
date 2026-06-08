@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Sixth Sunday after Trinity  
 
 *Intent: Steadfast Service*

@@ -1,3 +1,6 @@
+---
+title: "Common of Saints"
+---
 # The Second Sunday after Christmas
 
 ## The Collect
