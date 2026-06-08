@@ -13,8 +13,6 @@ there may shine forth within us the light of ever-growing purity and holiness,
 through Christ our Lord.  
 **R.** Amen.
 
----
-
 ## The Epistle
 
 *The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Book of the Prophet Isaiah, beginning at the fourteenth verse.*
@@ -32,8 +30,6 @@ upon the throne of David and upon his kingdom,
 to order it and to establish it with judgment and with justice from henceforth even for ever.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

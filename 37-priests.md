@@ -20,8 +20,6 @@ title: "The Ordination of Priests"
 
 *Here endeth the Epistle.*
 
----
-
 *The Gradual being ended, the Bishop takes his seat upon a faldstool before the Altar. The ordinands come forward bearing lighted candles, and a Priest appointed for the purpose presents them to the Bishop, saying:*
 
 > **Priest:** Right Reverend Father, our holy Mother the Church catholic prays that you would ordain these Deacons here present to the charge of the Priesthood.
@@ -266,5 +264,3 @@ title: "The Ordination of Priests"
 > **Bishop:** Dearly beloved sons, consider attentively the Order you have taken and be ever mindful of the sacred trust reposed in you. Since it hath pleased our Lord to call you thus closer to Himself, forget not the service of your brethren, which is the golden pathway to His most glorious Presence. Freely ye have received, freely give.
 
 *The Communio is sung, and the Holy Eucharist is continued to its close.*
-
----

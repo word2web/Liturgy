@@ -1,11 +1,11 @@
 ---
-title: "Common of Saints"
+title: "Good Friday"
 ---
 # Good Friday
 
 The Altar is covered with a plain linen cloth and violet frontal, but otherwise unadorned. No candles are lighted. If convenient, Prime may be sung before the special service of the Day. If that be done the lessons which follow shall be used as the First and Second Lessons at Prime in place of the Epistle and Gospel.
 
-### The First Lesson
+### The First Lesson  
 
 The First Lesson is taken from the fifty-eighth chapter of the Book of the Prophet Isaiah, beginning at the third verse.
 
@@ -13,29 +13,29 @@ Wherefore have we fasted, say men, and Thou seest not? Wherefore have we afflict
 
 Here endeth the First Lesson.
 
-### The Second Lesson
+### The Second Lesson  
 
 The Second Lesson is taken from the twelfth chapter of the Gospel according to St. John, beginning at the twenty-third verse.
 
 Jesus said: The hour is come that the Son of Man should be glorified. Amen, Amen, I say unto you, except a grain of wheat fall into the ground and die it abideth alone; but if it die, it bringeth forth much fruit. He that loveth his life shall lose it, and he that hateth his life in this world shall keep it unto life eternal. If any man serve Me, let him follow Me; and where I am, there shall also My servant be.
 Here endeth the Second Lesson.
 
-## EUCHARIST OF THE PRESANCTIFIED
+## EUCHARIST OF THE PRESANCTIFIED  
 
-### The Collect
+### The Collect  
 
 LORD Christ, Whose life Thy Church doth lay before us as a perfect ensample for our imitation, grant us that we may have strength so to follow Thee through suffering and mystical death, that we may rise with Thee into the ineffable splendour of Easter, Who livest and reignest throughout the ages of ages. R. Amen.
 
 The Collects for Ash Wednesday and for Peace are then said, and the Epistle and Gospel follow in the usual form.
 
-### The Epistle
+### The Epistle  
 
 The Epistle is taken from the first chapter of the Second Epistle of St. Paul the Apostle to the Corinthians, beginning at the third verse.
 
 BLESSED be God, even the Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort, Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble by the comfort wherewith we ourselves are comforted of God. For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ. And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer; or whether we be comforted, that also is for your consolation and salvation. And our hope of you is steadfast, knowing that as ye are partakers of the sufferings, so shall ye be also of the consolation.
 Here endeth the Epistle.
 
-### The Gospel
+### The Gospel  
 
 The holy Gospel is taken from the ninth chapter of that according to St. Luke, beginning at the eighteenth verse.
 
@@ -87,7 +87,7 @@ All praise for evermore ascend;
 O grant us in our Home to see
 The heavenly life that knows no end. Amen.
 
-Towards the end of the hymn the candles are lighted on the Altar, and lastly the cross is moved back to its accustomed place. A procession is formed, and returns with lights and incense to the high Altar, the celebrant bearing a ciborium containing a Host consecrated on the previous day. The Host is placed on the corporal; wine and water are poured into the chalice, but without the usual prayers. 
+Towards the end of the hymn the candles are lighted on the Altar, and lastly the cross is moved back to its accustomed place. A procession is formed, and returns with lights and incense to the high Altar, the celebrant bearing a ciborium containing a Host consecrated on the previous day. The Host is placed on the corporal; wine and water are poured into the chalice, but without the usual prayers.  
 
 The Priest censes the offerings and the Altar in the usual way. Having washed his fingers in silence, he says:
 
@@ -112,4 +112,4 @@ He concludes with the following Postcommunion prayer:
 > We pray Thee, O Lord, that Thy grace may be so grafted inwardly in our hearts, that it may continually be made manifest in our lives. Through Christ our Lord. R. Amen.
 
 The Altar cloth is removed.
-At evening Complin may be said.
+At evening Complin may be said.  

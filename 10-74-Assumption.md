@@ -3,9 +3,7 @@ title: "The Assumption of Our Lady"
 ---
 # The Assumption of Our Lady
 
----
-
-## The Collect
+## The Collect  
 
 O LORD Christ,  
 Who for her wondrous humility and purity hast exalted the holy Lady Mary among the hosts of heaven;  
@@ -14,9 +12,7 @@ that we may at the latter end be found worthy to serve Thee even as do Thy holy 
 Thou Who livest and reignest in glory for evermore.  
 **R.** Amen.
 
----
-
-## The Epistle
+## The Epistle  
 
 *The portion of Scripture appointed for the Epistle is taken from the ninth chapter of the Book of the Wisdom of Solomon, beginning at the first verse.*
 
@@ -45,8 +41,6 @@ and men were taught the things that are pleasing unto Thee,
 and were saved through wisdom.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

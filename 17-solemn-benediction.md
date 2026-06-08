@@ -7,8 +7,6 @@ In this service the people receive the blessing of Christ Himself through the Mo
 
 Sometimes the Host is carried in procession.
 
----
-
 ## The Invocation
 
 **P.** In the Name of the Father, † and of the Son, and of the Holy Ghost.  
@@ -190,16 +188,13 @@ The following hymn is then sung, a few moments' pause being made if it follows d
 **P.** Teach us, O Lord, to see Thy life in all men, and in all the peoples of Thine earth, and guide our nation through its leaders to preserve Thy peace, that the menace of war be far from our days, through Christ our Lord.  
 **R.** Amen.
 
----
-
-## The Ascription
+## The Ascription  
 
 **P.** To the most holy and adorable Trinity, Father, Son and Holy Spirit, three Persons in one God; to Christ our Lord, the only wise Counsellor, the Prince of Peace; to the seven mighty Spirits before the throne; and to the glorious Assembly of just men made perfect, the Watchers, the Saints, the Holy Ones, be praise unceasing from every living creature; and honour, might and glory, henceforth and for evermore.  
 **R.** Amen.
 
----
 
-## The Solemn Benediction
+## The Solemn Benediction  
 
 *The Solemn Benediction is given.*
 
@@ -207,7 +202,7 @@ After the Benediction and while the Most Holy Sacrament is being placed in the t
 
 *All stand.*
 
-### Psalm
+### Psalm  
 
 **Antiphon**  
 O come, let us adore Him: Christ the Lord.
@@ -222,9 +217,9 @@ O come, let us adore Him: Christ the Lord.
 **Antiphon**  
 O come, let us adore Him: Christ the Lord.
 
----
 
-## Closing Hymn
+
+## Closing Hymn  
 
 The following hymn may be sung either as a recessional or before the procession passes out.
 
@@ -242,10 +237,8 @@ The following hymn may be sung either as a recessional or before the procession 
 > And pass into the silent night,  
 > To be the bearers of Thy light. Amen.
 
----
+
 
 ## Notes on Use
 
-This service may be considerably shortened; the *O Salutaris Hostia*, the *Tantum Ergo*, the Versicles and Responses and Prayer which follow, and the act of Benediction being the only portions of liturgical obligation. It is permitted to give the Benediction with the veiled ciborium.
-
----
+This service may be considerably shortened; the *O Salutaris Hostia*, the *Tantum Ergo*, the Versicles and Responses and Prayer which follow, and the act of Benediction being the only portions of liturgical obligation. It is permitted to give the Benediction with the veiled ciborium. 

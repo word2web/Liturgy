@@ -9,13 +9,11 @@ title: "Complin"
 **R.** Amen.
 
 > *In the absence of a Priest, the ministrant closes the service with the following words, instead of the Benediction:*  
->   
 > The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.  
 > **R.** Amen.
-
 > *When it may be desired to shorten this service, as, for example, in the case of school or family prayers, any or all of the following may be omitted: the two Lessons, the Second and the Third Psalm, the Office Hymn. In such case, the Second or Third Psalm may be substituted, if desired, for the First.*
 
----
+
 
 ## The Invocation
 
@@ -36,24 +34,18 @@ title: "Complin"
 
 *All kneel, and say:*
 
-O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness. But Thou, O Lord, hast made us for Thyself, and our hearts are ever restless till they find their rest in Thee. Look with the eyes of Thy love upon our manifold imperfections, and pardon all our shortcomings, that we may be filled with the brightness of the everlasting light, and become the unspotted mirror of Thy power and the image of Thy goodness. Through Christ our Lord. Amen.
+O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness. But Thou, O Lord, hast made us for Thyself, and our hearts are ever restless till they find their rest in Thee. Look with the eyes of Thy love upon our manifold imperfections, and pardon all our shortcomings, that we may be filled with the brightness of the everlasting light, and become the unspotted mirror of Thy power and the image of Thy goodness. Through Christ our Lord. Amen.  
 
----
-
-## The Absolution
+## The Absolution  
 
 **P.** God the Father, God the Son, God the Holy Ghost, bless, preserve and sanctify you; the Lord in His lovingkindness look down upon you and be gracious unto you; the Lord absolve you from all your sins, and grant you the grace and comfort of the Holy Spirit.  
 **R.** Amen.
 
-> *If there be no Priest, the ministrant, still kneeling, says the following instead of the Absolution:*  
->   
+> *If there be no Priest, the ministrant, still kneeling, says the following instead of the Absolution:* 
 > May the Lord bless us, and absolve us from all our sins; and may His peace rest upon us this night and evermore.  
->   
-> **C.** Thanks be to God.
+> **C.** Thanks be to G
 
----
-
-## The First Psalm
+## The First Psalm  
 
 *The people stand, and the Psalm is sung.*
 
@@ -73,15 +65,13 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 Thou art my lamp, O Lord.  
 The Lord will lighten my darkness.
 
----
 
-## The Lesson
+
+## The Lesson  
 
 *All are seated, and the Epistle of the Day is read as a lesson by the Priest or ministrant, or some one appointed by him.*
 
----
-
-## The Second Psalm
+## The Second Psalm  
 
 *After that is sung the following, all standing:*
 
@@ -101,13 +91,11 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 He hath called us out of darkness.  
 Into His marvellous light.
 
----
 
-## The Second Lesson
 
-*The people are seated, and the Gospel of the Day is read as the second lesson.*
+## The Second Lesson  
 
----
+*The people are seated, and the Gospel of the Day is read as the second lesson  
 
 ## An Act of Faith
 

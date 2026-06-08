@@ -13,8 +13,6 @@ that by devotion, steadfastness, and gentleness we too may win men’s hearts to
 Whom we confess as Lord and Master, now and evermore.  
 **R.** Amen.
 
----
-
 ## The Epistle
 
 *The portion of Scripture appointed for the Epistle is taken from the fortieth chapter of the Book of the Prophet Isaiah, beginning at the third verse.*
@@ -34,8 +32,6 @@ He shall gather the lambs with His arm, and carry them in His bosom,
 and shall gently lead those that are with young.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

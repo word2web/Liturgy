@@ -3,7 +3,7 @@ title: "The Liturgy of the Holy Eucharist"
 ---
 # THE LITURGY OF THE HOLY EUCHARIST  
 
-## ASPERGES
+## ASPERGES  
 
 *The shorter form of the Asperges, as given on page 192, may be substituted for the following when it is thought desirable.*
 
@@ -15,9 +15,9 @@ and the remainder of the Antiphon and Psalm is taken up by the choir and congreg
 
 Meanwhile, the Priest sprinkles with holy water the Altar and himself, then the clergy and the people, who bow and cross themselves.
 
----
 
-### PSALM 121
+
+### PSALM 121  
 
 **Antiphon**
 *Thou shalt sprinkle me with hyssop, O Lord, and I shall be clean: Thou shalt wash me, and I shall be whiter than snow.*
@@ -37,7 +37,7 @@ Meanwhile, the Priest sprinkles with holy water the Altar and himself, then the 
 **Antiphon**
 *Thou shalt sprinkle me with hyssop, O Lord, and I shall be clean: Thou shalt wash me, and I shall be whiter than snow.*
 
----
+
 **Priest:** O Lord, open Thou our lips.
 **Congregation:** And our mouth shall show forth thy praise.
 
@@ -51,23 +51,20 @@ Meanwhile, the Priest sprinkles with holy water the Altar and himself, then the 
 
 *The people kneel.*
 
----
-### THE COLLECT
+
+### THE COLLECT  
 
 **P:** Guide us, O Almighty Father, in all our doings, and from Thy heavenly throne send down Thy holy Angel to be with Thy people who have met together to serve and to worship Thee. Through Christ our Lord.
 **R:** Amen.
 
----
----
-## THE HOLY EUCHARIST
+## THE HOLY EUCHARIST  
 
-### THE PREPARATION
+### THE PREPARATION  
 
 *The people stand.*
 The Priest intones the Invocation, unless the shorter form of Asperges, with its preceding Invocation, has been used.
 
----
-### THE INVOCATION
+### THE INVOCATION  
 
 **Priest:** In the Name of the Father, and of the Son, and of the Holy Ghost.
 **R:** Amen.
@@ -75,8 +72,7 @@ The Priest intones the Invocation, unless the shorter form of Asperges, with its
 The following Antiphon and Canticle are sung by all together, save that the Priest alone chants the opening words of the Canticle:
 **“I was glad when they said unto me.”**
 
----
-#### CANTICLE
+#### CANTICLE  
 
 **Antiphon**
 *I will go unto the Altar of God. Even unto the God of my joy and gladness.*
@@ -96,7 +92,7 @@ The following Antiphon and Canticle are sung by all together, save that the Prie
 **Antiphon**
 *I will go unto the Altar of God. Even unto the God of my joy and gladness.*
 
----
+
 The following versicles and responses are sung alternately by the Priest and congregation:
 
 **P:** Our help is in the Name of the Lord.
@@ -108,8 +104,7 @@ The following versicles and responses are sung alternately by the Priest and con
 **P:** Trust ye in the Lord for ever.
 **C:** For our Rock of Ages is the Lord.
 
----
-### CONFITEOR
+### CONFITEOR  
 
 *All kneel, and say together:*
 
@@ -119,16 +114,16 @@ Look with the eyes of Thy love upon our manifold imperfections, and pardon all o
 Through Christ our Lord.
 **Amen.**
 
----
-### THE ABSOLUTION
+
+### THE ABSOLUTION  
 
 **P:** God the Father, God the Son, God the Holy Ghost, bless, + preserve and sanctify you; the Lord in His lovingkindness look down upon you and be gracious unto you; the Lord absolve you from all your sins, and grant you the grace and comfort of the Holy Spirit.
 **R:** Amen.
 
 *The people are seated.*
 
----
-### THE CENSING
+
+### THE CENSING  
 
 The censer is brought to the Priest, who puts incense into it and blesses it, saying:
 *Mayest thou be blessed by Him in Whose honour thou shalt be burned.*
@@ -138,8 +133,8 @@ The Priest censes the Altar, after which the people stand.
 **P:** The Lord be with you.
 **C:** And with thy spirit.
 
----
-### INTROIT
+
+### INTROIT  
 
 *The Introit is sung by all together.*
 
@@ -151,8 +146,8 @@ O Lord our God, how excellent is Thy Name in all the world.
 Blessed be the Holy Trinity, the undivided Unity, eternal, immortal, invisible, to Whom be honour and glory for ever and ever.
 **Amen.**
 
----
-### KYRIE
+
+### KYRIE  
 
 *The Kyrie is sung by all together, the people kneeling.
 (At Low Celebration it is said alternately by Priest and people as hereunder indicated.)*
@@ -169,8 +164,7 @@ Blessed be the Holy Trinity, the undivided Unity, eternal, immortal, invisible, 
 **C:** Kyrie eleison.
 **P:** Kyrie eleison.
 
----
-### GLORIA IN EXCELSIS
+### GLORIA IN EXCELSIS  
 
 *The Gloria is sung by all together, the people standing.
 The head is bowed at the words “we worship Thee,” “we give thanks to Thee,” and “receive our prayer.”*
@@ -195,8 +189,7 @@ Thou only, O Christ, with the Holy Ghost, art most high in the glory of God the 
 
 *The people kneel.*
 
----
-### THE COLLECTS
+### THE COLLECTS  
 
 **P:** Almighty God, unto Whom all hearts be open, all desires known, and from Whom no secrets are hid;
 cleanse the thoughts of our hearts by the inspiration of Thy Holy Spirit,
@@ -211,8 +204,7 @@ and guide our nation through its leaders to preserve Thy peace,
 that the menace of war be far from our days, through Christ our Lord.
 **R:** Amen.
 
----
-### THE EPISTLE
+### THE EPISTLE  
 
 *The people are seated.
 At High Celebration the Epistle is read by the subdeacon (or a separate Epistoller may be appointed).*
@@ -220,8 +212,7 @@ At High Celebration the Epistle is read by the subdeacon (or a separate Epistoll
 *The Epistle ended, all stand and sing:*
 **Thanks be to God.**
 
----
-### THE GRADUAL
+### THE GRADUAL  
 
 *All sing the Gradual (except that as usual the Priest alone chants the first half of the first verse).*
 
@@ -230,8 +221,7 @@ Teach me, O Lord, the way of Thy statutes: and I shall keep it unto the end.
 Give me understanding, and I shall keep Thy law: yea, I shall keep it with my whole heart.
 The path of the just is as the shining light: shining more and more unto the perfect day.
 
----
-### MUNDA COR MEUM
+### MUNDA COR MEUM  
 
 *At High Celebration the Gospel is read by the Deacon (or a separate Gospeller may be appointed).
 He kneels before the centre of the Altar and intones the following prayer:*
@@ -249,8 +239,7 @@ and through thy lips His power be made manifest.
 
 *If the Celebrant be without assistants, he himself intones both the prayer and the blessing, substituting “my” for “thy” in the latter.*
 
----
-### THE GOSPEL
+### THE GOSPEL  
 
 **Deacon:** The Lord be with you.
 **C:** And with thy spirit.
@@ -262,13 +251,11 @@ making the sign of the cross with the right thumb upon the forehead, lips and br
 *The Gospel ended, all sing:*
 **Praise be to Thee, O Christ.**
 
----
-### THE SERMON
+### THE SERMON  
 
 *If there be a sermon, it follows here.*
 
----
-### CREDO
+### CREDO  
 
 *Then is recited the Symbol of the Faith, called Nicene—the Church’s ancient presentation of the Christian revelation.
 It is intoned by all, standing and facing to the east.
@@ -301,8 +288,7 @@ And we look for the resurrection of the dead, and the life of the world to come.
 **P:** The Lord be with you.
 **C:** And with thy spirit.
 
----
-### OFFERTORIUM
+### OFFERTORIUM  
 
 *A hymn is usually sung here, while the offertory is taken.
 At the end of the hymn the people are seated, and the following sentences are intoned by the Priest:*
@@ -327,8 +313,7 @@ may the worship which we offer ascend before Thy Divine Majesty as a sacrifice, 
 Through Christ our Lord.
 **R:** Amen.
 
----
-### THE SECOND CENSING
+### THE SECOND CENSING  
 
 The Priest censes the oblations and the Altar in the prescribed manner, and says:
 As this incense rises before Thee, O Lord, so let our prayer be set forth in Thy sight.
@@ -342,8 +327,7 @@ The people stand as the thurifer approaches them, bow before and after being cen
 
 *During the censing of the choir and people, the Priest recites the Lavabo in a low tone, raising his voice for the Gloria.*
 
----
-#### LAVABO
+#### LAVABO  
 
 I will wash my hands in innocency, O Lord: and so will I go to Thine Altar.
 That I may show the voice of thanksgiving: and tell of all Thy wondrous works.
@@ -356,8 +340,7 @@ My foot standeth right: I will praise the Lord in the congregations.
 
 *The people stand.*
 
----
-### ORATE FRATRES
+### ORATE FRATRES  
 
 **P:** Brethren, pray that my sacrifice and yours may be acceptable to God the Father Almighty.
 **C:** May the Lord receive the sacrifice at thy hands, and sanctify our lives in His service.
@@ -378,17 +361,15 @@ Who liveth and reigneth with Thee in the unity of the Holy Spirit,
 ever one God throughout all ages of ages.
 **R:** Amen.
 
----
----
-## THE CANON
+
+## THE CANON  
 
 *The people rise, and the following passages are sung alternately:*
 
 **P:** The Lord be with you.
 **C:** And with thy spirit.
 
----
-### SURSUM CORDA
+### SURSUM CORDA  
 
 **P:** Lift up your hearts.
 **C:** We lift them up unto the Lord.
@@ -396,8 +377,7 @@ ever one God throughout all ages of ages.
 **P:** Let us give thanks unto our Lord God.
 **C:** It is meet and right so to do.
 
----
-### PREFACE
+### PREFACE  
 
 **P:** It is very meet, right, and our bounden duty,
 that we should at all times and in all places give thanks unto Thee,
@@ -408,8 +388,8 @@ with Cherubim, and Seraphim, and with all the company of heaven,
 we laud and magnify Thy glorious Name,
 evermore praising Thee and saying:
 
----
-### SANCTUS AND BENEDICTUS QUI VENIT
+
+### SANCTUS AND BENEDICTUS QUI VENIT  
 
 *The people kneel and sing the following.
 The bell is rung each time the word “Holy” is uttered.*
@@ -420,9 +400,8 @@ glory be to Thee, O Lord most high.**
 **Blessed is He that cometh in the Name of the Lord.**
 **Hosanna in the highest.**
 
----
----
-### THE PRAYER OF CONSECRATION
+
+### THE PRAYER OF CONSECRATION  
 
 **P:** Wherefore, O most loving Father, we Thy servants do pray Thee,
 through Jesus Christ, Thy Son, our Lord,
@@ -554,9 +533,8 @@ be ascribed all honour and glory, throughout the ages of ages.
 
 *The Priest here holds the Host directly over the Chalice, and raises both to the level of his eyes.*
 
----
----
-## THE COMMUNION
+
+## THE COMMUNION  
 
 *[P. Let us pray.*
 
@@ -571,10 +549,9 @@ Give us this day our daily bread;
 and forgive us our trespasses, as we forgive them that trespass against us.
 And lead us not into temptation, but deliver us from evil.
 For Thine is the kingdom, the power and the glory, for ever and ever.**
-**Amen.**]
+**Amen.**
 
----
-### THE COMMEMORATION OF THE SAINTS
+### THE COMMEMORATION OF THE SAINTS  
 
 **P:** Here do we give unto Thee, O Lord, most high praise and hearty thanks
 for the wonderful grace and virtue declared in holy Mary, the ever-virgin Mother,
@@ -602,8 +579,8 @@ so may Thy many children know themselves to be one in Thee,
 even as Thou art one with the Father.
 **R:** Amen.
 
----
-### THE SALUTATION OF PEACE
+
+### THE SALUTATION OF PEACE  
 
 O Lord Jesu Christ, Who didst say to Thine apostles:
 “Peace I leave with you, My peace I give unto you,”
@@ -653,8 +630,7 @@ and, rejoicing in His glory, be made like unto Him.
 Then shall His true disciples be brought by Him with exceeding joy
 before the presence of His Father’s glory.
 
----
-### COMMUNIO
+### COMMUNIO  
 
 *All stand and sing:*
 **Amen. Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever.**
@@ -663,8 +639,8 @@ before the presence of His Father’s glory.
 **P:** The Lord be with you.
 **C:** And with thy spirit.
 
----
-### POSTCOMMUNIO
+
+### POSTCOMMUNIO  
 
 **P:** Let us pray.
 *The people kneel.*
@@ -681,9 +657,8 @@ Through Christ our Lord.
 **P:** Ite, missa est.
 **C:** Deo gratias.
 
----
----
-## THE BENEDICTION
+
+## THE BENEDICTION  
 
 **P:** The peace of God, which passeth all understanding,
 keep your hearts and minds in the knowledge and love of God,
@@ -699,4 +674,4 @@ there is a power that maketh all things new; it lives and moves in those who kno
 May that peace brood over you, that power uplift you,
 till you stand where the One Initiator is invoked,
 till you see His Star shine forth.
-**R:** Amen.
+**R:** Amen.  

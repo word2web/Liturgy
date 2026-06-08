@@ -5,9 +5,6 @@ title: "The Nativity of Our Lady"
 
 *The Collect, Epistle, and Gospel for the Nativity of Our Lady are the same as those for the Annunciation of Our Lady.*
 
-
----
-
 ## The Collect
 
 WE thank Thee, O God,
@@ -17,8 +14,6 @@ and we pray that on this the Festival of her Nativity
 there may shine forth within us the light of ever-growing purity and holiness,
 through Christ our Lord.
 **R.** Amen.
-
----
 
 ## The Epistle
 
@@ -42,8 +37,6 @@ Thou shalt put her on as a robe of honour,
 and shalt put her about thee as a crown of joy.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

@@ -1,13 +1,13 @@
 ---
-title: "Common of Saints"
+title: "The Second Sunday after Epiphany"
 ---
-# The Second Sunday after Epiphany
+# The Second Sunday after Epiphany  
 
-## The Collect
+## The Collect  
 
 Almighty and everlasting God, who dost govern all things in heaven and earth, mercifully hear the supplications of Thy people, and grant us Thy peace all the days of our life; through Jesus Christ our Lord. R. Amen.
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the twelfth chapter of the Epistle of St. Paul the Apostle to the Romans, beginning at the first verse.
 
@@ -25,4 +25,4 @@ AND the third day there was a marriage in Cana of Galilee; and the mother of Jes
 
 His mother saith unto the servants: Whatsoever He saith unto you, do it. And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus saith unto them: Fill the waterpots with water. And they filled them up to the brim. And He saith unto them: Draw out now, and bear unto the governor of the feast. And they bare it.
 
-When the ruler of the feast had tasted the water that was made wine, and knew not whence it was (but the servants which drew the water knew), the governor of the feast called the bridegroom, and saith unto him: Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse; but thou hast kept the good wine until now. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.
+When the ruler of the feast had tasted the water that was made wine, and knew not whence it was (but the servants which drew the water knew), the governor of the feast called the bridegroom, and saith unto him: Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse; but thou hast kept the good wine until now. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.  

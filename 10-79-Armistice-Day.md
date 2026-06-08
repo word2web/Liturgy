@@ -3,8 +3,7 @@ title: "Armistice Day"
 ---
 # Armistice Day
 
----
-## The Collect
+## The Collect  
 
 O ALMIGHTY God,
 the Sovereign Commander of all the world,
@@ -17,8 +16,7 @@ and to the benefit of all mankind,
 through Christ our Holy Lord.
 **R.** Amen.
 
----
-## The Epistle
+## The Epistle  
 
 *The portion of Scripture appointed for the Epistle is taken from the twenty-second chapter of the Second Book of Samuel, beginning at the second verse.*
 
@@ -40,8 +38,7 @@ for the Lord wrought a great victory that day.
 
 **Here endeth the Epistle.**
 
----
-## The Gospel
+## The Gospel  
 
 *The holy Gospel is taken from the twelfth chapter of that according to St. John, beginning at the twenty-third verse.*
 
@@ -54,4 +51,4 @@ He that loveth his life shall lose it;
 and he that hateth his life in this world shall keep it unto life eternal.
 If any man serve Me, let him follow Me;
 and where I am, there shall also My servant be.
-And I, if I be lifted up from the earth, will draw all men unto Me.
+And I, if I be lifted up from the earth, will draw all men unto Me.  

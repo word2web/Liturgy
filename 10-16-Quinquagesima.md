@@ -1,15 +1,15 @@
 ---
-title: "Common of Saints"
+title: "Quinquagesima Sunday"
 ---
-# Quinquagesima Sunday
+# Quinquagesima Sunday  
 
-_(The Sunday before Ash Wednesday)_
+*(The Sunday before Ash Wednesday)*  
 
-## The Collect
+## The Collect  
 
-O Lord, who hast taught us that all our doings without charity are nothing worth, send Thy Holy Ghost and pour into our hearts that most excellent gift of charity, the very bond of peace and of all virtues, without which whosoever liveth is counted dead before Thee; grant this for Thine only Son Jesus Christ’s sake. R. Amen.
+O Lord, who hast taught us that all our doings without charity are nothing worth, send Thy Holy Ghost and pour into our hearts that most excellent gift of charity, the very bond of peace and of all virtues, without which whosoever liveth is counted dead before Thee; grant this for Thine only Son Jesus Christ’s sake. R. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the thirteenth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the first verse.
 
@@ -21,7 +21,7 @@ Charity never faileth; but whether there be prophecies, they shall fail; whether
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the eighteenth chapter of that according to St. Luke, beginning at the thirty-first verse.
 
@@ -31,4 +31,4 @@ And they understood none of these things; and this saying was hid from them, nei
 
 And it came to pass that as He was come nigh unto Jericho, a certain blind man sat by the wayside begging; and hearing the multitude pass by, he asked what it meant. And they told him that Jesus of Nazareth passeth by. And he cried, saying: Jesus, Thou Son of David, have mercy on me!
 
-And they which went before rebuked him that he should hold his peace; but he cried so much the more: Thou Son of David, have mercy on me! And Jesus stood and commanded him to be brought unto Him; and when he was come near, He asked him, saying: What wilt thou that I shall do unto thee? And he said: Lord, that I may receive my sight. And Jesus said unto him: Receive thy sight; thy faith hath made thee whole. And immediately he received his sight, and followed Him, glorifying God; and all the people, when they saw it, gave praise unto God.
+And they which went before rebuked him that he should hold his peace; but he cried so much the more: Thou Son of David, have mercy on me! And Jesus stood and commanded him to be brought unto Him; and when he was come near, He asked him, saying: What wilt thou that I shall do unto thee? And he said: Lord, that I may receive my sight. And Jesus said unto him: Receive thy sight; thy faith hath made thee whole. And immediately he received his sight, and followed Him, glorifying God; and all the people, when they saw it, gave praise unto God.  

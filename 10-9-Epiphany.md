@@ -1,13 +1,13 @@
 ---
-title: "Common of Saints"
+title: "The Epiphany of Our Lord"
 ---
 # The Epiphany of Our Lord
 
-_(January 6th)_
+*(January 6th)*  
 
 ## The Collect
 
-O God, who by the leading of a star didst manifest Thine only-begotten Son to the Gentiles, mercifully grant that we, who know Thee now by faith, may after this life enjoy the fulness of Thy glorious Godhead; through Jesus Christ our Lord. R. Amen.
+O God, who by the leading of a star didst manifest Thine only-begotten Son to the Gentiles, mercifully grant that we, who know Thee now by faith, may after this life enjoy the fulness of Thy glorious Godhead; through Jesus Christ our Lord. R. Amen.  
 
 This Collect is to be repeated every day with that of the Sunday or other Feast until the Purification of the Blessed Virgin Mary.
 
@@ -33,4 +33,4 @@ Then Herod, when he had privily called the wise men, enquired of them diligently
 
 When they had heard the king, they departed; and, lo, the star which they saw in the East went before them till it came and stood over where the young Child was. And when they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young Child with Mary His mother, and fell down and worshipped Him; and when they had opened their treasures, they presented unto Him gifts: gold, and frankincense, and myrrh.
 
-And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
+And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.  

@@ -30,4 +30,4 @@ title: "A Table of Sundays"
 | St. Michael and All Angels (Michaelmas)                | Sept. 29    | A     | White   |
 | All Saints’ Day                                        | Nov. 1      | A     | White   |
 | All Souls’ Day                                         | Nov. 2      | A     | Violet  |
-| *St. Andrew, Apostle (Scotland)                        | Nov. 30     |
+| *St. Andrew, Apostle (Scotland)                        | Nov. 30     |       |         |  

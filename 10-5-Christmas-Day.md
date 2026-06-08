@@ -1,9 +1,9 @@
 ---
-title: "Common of Saints"
+title: "Christmas Day"
 ---
 # Christmas Day
 
-_The Nativity of Our Lord_
+*The Nativity of Our Lord*  
 
 ## The Collect
 
@@ -25,4 +25,4 @@ IT came to pass in those days that there went out a decree from Cæsar Augustus 
 
 And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And, lo, the Angel of the Lord came upon them, and the glory of the Lord shone round about them, and they were sore afraid. And the Angel said unto them: Fear not, for behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord. And this shall be a sign unto you; ye shall find the babe wrapped in swaddling clothes, lying in a manger. And suddenly there was with the Angel a multitude of the heavenly host praising God, and saying: Glory to God in the highest, and on earth peace, good-will towards men.
 
-_The same Collect, Epistle and Gospel shall serve for every day after until Complin on New Year’s Eve, unless otherwise ordered._
+*The same Collect, Epistle and Gospel shall serve for every day after until Complin on New Year’s Eve, unless otherwise ordered.*

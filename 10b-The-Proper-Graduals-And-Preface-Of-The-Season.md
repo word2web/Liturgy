@@ -8,18 +8,14 @@ title: "The Proper Graduals and Prefaces of the Season"
 _The Gradual for Christmas Day and Seven Days After_
 
 > Unto us a Child is born: unto us a Son is given. His Name shall be called Wonderful, Counsellor: the mighty God, the everlasting Father, the Prince of Peace.
-> 
 > Of the increase of His government and peace there shall be no end: to establish His kingdom with justice for ever and for ever.
-> 
 > Glory to God in the highest: on earth peace to men of good will.
 
----
 
 ### **The Preface for Christmas Day and Seven Days After**
 
 > For by the mystery of the Word made flesh, the light of Thy glory hath shone anew upon the eyes of our mind, and our hearts are filled with love and holy joy. **Therefore...**
 
----
 
 ## **Easter Day**
 
@@ -39,13 +35,9 @@ _The Gradual for Christmas Day and Seven Days After_
 > 
 > For since by man came death: by man came also the resurrection of the dead. For as in Adam all die: even so in Christ shall all be made alive.
 
----
-
 ### **The Preface for Easter Day and Seven Days After**
 
 > But chiefly are we bound to praise Thee for the glorious resurrection of Thy Son Jesus Christ our Lord, Who by His mystic death and rising again hath given unto us the promise of everlasting life. **Therefore...**
-
----
 
 ## **Ascension Day**
 
@@ -61,13 +53,9 @@ _The Gradual for Christmas Day and Seven Days After_
 > 
 > Glory be to the Father, and to the Son: and to the Holy Ghost. As it was in the beginning, is now, and ever shall be: world without end. Amen.
 
----
-
 ### **The Preface for Ascension Day and Nine Days After**
 
 > Through Thy most dearly beloved Son Jesus Christ our Lord, Who after His most glorious resurrection ascended up above all the heavens; that where He is, thither we might also ascend and, being made partakers of His Godhead, might reign with Him in glory. **Therefore...**
-
----
 
 ## **Whitsunday**
 
@@ -81,13 +69,9 @@ _The Gradual for Christmas Day and Seven Days After_
 > 
 > The Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
 
----
-
 ### **The Preface for Whitsunday and Six Days After**
 
 > Through Jesus Christ our Lord, Who, going up above all the heavens, according to His most true promise, sent forth the Holy Ghost, Which came down as at this time from heaven with a sudden great sound, as it had been a mighty wind, in the likeness of fiery tongues, lighting upon the Apostles, to teach them, and to lead them to all truth. **Therefore...**
-
----
 
 ## **Trinity Sunday**
 
@@ -101,15 +85,11 @@ _The Gradual for Christmas Day and Seven Days After_
 > 
 > Glory be to the Father, and to the Son: and to the Holy Ghost. As it was in the beginning, is now, and ever shall be: world without end. Amen.
 
----
-
 ### **The Preface for Trinity Sunday Only**
 
 > The words _"holy Father"_ in the ordinary Preface are omitted on this occasion.
 > 
 > Who art one God, one Lord, not in the oneness of a single Person only, but in the trinity of one Substance; for the Father is Lord, the Son Lord, and the Holy Ghost Lord; and yet They are not three Lords, but One Lord. **Therefore...**
-
----
 
 ## **Festivals of Our Lady**
 
@@ -121,13 +101,9 @@ _The Gradual for Christmas Day and Seven Days After_
 > 
 > My soul doth magnify the Lord: and my spirit hath rejoiced in God my Saviour. For He hath regarded the lowliness of His handmaiden. For behold, from henceforth: all generations shall call me blessed. For He that is mighty hath magnified me: and holy is His Name.
 
----
-
 ### **The Preface for the Days Aforementioned**
 
 > But to-day we chiefly praise Thee for the help and the example of the holy Lady Mary, Star of the Sea and Mother of our Lord, Queen of the Angels, our pattern of humility and purity. **Therefore...**
-
----
 
 ## **Festivals of the Angels**
 
@@ -138,8 +114,6 @@ _The Gradual for Christmas Day and Seven Days After_
 > To Him all Angels sing aloud: the Heavens and all the Powers therein. To Him Cherubim and Seraphim: continually do cry: Holy, Holy, Holy: Lord God of Hosts.
 > 
 > O praise the Lord, ye Angels of His, ye that excel in strength: ye that fulfil His commandment, and hearken unto the voice of His words. O praise the Lord, all ye His hosts: ye servants of His that do His pleasure.
-
----
 
 ### **The Preface for the Days Aforementioned**
 

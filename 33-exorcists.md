@@ -20,4 +20,4 @@ Wherefore, dearly beloved sons, strive diligently in this new office to which yo
 **Bishop:** Let us pray.
 
 O Lord Christ, Who art ever ready to receive and to strengthen the earnest aspirations of Thy children, look down in Thy love upon these Thy servants who desire to become worthy to serve Thee as Exorcists in Thy holy Church. Sanctify ☩ them, O Lord, with Thy heavenly grace, that growing continually in virtue they may rightly practise the duties of their office and so be found acceptable in Thy sight, O Thou great King of Love, to Whom be glory for ever and ever.  
-**R.** Amen.
+**R.** Amen  

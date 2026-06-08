@@ -9,7 +9,6 @@ title: "Form for the Administration of Holy Communion with the Reserved Sacramen
 Standing before the Altar steps, the Priest says:
 
 > In the Name of the Father, and of the Son, and of the Holy Ghost.
-> 
 > **R.** Amen.
 
 All kneel, and say the **Confiteor**.

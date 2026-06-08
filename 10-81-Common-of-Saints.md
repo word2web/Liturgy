@@ -3,7 +3,6 @@ title: "Common of Saints"
 ---
 # Common of Saints
 
----
 ## The Collect
 
 WE thank Thee, Lord, and praise Thee
@@ -15,7 +14,6 @@ in the unity of the same Holy Spirit,
 one God throughout all ages of ages.
 **R.** Amen.
 
----
 ## The Epistle
 
 *The portion of Scripture appointed for the Epistle is taken from the forty-second chapter of the Book of the Prophet Isaiah, beginning at the first verse.*
@@ -43,7 +41,6 @@ These things will I do unto them, and not forsake them.
 
 **Here endeth the Epistle.**
 
----
 ## The Gospel
 
 *The holy Gospel is taken from the fifth chapter of that according to St. Matthew, beginning at the second verse.*

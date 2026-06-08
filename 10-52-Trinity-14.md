@@ -1,16 +1,16 @@
 ---
-title: "Common of Saints"
+title: "The Fourteenth Sunday after Trinity"
 ---
 # The Fourteenth Sunday after Trinity  
 
-*Intent: Renewal of Heart*
+*Intent: Renewal of Heart* 
 
-## The Collect
+## The Collect  
 
 O GOD, Who in Thy lovingkindness hast appointed for us a ministry of reconciliation, that by it our feet may be restored to the path wherein we should walk; grant us that, firmly resisting all temptation, we may follow that path unto its glorious end in Thee, through Christ our Lord.  
-℟. Amen.
+℟. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the first chapter of the First Epistle General of St. John, beginning at the first verse.
 
@@ -18,8 +18,8 @@ THAT which was from the beginning, which we have heard, which we have seen with 
 
 *Here endeth the Epistle.*
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the ninth chapter of that according to St. Matthew, beginning at the second verse.
 
-THEY brought to Him a man sick of the palsy, lying on a bed; and Jesus, seeing their faith, said unto the sick of the palsy: Son, be of good cheer; thy sins be forgiven thee. But certain of the scribes said within themselves: This man blasphemeth. And Jesus, knowing their thoughts, said: Wherefore think ye evil in your hearts? For whether is easier, to say: Thy sins be forgiven thee, or to say: Arise and walk? But that ye may know that the Son of Man hath power on earth to forgive sins (then saith He to the sick of the palsy): Arise, take up thy bed, and go into thy house. And he arose and departed to his house. And when the multitude saw it, they marvelled, and glorified God, which had given such power unto men.
+THEY brought to Him a man sick of the palsy, lying on a bed; and Jesus, seeing their faith, said unto the sick of the palsy: Son, be of good cheer; thy sins be forgiven thee. But certain of the scribes said within themselves: This man blasphemeth. And Jesus, knowing their thoughts, said: Wherefore think ye evil in your hearts? For whether is easier, to say: Thy sins be forgiven thee, or to say: Arise and walk? But that ye may know that the Son of Man hath power on earth to forgive sins (then saith He to the sick of the palsy): Arise, take up thy bed, and go into thy house. And he arose and departed to his house. And when the multitude saw it, they marvelled, and glorified God, which had given such power unto men.  

@@ -95,7 +95,7 @@ With this ring I thee wed; my truest love I thee pledge; with my body I give the
 *Eternal God, Creator and Preserver of all mankind, Giver of all spiritual grace, the Author of everlasting life, send Thy blessing upon these Thy servants, this man and this woman, whom we ☩ bless in Thy Name; that these persons may surely perform and keep the vow and covenant betwixt them made, and may so hold their lives in the knowledge and love of Thee that they may dwell together in holy love and peace. Through Christ our Lord.*  
 **R.** Amen.
 
-### Wedding Hymn
+### Wedding Hymn  
 
 *The people stand, but the newly-married pair kneel, while the hymn is sung.*
 
@@ -212,7 +212,7 @@ I am the true vine, and My Father is the husbandman. Every branch in Me that bea
 *Eternal God, Creator and Preserver of all mankind, Giver of all spiritual grace, the Author of everlasting life, send Thy blessing upon these Thy servants, this man and this woman, whom we ☩ bless in Thy Name; that these persons may surely perform and keep the vow and covenant betwixt them made, and may so hold their lives in the knowledge and love of Thee that they may dwell together in holy love and peace. Through Christ our Lord.*  
 **R.** Amen.
 
-### Communio
+### Communio  
 
 The eye of the Lord is upon them that love Him: even upon them that rest on His lovingkindness.  
 
@@ -220,9 +220,9 @@ The spirit of man is the candle of the Lord: and the righteous shall shine forth
 
 For every good gift and every perfect gift is from above: and cometh down from the Father of Lights, in Whom is no variableness, neither shadow of turning.  
 
-### Postcommunio
+### Postcommunio  
 
 **P.** O Lord Christ, Thou Who art the Well of infinite compassion, look with the tender eyes of Thy love upon Thy servant and Thy handmaid; strengthen them that the light of Thy glory may ever burn brightly in their hearts, O Thou great King of Love, to Whom be praise and adoration from men and from the Angel host.  
 **R.** Amen.
 
-*If the father be dead or unavoidably absent, and no friend can be found to take his place, the bride herself may place her right hand in that of the Priest, but the older form is to be preferred when it is possible.*
+*If the father be dead or unavoidably absent, and no friend can be found to take his place, the bride herself may place her right hand in that of the Priest, but the older form is to be preferred when it is possible.*  

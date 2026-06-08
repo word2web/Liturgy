@@ -3,11 +3,11 @@ title: "Second Sunday in Advent"
 ---
 # Second Sunday in Advent
 
-## The Collect
+## The Collect  
 
 O God, Creator and Preserver of mankind, we thank Thee for Thy never-failing love, and do most earnestly desire and resolve to show forth Thy praise not only with our lips, but in our lives, by giving up ourselves to Thy service, and by walking before Thee in holiness and righteousness all our days, through Christ our Lord. R. Amen.
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the fifth chapter of the First Epistle of St. Paul the Apostle to the Thessalonians, beginning at the eleventh verse.
 
@@ -17,7 +17,7 @@ And the very God of peace sanctify you wholly; and I pray God your whole spirit 
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the fourth chapter of that according to St. Mark, beginning at the twenty-fourth verse.
 
@@ -25,4 +25,4 @@ TAKE heed what ye hear; with what measure ye mete, it shall be measured to you; 
 
 So is the kingdom of God, as if a man should cast seed into the ground and should sleep and rise night and day, and the seed should spring and grow up, he knoweth not how. For the earth bringeth forth fruit of herself: first the blade, then the ear, and after that the full corn in the ear. But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.
 
-Whereunto shall we liken the kingdom of God? Or with what comparison shall we compare it? It is like a grain of mustard seed, which when it is sown in the earth is less than all the seeds that be in the earth; but when it is sown it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.
+Whereunto shall we liken the kingdom of God? Or with what comparison shall we compare it? It is like a grain of mustard seed, which when it is sown in the earth is less than all the seeds that be in the earth; but when it is sown it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.  

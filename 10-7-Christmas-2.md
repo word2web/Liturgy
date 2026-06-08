@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Second Sunday after Christmas"
 ---
 # The Second Sunday after Christmas
 
@@ -25,4 +25,4 @@ There was a man sent from God whose name was John. The same came for a witness, 
 
 He was in the world, and the world was made by Him, and the world knew Him not. He came unto His own, and His own received Him not. But as many as received Him, to them gave He power to become the sons of God, even to them that believe on His Name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 
-And the Word was made flesh and dwelt among us (and we beheld His glory, the glory as of the only-begotten of the Father), full of grace and truth.
+And the Word was made flesh and dwelt among us (and we beheld His glory, the glory as of the only-begotten of the Father), full of grace and truth.  

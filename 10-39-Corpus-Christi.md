@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Corpus Christi"
 ---
 # Corpus Christi
 
@@ -24,4 +24,4 @@ AMEN, amen, I say unto you: He that believeth on Me hath everlasting life. I am 
 
 At the chief celebration of the Holy Eucharist the Blessed Sacrament is carried round the Church in procession in the monstrance during the singing of the Adeste Fideles. If this hymn be not long enough, it should be supplemented by some other Eucharistic hymn. At the evening service there should be Solemn Benediction and procession of the Sacred Host.
 
-The same Collect, Epistle and Gospel shall serve for the following Sunday and until the Second Sunday after Trinity.
+The same Collect, Epistle and Gospel shall serve for the following Sunday and until the Second Sunday after Trinity.  

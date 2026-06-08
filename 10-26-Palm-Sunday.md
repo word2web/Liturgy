@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Sunday Next before Easter, or Palm Sunday"
 ---
 # The Sunday Next before Easter, or Palm Sunday
 
@@ -56,8 +56,8 @@ Maundy Thursday takes its name from the opening words of the antiphon Mandatum n
 On Good Friday the Church commemorates the solemn event of the crucifixion in the mystery-drama. From the evening of Maundy Thursday the church is stripped of earthly pomp and splendour, and there is no Celebration until that of the Resurrection on Easter morning. Instead, on Friday and Saturday there is celebrated the Eucharist of the Presanctified, in which the consecration is omitted, the Priest receiving a Host consecrated or "presanctified" on Maundy Thursday.
 The traditional offices of this and the following day are protracted by the reading of long passages from the Old Testament, but these are not part of our rite. In the Eastern Church a Mass of the Presanctified is enjoined for all days in Lent, except Saturdays and Sundays.
 
-In ancient times the people spent the night before Easter in prayer and watching. 
+In ancient times the people spent the night before Easter in prayer and watching.  
 
 During this night the water in the baptismal font was blessed and catechumens were baptized in readiness to share in the Celebration of the Resurrection at dawn. In preparation for all this, long discourses and scripture readings were given for the edification of the faithful. Part of the symbolism, also, was the blessing of the new fire, and the lighting therefrom of the paschal candle and the lamps of the church. During the middle ages a tendency to anticipate liturgical events came increasingly and irresistibly into evidence, and now the Roman Catholic Church celebrates the Mass of Resurrection, as well as the blessing of the new fire and of the baptismal font, on the Saturday morning.
 
-The Liberal Catholic rite has reverted to the older and surely sounder usage of not celebrating the Eucharist of the Resurrection until Easter morning.
+The Liberal Catholic rite has reverted to the older and surely sounder usage of not celebrating the Eucharist of the Resurrection until Easter morning.  

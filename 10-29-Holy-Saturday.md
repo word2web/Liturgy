@@ -7,21 +7,22 @@ The Altar is covered with a plain linen cloth and violet frontal, but otherwise 
 
 If convenient, Prime may be sung before the special service of the Day. If that be done, the lessons which follow shall be used as the First and Second Lessons at Prime in place of the Epistle and Gospel.
 
-## The First Lesson
+## The First Lesson  
+
 The First Lesson is taken from the thirty-seventh Psalm of King David, beginning at the third verse.
 
 Put thou thy trust in the Lord, and be doing good: delight thou in the Lord, and He shall give thee thy heart's desire. Commit thy way unto the Lord, and put thy trust in Him, and He shall bring it to pass. He shall make thy righteousness as clear as the light, and thy just dealing as the noonday. O rest in the Lord; wait patiently for Him; for the meek shall inherit the earth, and shall delight themselves in the abundance of peace.
 
 Here endeth the First Lesson.
 
-## The Second Lesson
+## The Second Lesson  
 
 The Second Lesson is taken from the fourteenth chapter of the Gospel according to St. John, beginning at the first verse.
 Let not your heart be troubled; ye believe in God, believe also in Me. In My Father's house are many mansions; if it were not so I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again and receive you unto Myself, that where I am there ye may be also. Now, I have told you before it come to pass, that when it is come to pass ye might believe. Peace I leave with you, My peace I give unto you; not as the world giveth give I unto you. Let not your heart be troubled, neither let it be afraid.
 
 Here endeth the Second Lesson.
 
-## THE BLESSING OF THE FIRE
+## THE BLESSING OF THE FIRE  
 
 At a convenient time before the service fire is kindled outside the Church. It is desirable that the tinder from which this fire is ignited should be lighted from the sun by means of a lens, but if that be not possible, flint and steel should be used.
 The service begins with the Asperges. Then a procession is formed which moves to the door of the Church. The glowing embers are placed in an appropriate vessel, such as an open thurible. The Priest blesses the new fire in this wise:

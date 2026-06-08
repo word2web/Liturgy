@@ -10,8 +10,6 @@ At the appointed time, those about to be made Clerics are summoned by a Priest, 
 
 The ordinands rise from their seats and advance a few paces towards the Bishop, bearing lighted candles in their hands. They bow to him, the candles are then taken from them, and they are seated while the Bishop charges them, as follows:
 
----
-
 ## The Bishop’s Charge
 
 > Those who in ancient days desired to dedicate their lives to the service of Christ’s holy Church were admitted, as a preliminary step, to this Order of Cleric. Being set apart from the life of the world, they were admonished to put away worldly distractions and secular desires, the abandonment of which, as typified by outer adornment of the person, was indicated by the shaving of hair from the head and the relinquishment of secular garb.
@@ -24,7 +22,7 @@ The ordinands rise from their seats and advance a few paces towards the Bishop, 
 
 > In this Order of Cleric, then, you must learn self-control with regard to the body. It must be trained to habits of accuracy and neatness; it must be kept in perfect health and cleanliness, and you must see that it devotes its energies to God’s service, not in disorderliness and selfishness, but in harmony and rhythm. In your gesture, in your manner and your speech, strive to show forth the ideal of beauty, never forgetting that our physical bodies are the temple of the Holy Ghost. Moreover, as you learn to respect your own body, so must you scrupulously respect the bodies of others, picturing them ever as the temple of the eternal Beauty.
 
----
+
 
 The charge being ended, the ordinands kneel before the Bishop, who rises and says:
 
@@ -34,7 +32,6 @@ The charge being ended, the ordinands kneel before the Bishop, who rises and say
 > O Lord Christ, Who art ever ready to receive and to strengthen the earnest aspirations of Thy children, look down in Thy love upon these Thy servants who desire to become worthy to serve Thee as Clerics in Thy holy Church. Sanctify + them, O Lord, with Thy heavenly grace, that growing continually in virtue they may rightly practise the duties of their office and so be found acceptable in Thy sight, O Thou great King of Love, to Whom be glory for ever and ever.
 > **Response:** Amen.
 
----
 
 The ordinands kneel before the Bishop in succession. He places his right hand on the head of each, as he says:
 
@@ -50,6 +47,4 @@ Having ordained the several candidates, he blesses the new Clerics in the follow
 
 > **Bishop:**
 > The blessing of God Almighty, the + Father, the + Son, and the Holy + Ghost come down upon you, that you may rightly fulfil that which to-day you have undertaken.
-> **Response:** Amen.
-
----
+> **Response:** Amen.  

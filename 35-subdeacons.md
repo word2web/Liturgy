@@ -203,5 +203,4 @@ The Holy Eucharist is then continued to its close.
 
 In the Prayer of Consecration the following clause is inserted after the words: “for all our Bishops, clergy and faithful”:
 
-> Especially for these whom in Christ’s holy Name we have admitted to the Order of the Subdiaconate.
-```
+> Especially for these whom in Christ’s holy Name we have admitted to the Order of the Subdiaconate.  

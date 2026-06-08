@@ -3,8 +3,6 @@ title: "St. Michael and All Angels"
 ---
 # St. Michael and All Angels
 
----
-
 ## The Collect
 
 ALMIGHTY and everlasting God,
@@ -16,10 +14,9 @@ devote ourselves wholly to the helping of our brethren,
 through Christ our Lord.
 **R.** Amen.
 
----
 ## The Epistle
 
-_The portion of Scripture appointed for the Epistle is taken from the seventh and eighth chapters of the Revelation of St. John the Divine._
+*The portion of Scripture appointed for the Epistle is taken from the seventh and eighth chapters of the Revelation of St. John the Divine.*
 
 I SAW the seven Angels which stood before God;
 and to them were given seven trumpets.
@@ -35,10 +32,9 @@ Amen.
 
 **Here endeth the Epistle.**
 
----
-## The Gospel
+## The Gospel  
 
-_The holy Gospel is taken from the eighteenth chapter of that according to St. Matthew, beginning at the first verse._
+*The holy Gospel is taken from the eighteenth chapter of that according to St. Matthew, beginning at the first verse.*
 
 THEN came the disciples unto Jesus, saying:
 Who is the greatest in the Kingdom of heaven?
@@ -53,4 +49,4 @@ for it must needs be that offences come, but woe to that man by whom the offence
 Take heed that ye despise not one of these little ones;
 for I say unto you, that in heaven their Angels do always behold the face of My Father which is in heaven.
 
-_The same Collect, Epistle and Gospel shall serve for six days after, but on the seventh day those of the Third Sunday after Trinity shall be used._
+*The same Collect, Epistle and Gospel shall serve for six days after, but on the seventh day those of the Third Sunday after Trinity shall be used.*  

@@ -19,13 +19,11 @@ It is desirable that the person to be anointed should receive Holy Communion, if
 
 If Communion of the Sick is to be administered apart from Holy Unction, the form for the Administration of Holy Communion with the reserved Sacrament on page 205 should be used, unless a complete Celebration is to take place in the house.
 
----
 
 ## HOLY UNCTION
 
-_If convenient, a table should be provided, covered with a linen cloth and bearing upon it a cross and two lighted candles. The Priest wears a violet stole._
+*If convenient, a table should be provided, covered with a linen cloth and bearing upon it a cross and two lighted candles. The Priest wears a violet stole*
 
----
 
 ### THE INVOCATION
 
@@ -33,21 +31,18 @@ _If convenient, a table should be provided, covered with a linen cloth and beari
 
 The Priest now touches the forehead of the patient with holy water and sprinkles his surroundings.
 
-_[The following may be omitted.]_
+*[The following may be omitted.]*
 
 **P:** Hear the words of the Apostle James:
 
-> Is any sick among you? Let him call for the elders of the Church; and let them pray over him, anointing him with oil in the Name of the Lord. And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him. Pray for one another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
+> Is any sick among you? Let him call for the elders of the Church; and let them pray over him, anointing him with oil in the Name of the Lord. And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him. Pray for one another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.  
 
----
-
-### CONFITEOR
+### CONFITEOR  
 
 The sick person should now make confession of their offences, reciting the Confiteor, or if they feel their conscience sufficiently troubled with any weighty matter, making a special confession (but without the usual form and preliminaries). If the patient is very weak, the Confiteor may be said on their behalf by the Priest or another, or it suffices that they make a mental act of aspiration.
 
 > O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness. But Thou, O Lord, hast made us for Thyself, and our hearts are ever restless till they find their rest in Thee. Look with the eyes of Thy love upon my manifold imperfections, and pardon all my shortcomings; that I may be filled with the brightness of the everlasting light, and become the unspotted mirror of Thy power, and the image of Thy goodness. Through Christ our Lord. **Amen.**
 
----
 
 ### THE UNCTION
 
@@ -72,19 +67,17 @@ In cases of extremity, or at the option of the Priest, the forehead only need be
 
 **P:** By this holy + unction and of His most tender love, the Lord pardon thee whatever faults thou hast committed through thy thoughts and desires, and the senses of thy body. **R:** Amen.
 
----
 
-### THE ABSOLUTION
+### THE ABSOLUTION  
 
 **P:** Our Lord Christ, Who hath left power on earth to His Church to absolve all those that with hearty repentance and true faith turn unto Him, of His tender compassion forgive thee thine offences; and by His authority committed unto me I + absolve thee from all thy sins. In the Name of the Father, + and of the Son, and of the Holy Ghost. **Amen.**
 
 **P:** The King of Love and Fountain of all goodness restore unto thee the fellowship of the Holy Spirit, and give thee grace to continue in the same, that thou mayest inherit the kingdom of heaven and be made like unto His own pure and glorious Image. **R:** Amen.
 
----
 
-### AN ALTERNATIVE UNCTION
+### AN ALTERNATIVE UNCTION  
 
-_To be used when the previous unction is omitted._
+*To be used when the previous unction is omitted.*  
 
 **P:** Let us pray.
 
@@ -94,7 +87,6 @@ The Priest now anoints the patient with the oil for the sick upon the forehead, 
 
 **P:** In the Name of Christ, and invoking the holy Archangel Raphael, I + anoint thee with oil, that thou mayest gain refreshment, both of soul and body. **R:** Amen.
 
----
 
 Whichever form of unction has been used, the Priest now proceeds to anoint, in the same manner as before but in silence, the seven centres of the body, to wit:
 
@@ -112,7 +104,7 @@ The Priest then says the following prayer, omitting the portion in brackets if i
 
 > As with this visible oil thy body is outwardly anointed, so our heavenly Father, Almighty God, grant of His infinite goodness that thy soul inwardly may be anointed with the Holy Ghost, Who is the Spirit of strength, relief, and gladness. And [howsoever His goodness shall dispose of thee, whether this world still detain thee in the flesh or the future receive thee out of the body,] may He so replenish thee with the spirit of His wisdom and strengthen thee with His mighty power, that thou mayest persevere in the way of holiness and ever serve Him joyfully in the course He hath appointed for thee. Through Christ our Lord. **R:** Amen.
 
----
+
 
 ### THE BENEDICTION
 
@@ -122,31 +114,24 @@ _If Holy Communion is to be given, the following blessing is omitted:_
 
 **P:** Unto God’s gracious love and protection we commit thee; the Lord + bless thee and keep thee; the Lord make His Face to shine upon thee and be gracious unto thee; the Lord lift up the light of His Countenance upon thee and give thee His peace, now and for evermore. **R:** Amen.
 
----
 
-_The Priest, wearing a white stole, administers Holy Communion if the sick person is capable of receiving it. The form for the administration of Holy Communion with the reserved Sacrament is used, the Confiteor and Absolution being omitted. In cases of great weakness, the words of administration alone will suffice._
-
----
+*The Priest, wearing a white stole, administers Holy Communion if the sick person is capable of receiving it. The form for the administration of Holy Communion with the reserved Sacrament is used, the Confiteor and Absolution being omitted. In cases of great weakness, the words of administration alone will suffice.*  
 
 ## PROCEDURE IN EXTREMIS
 
----
 
-### THE ABSOLUTION
+### THE ABSOLUTION  
 
-_The Priest should exhort the dying person to make a momentary act of contrition and then to turn with love and devotion to their Master. The Priest immediately pronounces the Absolution, using, if necessary, the following shortened form:_
+*The Priest should exhort the dying person to make a momentary act of contrition and then to turn with love and devotion to their Master. The Priest immediately pronounces the Absolution, using, if necessary, the following shortened form:*  
 
 **P:** I + absolve thee from all thy sins, in the Name of the Father, + and of the Son, and of the Holy Ghost. **R:** Amen.
 
----
-
-### THE UNCTION
+### THE UNCTION  
 
 Holy Unction may be administered, the Priest anointing the forehead as he says:
 
 **P:** By this holy + unction and of His most tender love, the Lord pardon thee whatever faults thou hast committed through thy thoughts and desires, and the senses of thy body. **R:** Amen.
 
----
 
 ### VIATICUM
 
@@ -154,10 +139,8 @@ The Viaticum is then given, unless there is danger of the body rejecting or bein
 
 **P:** Brother (or Sister), receive the Viaticum of the most holy Body of our Lord Jesus Christ, and may the peace of the Lord go with thee. **R:** Amen.
 
----
-
-### THE BENEDICTION
+### THE BENEDICTION  
 
 **P:** Unto God’s gracious love and protection we commit thee; the Lord + bless thee and keep thee; the Lord make His Face to shine upon thee and be gracious unto thee; the Lord lift up the light of His Countenance upon thee and give thee His peace, now and for evermore. **R:** Amen.
 
-_If death takes place, the Priest may at once proceed to the Absolution, as set forth in the Order of the Burial of the Dead._
+*If death takes place, the Priest may at once proceed to the Absolution, as set forth in the Order of the Burial of the Dead.*  

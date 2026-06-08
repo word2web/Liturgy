@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "New Year's Day"
 ---
 # New Year’s Day
 
@@ -23,4 +23,4 @@ The holy Gospel is taken from the fifteenth chapter of that according to St. Mat
 
 JESUS answered and said unto them: Every plant which My heavenly Father hath not planted shall be rooted up. Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
 
-But He answered and said: It is not meet to take the children’s bread and to cast it to dogs. And she said: Truth, Lord; yet the dogs eat of the crumbs which fall from their masters’ table. Then Jesus answered and said unto her: O woman, great is thy faith; be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
+But He answered and said: It is not meet to take the children’s bread and to cast it to dogs. And she said: Truth, Lord; yet the dogs eat of the crumbs which fall from their masters’ table. Then Jesus answered and said unto her: O woman, great is thy faith; be it unto thee even as thou wilt. And her daughter was made whole from that very hour.  

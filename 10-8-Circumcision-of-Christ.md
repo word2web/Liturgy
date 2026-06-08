@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Circumcision of Christ"
 ---
 # The Circumcision of Christ
 
@@ -7,11 +7,11 @@ title: "Common of Saints"
 
 > Note: In some traditions, the Feast of the Circumcision coincides with New Year’s Day. Where observed separately, the following may be used.
 
-## The Collect
+## The Collect  
 
 Almighty God, who madest Thy blessed Son to be circumcised and obedient to the Law for our sake, grant us the true circumcision of the Spirit, that our hearts and all our members may be mortified from all worldly and carnal lusts, and we may in all things obey Thy blessed will; through the same Jesus Christ our Lord. R. Amen.
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the second chapter of the Epistle of St. Paul the Apostle to the Romans, beginning at the twenty-fifth verse.
 
@@ -19,8 +19,8 @@ CIRCUMCISION verily profiteth if thou keep the law; but if thou be a breaker of 
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the second chapter of that according to St. Luke, beginning at the twenty-first verse.
 
-AND when eight days were accomplished for the circumcising of the Child, His Name was called JESUS, which was so named of the Angel before He was conceived in the womb.
+AND when eight days were accomplished for the circumcising of the Child, His Name was called JESUS, which was so named of the Angel before He was conceived in the womb  

@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Fourth Sunday after Easter"
 ---
 # The Fourth Sunday after Easter
 
@@ -19,4 +19,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the sixteenth chapter of that according to St. Mark, beginning at the first verse.
 
-WHEN the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun. And they said among themselves: Who shall roll us away the stone from the door of the sepulchre? And when they looked they saw that the stone was rolled away; for it was very great. And, entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment, and they were affrighted. And he saith unto them: Be not affrighted; ye seek Jesus of Nazareth Which was crucified. He is risen; He is not here; behold the place where they laid Him. But go your way, tell His disciples and Peter that He goeth before you into Galilee: there shall ye see Him, as He said unto you.
+WHEN the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint Him. And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun. And they said among themselves: Who shall roll us away the stone from the door of the sepulchre? And when they looked they saw that the stone was rolled away; for it was very great. And, entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment, and they were affrighted. And he saith unto them: Be not affrighted; ye seek Jesus of Nazareth Which was crucified. He is risen; He is not here; behold the place where they laid Him. But go your way, tell His disciples and Peter that He goeth before you into Galilee: there shall ye see Him, as He said unto you  

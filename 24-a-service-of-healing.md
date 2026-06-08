@@ -11,7 +11,6 @@ The purpose of the Service of Healing is twofold:
 - To give some relief, when possible, to those suffering from various physical
   ills.
 
----
 
 ## The Service
 
@@ -35,7 +34,6 @@ what is right after a mistake has been made by clearing away the mental and
 emotional entanglements that blind the inner nature and by straightening out
 distortions in the etheric body.
 
----
 
 ### Invocation and Hymn
 
@@ -53,7 +51,7 @@ Blessed Trinity. In the strength of that Presence, the Priest sends forth a
 cleansing current of exorcism intended to clear away anything that might block
 the healing force.
 
----
+
 
 ### Anointing and Laying on of Hands
 
@@ -79,7 +77,7 @@ centered upon themselves at this supreme moment, the more the depths of their
 nature are responsive to the compassionate Presence of the Christ, and the
 greater the possibility of cure.
 
----
+
 
 ### Holy Communion
 
@@ -89,7 +87,7 @@ offered than this, for with the reception of the Sacred Host, the human body
 becomes, for a few hours, a veritable shrine radiating the glowing love and
 power of the Christ.
 
----
+
 
 ## Expectations and Reality
 
@@ -114,7 +112,7 @@ best to help; the patient will do their best to prepare themselves to be
 helped. What will come of it is in higher hands than ours—in the hands of
 Christ the Healer and the King.
 
----
+
 
 ## The Invocation
 
@@ -122,7 +120,7 @@ The Priest wears a red stole. The people stand. The Priest says:
 
 > In the Name of the Father, and of the Son, and of the Holy Ghost. **R.** Amen.
 
----
+
 
 ## Asperges
 

@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Ascension Day"
 ---
 # Ascension Day
 
@@ -24,4 +24,4 @@ BEHOLD, I send the promise of My Father upon you: but tarry ye in the city of Je
 
 The same Collect, Epistle and Gospel shall serve for nine days after.
 After the Gospel on Ascension Day, when the deacon has censed the celebrant, the latter shall reverently extinguish the Paschal Candle, saying:
->The great forty days are over; the Lord hath ascended into heaven; and so in His Name I extinguish this Paschal Candle, which for forty days has symbolized among us His risen body, for a token that as its light, leaving this lower world, passes to higher realms, so may we in heart and mind thither ascend and with Him continually dwell.
+>The great forty days are over; the Lord hath ascended into heaven; and so in His Name I extinguish this Paschal Candle, which for forty days has symbolized among us His risen body, for a token that as its light, leaving this lower world, passes to higher realms, so may we in heart and mind thither ascend and with Him continually dwell.  

@@ -3,12 +3,12 @@ title: "The Baptism of Our Lord"
 ---
 # The Baptism of Our Lord
 
-## The Collect
+## The Collect  
 
 > O LORD, Who didst deign as at this time to receive the baptism of water at the hands of Thy Forerunner, grant that we may become worthy to receive at Thy Hands the baptism of the Holy Ghost and of Fire, Thou Who art the Way, the Truth and the Life, to Whom be praise for evermore.  
 > **℟. Amen.**
 
-## The Epistle
+## The Epistle  
 
 *The portion of Scripture appointed for the Epistle is taken from the eleventh chapter of the Book of the Prophet Isaiah, beginning at the first verse.*
 
@@ -16,7 +16,7 @@ title: "The Baptism of Our Lord"
 
 *Here endeth the Epistle.*
 
-## The Gospel
+## The Gospel  
 
 *The holy Gospel is taken from the third chapter of that according to St. Matthew, beginning at the first verse.*
 

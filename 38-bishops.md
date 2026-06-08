@@ -1,9 +1,7 @@
 ---
 title: "The Consecration of a Bishop"
 ---
-# The Consecration of a Bishop
-
----
+# The Consecration of a Bishop  
 
 ## Introduction
 
@@ -21,7 +19,6 @@ As far as human frailty allows me to judge, I do both know and attest that he is
 **Consecrator:**  
 Thanks be to God.
 
----
 
 ## Presentation of the Protocol
 
@@ -47,7 +44,7 @@ The peace of the Lord be always with thee.
 **Bishop Elect:**  
 Amen.
 
----
+
 
 ## Examination of the Bishop Elect
 
@@ -100,7 +97,7 @@ The Lord keep thee in these things, well-beloved brother, and strengthen thee in
 **All:**  
 Amen.
 
----
+
 
 ## Profession of Faith
 
@@ -116,13 +113,13 @@ The Lord increase this faith in thee, well-beloved brother in Christ, that thou 
 **All:**  
 Amen.
 
----
+
 
 ## Preparation for the Eucharist
 
 The Consecrator and the Bishop Elect each assume the Eucharistic vestments. The Consecrator faces the Altar and begins the Holy Eucharist. After the Absolution, pronounced by the Consecrator, the Bishop Elect, escorted by the assistant Bishops and their several attendants, proceeds to the side Altar. The Consecrator and the Bishop Elect both say the Eucharist in the customary manner up to the end of the Gradual, the following Collect and Epistle being used:
 
----
+
 
 ### The Collect
 
@@ -134,7 +131,7 @@ Amen.
 
 The Collect of the Day and the Collect for Peace follow here.
 
----
+
 
 ### The Epistle
 
@@ -146,7 +143,7 @@ And there were dwelling at Jerusalem Jews, devout men, out of every nation under
 
 Here endeth the Epistle.
 
----
+
 
 ## Litany and Consecration
 
@@ -162,7 +159,7 @@ Amen.
 
 All kneel and sing the following Litany, during which the Bishop Elect lies prostrate:
 
----
+
 
 ### Litany
 
@@ -263,7 +260,7 @@ Amen.
 
 All kneel as the *Veni Creator* is sung:
 
----
+
 
 ### Veni Creator
 
@@ -302,7 +299,7 @@ Be to the Father and the Son,
 Who gave us life; the same to Thee,  
 O Holy Ghost, eternally. Amen.
 
----
+
 
 ## The Consecration
 
@@ -345,7 +342,7 @@ Amen.
 
 He joins the consecrated hands and binds them with a linen strip. Having cleansed his hands, he proceeds to bless the pastoral staff, pectoral cross and ring.
 
----
+
 
 ### Blessing of the Staff
 
@@ -356,8 +353,6 @@ Eternal Triune God, before Whose great white throne seven flaming Spirits stand,
 **All:**  
 Amen.
 
----
-
 ### Blessing of the Cross
 
 Holding the cross between his hands, he says:
@@ -367,7 +362,7 @@ Almighty God, Who of Thine own most holy will didst offer Thyself as a Sacrifice
 **All:**  
 Amen.
 
----
+
 
 ### Blessing of the Ring
 
@@ -378,7 +373,7 @@ O Christ, pure Lord of Love, Whom Angel hosts obey, touch Thou with sacred fire 
 **All:**  
 Amen.
 
----
+
 
 ## Investiture
 
@@ -408,7 +403,7 @@ Delivering to him the Book of Gospels, closed, which had previously been held on
 
 Receive the Book of the Gospels, and be thou a teacher of the Divine Wisdom unto the people entrusted to thee.
 
----
+
 
 ## Salutation of Peace
 
@@ -420,13 +415,13 @@ Peace be unto thee.
 **Newly-Consecrated Bishop:**  
 And with thy spirit.
 
----
+
 
 ## Continuation of the Eucharist
 
 The new Bishop, accompanied by the assistant Bishops and their several attendants, withdraws to the side Altar. The Consecrator resumes the Celebration, the special Gospel which follows being used:
 
----
+
 
 ### The Gospel
 
@@ -435,7 +430,7 @@ The new Bishop, accompanied by the assistant Bishops and their several attendant
 JESUS said unto His disciples:  
 If ye love Me, keep My commandments. And I will pray the Father, and He shall give you another Comforter, that He may abide with you for ever; even the Spirit of Truth, Whom the world cannot receive, because it seeth Him not, neither knoweth Him; but ye know Him; for He dwelleth with you, and shall be in you. I will not leave you comfortless: I will come to you. Yet a little while, and the world seeth Me no more; but ye see Me: because I live, ye shall live also. At that day ye shall know that I am in My Father, and ye in Me, and I in you. He that hath My commandments, and keepeth them, he it is that loveth Me: and he that loveth Me shall be loved of My Father, and I will love him, and will manifest Myself to him. Judas saith unto Him, Lord, how is it that Thou wilt manifest Thyself unto us, and not unto the world? Jesus answered and said unto him, If a man love Me, he will keep My words: and My Father will love him, and We will come unto him, and make Our abode with him. He that loveth Me not keepeth not My sayings: and the word which ye hear is not Mine, but the Father’s Which sent Me. These things have I spoken unto you, being yet present with you. But the Comforter, Which is the Holy Ghost, Whom the Father will send in My Name, He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. Peace I leave with you, My peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
 
----
+
 
 ## The Offering
 
@@ -443,7 +438,7 @@ After the Credo and immediately before the Offertory is read, the new Bishop pre
 
 The newly-consecrated Bishop, accompanied by his assistant Bishops, then proceeds to the south end of the high Altar and says aloud the remainder of the office of the Holy Eucharist with the Consecrator word for word.
 
----
+
 
 ### In the Prayer of Consecration
 
@@ -451,7 +446,7 @@ In the prayer of Consecration the following clause is added after the words: *�
 
 Especially for him, whom in Christ’s holy Name we have admitted to the Order of the Episcopate.
 
----
+
 
 ## Final Blessing and Investiture
 
@@ -472,13 +467,13 @@ Do Thou, we pray Thee, O Lord, fulfil in Thy servant that which is betokened by 
 **All:**  
 Amen.
 
----
+
 
 ## Enthronement and Benediction
 
 The new Bishop is solemnly enthroned. *Te Deum Laudamus* is sung, during which the newly-consecrated Bishop, attended by the assistant Bishops, proceeds around the Church and gives his blessing to the people.
 
----
+
 
 ### Te Deum Laudamus
 
@@ -522,7 +517,7 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 The light of the Lord leadeth him:  
 Who giveth wisdom to the godly.
 
----
+
 
 ## Final Prayers and Benediction
 
@@ -563,7 +558,7 @@ The peace of God, which passeth all understanding, keep your hearts and minds in
 **All:**  
 Amen.
 
----
+
 
 ## The Homage
 

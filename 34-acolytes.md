@@ -69,5 +69,4 @@ Let us pray.
 
 > The blessing of God Almighty, the + Father, the + Son, and the Holy + Ghost come down upon you, that you may with steadfastness and zeal persevere in that which to-day you have undertaken.
 >
-> R. Amen.
-```
+> R. Amen.  

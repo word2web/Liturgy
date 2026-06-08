@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Second Sunday after Easter"
 ---
 # The Second Sunday after Easter
 
@@ -20,4 +20,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the twentieth chapter of that according to St. John, beginning at the nineteenth verse.
 
-THE same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them: Peace be unto you. And when He had so said, He showed unto them His hands and His side. Then were the disciples glad when they saw the Lord. Then said Jesus to them again: Peace be unto you; as My Father hath sent Me, even so send I you. And when He had said this, He breathed on them, and saith unto them: Receive ye the Holy Ghost. Whosesoever sins ye remit, they are remitted unto them; and whosesoever sins ye retain, they are retained.
+THE same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them: Peace be unto you. And when He had so said, He showed unto them His hands and His side. Then were the disciples glad when they saw the Lord. Then said Jesus to them again: Peace be unto you; as My Father hath sent Me, even so send I you. And when He had said this, He breathed on them, and saith unto them: Receive ye the Holy Ghost. Whosesoever sins ye remit, they are remitted unto them; and whosesoever sins ye retain, they are retained.  

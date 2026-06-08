@@ -1,5 +1,5 @@
 ---
-title: A Table of the Movable Feasts
+title: "A Table of the Movable Feasts"
 ---
 # A Table of the Movable Feasts
 

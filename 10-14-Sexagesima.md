@@ -1,15 +1,15 @@
 ---
-title: "Common of Saints"
+title: "Sexagesima Sunday"
 ---
 # Sexagesima Sunday
 
-_(Approximately 10 days before Lent)_
+*(Approximately 10 days before Lent)*  
 
-## The Collect
+## The Collect  
 
-O Lord God, who seest that we put not our trust in anything that we do, mercifully grant that by Thy power we may be defended against all adversity; through Jesus Christ our Lord. R. Amen.
+O Lord God, who seest that we put not our trust in anything that we do, mercifully grant that by Thy power we may be defended against all adversity; through Jesus Christ our Lord. R. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the eleventh chapter of the Second Epistle of St. Paul the Apostle to the Corinthians, beginning at the nineteenth verse.
 
@@ -21,7 +21,7 @@ Beside those things that are without, that which cometh upon me daily, the care 
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the eighth chapter of that according to St. Luke, beginning at the fourth verse.
 

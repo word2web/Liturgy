@@ -33,14 +33,14 @@ The Lord keep thee in all these things and strengthen thee in all goodness.
 Let us pray.
 *The candidate kneels.*
 
----
+
 **P.**
 O Lord Christ, Who art ever ready to receive and to strengthen the earnest aspirations of Thy children, look down, we pray Thee, upon this Thy servant whom we now admit to our fellowship. Sanctify + him, O Lord, with Thy heavenly grace, that, growing continually in virtue, he may serve before Thee in holiness and righteousness all the days of his life, and thus may be found worthy to obtain the riches and the never-fading glory of Thy kingdom, O Thou great Master of the hearts of men, to Whom be praise and adoration for evermore.
 **R.** Amen.
 
 > *This prayer may be used in connection with any who are admitted to the Church by Confirmation or by conditional re-baptism.*
 
----
+
 The Priest lays his hand upon the head of the new member, raising it only to make the sign of the cross, and says:
 
 **P.**

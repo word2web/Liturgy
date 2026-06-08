@@ -5,11 +5,11 @@ title: "Common of Saints"
 
 **Theme:** Right Energy
 
-## The Collect
+## The Collect  
 
-Stir up, O Lord, we pray Thee, the wills of Thy faithful people, that they, plenteously bringing forth the fruit of good deeds, may become tireless workers in Thy holy service, through Christ our Lord. Amen.
+Stir up, O Lord, we pray Thee, the wills of Thy faithful people, that they, plenteously bringing forth the fruit of good deeds, may become tireless workers in Thy holy service, through Christ our Lord. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the second chapter of that of St. Paul the Apostle to Titus, beginning at the first verse.
 
@@ -17,8 +17,8 @@ The Epistle is taken from the second chapter of that of St. Paul the Apostle to 
 
 *Here endeth the Epistle.*
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the sixth chapter of that according to St. Luke, beginning at the twenty-seventh verse.
 
-> I say unto you which hear: Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you. And as ye would that men should do to you, do ye also to them likewise. Love ye your enemies, and do good and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest, for He is kind unto the unthankful and to the evil. Be ye therefore merciful, as your Father is merciful. Judge not, and ye shall not be judged; condemn not, and ye shall not be condemned; forgive, and ye shall be forgiven. Give, and it shall be given unto you; good measure, pressed down and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
+> I say unto you which hear: Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you. And as ye would that men should do to you, do ye also to them likewise. Love ye your enemies, and do good and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest, for He is kind unto the unthankful and to the evil. Be ye therefore merciful, as your Father is merciful. Judge not, and ye shall not be judged; condemn not, and ye shall not be condemned; forgive, and ye shall be forgiven. Give, and it shall be given unto you; good measure, pressed down and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.  

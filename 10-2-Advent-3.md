@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Third Sunday in Advent"
 ---
 # Third Sunday in Advent
 
@@ -21,4 +21,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the first chapter of that according to St. Mark, beginning at the first verse.
 
-THE beginning of the Gospel of Jesus Christ the Son of God; as it is written in the prophets: Behold, I send my messenger before Thy face, which shall prepare Thy way before Thee; the voice of one crying in the wilderness: Prepare ye the way of the Lord, make His paths straight. John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins. And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river Jordan, confessing their sins. And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey; and preached, saying: There cometh after me One mightier than I, the latchet of Whose shoes I am not worthy to stoop down and unloose. I indeed have baptized you with water, but He shall baptize you with the Holy Ghost.
+THE beginning of the Gospel of Jesus Christ the Son of God; as it is written in the prophets: Behold, I send my messenger before Thy face, which shall prepare Thy way before Thee; the voice of one crying in the wilderness: Prepare ye the way of the Lord, make His paths straight. John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins. And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river Jordan, confessing their sins. And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey; and preached, saying: There cometh after me One mightier than I, the latchet of Whose shoes I am not worthy to stoop down and unloose. I indeed have baptized you with water, but He shall baptize you with the Holy Ghost.  

@@ -1,15 +1,15 @@
 ---
-title: "Common of Saints"
+title: "The Twenty-fourth Sunday after Trinity"
 ---
-# The Twenty-fourth Sunday after Trinity
+# The Twenty-fourth Sunday after Trinity  
 
 **Theme:** Openness of Mind
 
-## The Collect
+## The Collect  
 
-O Lord of Light unquenchable, grant unto Thy people that with pure heart and open mind they may reverently receive Thy holy Word, truly serving Thee in holiness and righteousness all the days of their life, through Christ our Lord. Amen.
+O Lord of Light unquenchable, grant unto Thy people that with pure heart and open mind they may reverently receive Thy holy Word, truly serving Thee in holiness and righteousness all the days of their life, through Christ our Lord. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the third chapter of the Epistle of St. Paul the Apostle to the Ephesians, beginning at the fourteenth verse.
 
@@ -17,8 +17,8 @@ The Epistle is taken from the third chapter of the Epistle of St. Paul the Apost
 
 *Here endeth the Epistle.*
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the seventh chapter of that according to St. John, beginning at the sixteenth verse.
 
-> Jesus said: My doctrine is not Mine, but His that sent Me. If any man will do His will, he shall know of the doctrine whether it be of God. Judge not according to the appearance, but judge righteous judgment. If any man thirst, let him come unto Me and drink. I am the light of the world; he that followeth Me shall not walk in darkness, but shall have the light of life. If ye continue in My word, then are ye My disciples indeed; and ye shall know the truth, and the truth shall make you free.
+> Jesus said: My doctrine is not Mine, but His that sent Me. If any man will do His will, he shall know of the doctrine whether it be of God. Judge not according to the appearance, but judge righteous judgment. If any man thirst, let him come unto Me and drink. I am the light of the world; he that followeth Me shall not walk in darkness, but shall have the light of life. If ye continue in My word, then are ye My disciples indeed; and ye shall know the truth, and the truth shall make you free.  

@@ -1,15 +1,15 @@
 ---
-title: "Common of Saints"
+title: "Septuagesima Sunday"
 ---
 # Septuagesima Sunday  
 
 (Approximately 17 days before Lent)  
 
-## The Collect
+## The Collect  
 
-O Lord, we beseech Thee favourably to hear the prayers of Thy people, and stretch forth the right hand of Thy majesty to defend us from all adversities which may happen in body or soul; through Jesus Christ our Lord. R. Amen.
+O Lord, we beseech Thee favourably to hear the prayers of Thy people, and stretch forth the right hand of Thy majesty to defend us from all adversities which may happen in body or soul; through Jesus Christ our Lord. R. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the ninth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the twenty-fourth verse.
 
@@ -17,7 +17,7 @@ KNOW ye not that they which run in a race run all, but one receiveth the prize? 
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the twentieth chapter of that according to St. Matthew, beginning at the first verse.
 
@@ -27,4 +27,4 @@ Again he went out about the sixth and ninth hour and did likewise. And about the
 
 So when even was come, the lord of the vineyard saith unto his steward: Call the labourers and give them their hire, beginning from the last unto the first. And when they came that were hired about the eleventh hour, they received every man a penny. But when the first came, they supposed that they should receive more; and they likewise received every man a penny. And when they had received it, they murmured against the goodman of the house, saying: These last have wrought but one hour, and thou hast made them equal unto us which have borne the burden and heat of the day.
 
-But he answered one of them and said: Friend, I do thee no wrong; didst not thou agree with me for a penny? Take that thine is, and go thy way; I will give unto this last even as unto thee. Is it not lawful for me to do what I will with mine own? Is thine eye evil because I am good? So the last shall be first, and the first last.
+But he answered one of them and said: Friend, I do thee no wrong; didst not thou agree with me for a penny? Take that thine is, and go thy way; I will give unto this last even as unto thee. Is it not lawful for me to do what I will with mine own? Is thine eye evil because I am good? So the last shall be first, and the first last.  

@@ -12,22 +12,6 @@ and shall be immediately followed by the following ascription of glory to the Bl
 
 > And now to God the Father, God the Son, and God the Holy Ghost, Three Persons in one God, be ascribed, as is most justly due, all honour, might, majesty, power and dominion, henceforth and for evermore. ℟. Amen.
 
----
-
-## CORRECTION
-
-**At bottom of p. 358**, substitute for:  
-> He joins the consecrated hands and binds them with a linen strip,
-
-the following:  
-> He joins the consecrated hands, the right resting on the left, and they are placed in a linen cloth which is suspended from his neck.
-
-It should be understood that any member of the congregation who prefers to kneel all through a Low Celebration is permitted to do so.
-
-*AMEN.*
-
----
-
 ## ADDITIONS
 
 ### THE BLESSING OF A HOUSE
@@ -38,20 +22,6 @@ After the Priest has formally entered the house and given the word of peace, he 
 
 He then goes to all the other entrances to the house, and draws a line of holy water before each, repeating the same prayer. After this he proceeds to sprinkle and cense the rooms as prescribed.
 
----
-
 > **Note:** Let it be noted that the Eucharist of the Presanctified to be used on Good Friday and Holy Saturday shall commence with the Asperges in the Shorter Form, but omitting the words:
 >
 > > He will send His holy Angel to build for us a spiritual temple through which...  
-> > *[text appears incomplete in source]*
-
----
-
-## PAGE CORRECTIONS
-
-| Page | Correction |
-|------|-----------|
-| **174** | The head is bowed at the words: *the Lord our God is holy*, in the seventh verse of the Canticle. |
-| **182** | The words: *P. Let us pray,* should be inserted just before the last paragraph. |
-| **217** | If **Compline** follows Vespers, the Blessing in Vespers is omitted, but the Grace is said. |
-| **237** | If Solemn Benediction follows **Compline**, the Blessing in Compline is omitted, but the Grace is said. |

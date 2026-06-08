@@ -13,8 +13,6 @@ Who liveth and reigneth with Thee and the Holy Ghost,
 throughout all ages of ages.  
 **R.** Amen.
 
----
-
 ## The Epistle
 
 *The portion of Scripture appointed for the Epistle is taken from the third chapter of the Book of the Wisdom of Solomon, beginning at the first verse.*
@@ -39,8 +37,6 @@ for grace and mercy is to His saints,
 and He hath care for His elect.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

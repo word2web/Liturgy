@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Trinity Sunday"
 ---
 # Trinity Sunday
 
@@ -20,4 +20,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the sixth verse.
 
-JESUS said: I am the Way, the Truth, and the Life; no man cometh unto the Father, but by Me. He that hath seen Me hath seen the Father; for I am in the Father, and the Father in Me. I and My Father are one; as the Father hath loved Me, so have I loved you; and this is My commandment, that ye love one another, as I have loved you. When the Comforter is come, Whom I will send unto you from the Father, even the Spirit of Truth, which proceedeth from the Father, He shall testify of Me. And ye also shall bear witness, because ye have been with Me from the beginning. By this shall all men know that ye are My disciples, if ye have love one to another.
+JESUS said: I am the Way, the Truth, and the Life; no man cometh unto the Father, but by Me. He that hath seen Me hath seen the Father; for I am in the Father, and the Father in Me. I and My Father are one; as the Father hath loved Me, so have I loved you; and this is My commandment, that ye love one another, as I have loved you. When the Comforter is come, Whom I will send unto you from the Father, even the Spirit of Truth, which proceedeth from the Father, He shall testify of Me. And ye also shall bear witness, because ye have been with Me from the beginning. By this shall all men know that ye are My disciples, if ye have love one to another.  

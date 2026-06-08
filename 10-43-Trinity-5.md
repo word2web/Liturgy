@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Fifth Sunday after Trinity"
 ---
 # Fifth Sunday after Trinity
 
@@ -22,4 +22,4 @@ The Epistle is taken from the fifth chapter of that of St. Paul the Apostle to t
 
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the eighteenth verse.
 
-> Jesus said: I will not leave you comfortless; I will come to you. Because I live, ye shall live also. At that day ye shall know that I am in My Father, and ye in Me, and I in you. He that hath My commandments and keepeth them, he it is that loveth Me; and he that loveth Me shall be loved of My Father, and I will love him, and will manifest Myself to him. If a man love Me, he will keep My words; and My Father will love him, and We will come unto him, and make Our abode with him. He that keepeth not My sayings loveth Me not. Peace I leave with you, My peace I give unto you; not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+> Jesus said: I will not leave you comfortless; I will come to you. Because I live, ye shall live also. At that day ye shall know that I am in My Father, and ye in Me, and I in you. He that hath My commandments and keepeth them, he it is that loveth Me; and he that loveth Me shall be loved of My Father, and I will love him, and will manifest Myself to him. If a man love Me, he will keep My words; and My Father will love him, and We will come unto him, and make Our abode with him. He that keepeth not My sayings loveth Me not. Peace I leave with you, My peace I give unto you; not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.  

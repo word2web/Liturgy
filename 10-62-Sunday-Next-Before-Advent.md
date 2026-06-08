@@ -5,7 +5,7 @@ title: "Common of Saints"
 
 *Intent: The Dispelling of Ignorance; a day of devotion to the Holy Spirit.*
 
-## The Collect
+## The Collect  
 
 > O HOLY SPIRIT, Breath of Life and Fire of Love,  
 > touch our cold hearts, we pray Thee, with the glow  
@@ -17,7 +17,7 @@ title: "Common of Saints"
 > glorified for ever.  
 > **℟. Amen.**
 
-## The Epistle
+## The Epistle  
 
 *The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Book of the Prophet Daniel, beginning at the ninth verse.*
 

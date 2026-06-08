@@ -1,13 +1,13 @@
 ---
-title: "Common of Saints"
+title: "Fourth Sunday in Advent"
 ---
 # Fourth Sunday in Advent
 
-## The Collect
+## The Collect  
 
 Almighty everliving God, we pray Thee to inspire continually Thy universal Church with the spirit of truth, unity and concord, that all they who do confess Thy holy Name may agree in the truth of Thy holy Word, and live in unity and godly love, through Christ our Lord. R. Amen.
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the twelfth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the twelfth verse.
 
@@ -15,10 +15,10 @@ AS the body is one and hath many members, and all the members of that body, bein
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the thirteenth chapter of that according to St. John, beginning at the third verse.
 
 JESUS, knowing that the Father had given all things into His hands, and that He was come from God, and went to God, riseth from supper, and laid aside His garments; and took a towel, and girded Himself. After that He poured water into a basin, and began to wash the disciples’ feet, and to wipe them with the towel wherewith He was girded. So after He had washed their feet, and had taken His garments, and was set down again, He said unto them: Know ye what I have done to you? Ye call Me Master and Lord; and ye say well, for so I am. If I then, your Lord and Master, have washed your feet, ye also ought to wash one another’s feet. For I have given you an example, that ye should do as I have done to you.
 
-Amen, Amen, I say unto you: The servant is not greater than his lord; neither he that is sent greater than he that sent him. If ye know these things, happy are ye if ye do them. Amen, Amen, I say unto you: He that receiveth whomsoever I send receiveth Me; and he that receiveth Me receiveth Him that sent Me. A new commandment I give unto you, that ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are My disciples, if ye have love one to another.
+Amen, Amen, I say unto you: The servant is not greater than his lord; neither he that is sent greater than he that sent him. If ye know these things, happy are ye if ye do them. Amen, Amen, I say unto you: He that receiveth whomsoever I send receiveth Me; and he that receiveth Me receiveth Him that sent Me. A new commandment I give unto you, that ye love one another; as I have loved you, that ye also love one another. By this shall all men know that ye are My disciples, if ye have love one to another.  

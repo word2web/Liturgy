@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Third Sunday after Easter"
 ---
 # The Third Sunday after Easter
 
@@ -20,4 +20,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the twenty-fourth chapter of that according to St. Luke, beginning at the thirty-sixth verse.
 
-JESUS Himself stood in the midst of them, and saith unto them: Peace be unto you. And He said: These are the words which I spake unto you while I was yet with you, that all things must be fulfilled which were written in the law of Moses and in the Prophets and in the Psalms concerning Me. Then opened He their understanding, that they might understand the Scriptures, and said unto them: Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day; and that repentance and remission of sins should be preached in His Name among all nations, beginning at Jerusalem. And ye are witnesses of these things.
+JESUS Himself stood in the midst of them, and saith unto them: Peace be unto you. And He said: These are the words which I spake unto you while I was yet with you, that all things must be fulfilled which were written in the law of Moses and in the Prophets and in the Psalms concerning Me. Then opened He their understanding, that they might understand the Scriptures, and said unto them: Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day; and that repentance and remission of sins should be preached in His Name among all nations, beginning at Jerusalem. And ye are witnesses of these things  

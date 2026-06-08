@@ -7,7 +7,7 @@ I. Whenever two Holy Days fall upon the same day, the Collect, Epistle, and Gosp
 
 II. Whenever two Holy Days of equal rank fall upon the same day, the priest shall decide which Day he will celebrate; but the Collect of the other shall be recited after that of the Day preferred.
 
-III. Whenever a Holy Day (with the exceptions noted in Rule IV) falls within the octave\* of another Festival, the Collect, Epistle, and Gospel of the former shall be used, but the Collect of the latter shall be recited after that of the Day; except that on the actual Day of a Festival of Class A there shall be no commemoration, only the Collect of the Festival itself being used—save that on All Souls’ Day the Collect for All Saints’ shall be recited, as hereinafter directed.
+III. Whenever a Holy Day (with the exceptions noted in Rule IV) falls within the octave of another Festival, the Collect, Epistle, and Gospel of the former shall be used, but the Collect of the latter shall be recited after that of the Day; except that on the actual Day of a Festival of Class A there shall be no commemoration, only the Collect of the Festival itself being used—save that on All Souls’ Day the Collect for All Saints’ shall be recited, as hereinafter directed.
 
 IV. Whenever a Sunday of Class C or D falls within the octave of a Festival, the Collect, Epistle, and Gospel of the Festival shall be used, but the Collect of the Sunday shall be recited after that of the Day.
 

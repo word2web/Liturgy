@@ -3,7 +3,6 @@ title: "All Saints' Day"
 ---
 # All Saints’ Day
 
----
 ## The Collect
 
 O ALMIGHTY God,
@@ -13,8 +12,7 @@ that we may come to the unspeakable joys which Thou hast prepared for those who 
 through Christ our Lord.
 **R.** Amen.
 
----
-## The Epistle
+## The Epistle  
 
 *The portion of Scripture appointed for the Epistle is taken from the seventh chapter of the Revelation of St. John the Divine, beginning at the ninth verse.*
 
@@ -36,8 +34,7 @@ and God shall wipe away all tears from their eyes.
 
 **Here endeth the Epistle.**
 
----
-## The Gospel
+## The Gospel  
 
 *The holy Gospel is taken from the twenty-fifth chapter of that according to St. Matthew, beginning at the thirty-fourth verse.*
 
@@ -56,4 +53,4 @@ Or when saw we Thee sick, or in prison, and came unto Thee?
 And the King shall answer and say unto them:
 Amen, I say unto you, inasmuch as ye have done it unto one of the least of these My brethren, ye have done it unto Me.
 
-*The same Collect, Epistle and Gospel shall serve for seven days after, except on the Holy Day of All Souls, when the Collect alone shall be said after that of the Day.*
+*The same Collect, Epistle and Gospel shall serve for seven days after, except on the Holy Day of All Souls, when the Collect alone shall be said after that of the Day.*  

@@ -1,17 +1,17 @@
 ---
-title: "Common of Saints"
+title: "Ash Wednesday"
 ---
 # Ash Wednesday
 
-_(The First Day of Lent)_
+*(The First Day of Lent)*  
 
-## The Collect
+## The Collect  
 
-Prevent us, O Lord, in all our doings with Thy most gracious favour, and further us with Thy continual help; that in all our works, begun, continued, and ended in Thee, we may glorify Thy holy Name, through Christ our Lord. R. Amen.
+Prevent us, O Lord, in all our doings with Thy most gracious favour, and further us with Thy continual help; that in all our works, begun, continued, and ended in Thee, we may glorify Thy holy Name, through Christ our Lord. R. Amen.  
 
 This Collect is to be said every day in Lent, after the Collect appointed for the day.
 
-## The Epistle
+## The Epistle  
 
 The portion of Scripture appointed for the Epistle is taken from the third chapter of the Acts of the Apostles, beginning at the nineteenth verse.
 
@@ -21,7 +21,7 @@ For Moses truly said unto the fathers: A prophet shall the Lord your God raise u
 
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the third chapter of that according to St. John, beginning at the third verse.
 
@@ -29,4 +29,4 @@ JESUS said unto Nicodemus: Amen, I say unto thee, except a man be born again, he
 
 Amen, Amen, I say unto thee, we speak that we do know, and testify that we have seen; and ye receive not our witness. If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things? And no man hath ascended up to heaven, but He that came down from heaven, even the Son of Man which is in heaven. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whosoever believeth in Him should not perish, but have eternal life.
 
-The same Collect, Epistle and Gospel shall serve for every day after, unto the next Sunday.
+The same Collect, Epistle and Gospel shall serve for every day after, unto the next Sunday.  

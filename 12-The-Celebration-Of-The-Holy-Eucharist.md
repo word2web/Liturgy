@@ -33,8 +33,6 @@ A little later, in the prayer, *"We lay before Thee, O Lord,"* these elements ar
 
 Then comes the splendid appeal to the congregation to lift up their hearts, and, in company with the nine orders of Angels whose presence here is invoked, to give *"eucharist"* or thanks to Almighty God—the **Sursum Corda** and **Preface**, followed by the **Sanctus**.
 
----
-
 ### The Canon
 
 We have now entered upon the **Canon**, as it has been called since ancient times, the most important section. At the beginning of the **Prayer of Consecration**, the celebrant proceeds to enumerate the special purposes or intentions for which the Sacrifice is to be offered.
@@ -43,7 +41,6 @@ The Liturgy then explains how this great act of worship is in itself a mystery-d
 
 Now come the **Words of Consecration**, the solemn act by which the bread and wine in their natural substance become the Body and Blood of Christ. It may help us to understand this great mystery if we realize that our own bodies are vehicles or expressions of our consciousness, of the indwelling Spirit; so that bread and wine, which nourish our bodies, become here the special expression or manifestation of the Christ, the channel of His blessing for the nourishing of our souls.
 
----
 ## The Blessing of Communion
 
 All who are present must inevitably be uplifted by the radiation of His holy power, and those who receive Holy Communion are brought by this blessed privilege into close and intimate union with our Lord and Master.

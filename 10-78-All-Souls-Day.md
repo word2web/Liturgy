@@ -3,8 +3,7 @@ title: "All Souls' Day"
 ---
 # All Souls’ Day
 
----
-## The Collect
+## The Collect  
 
 O LORD Christ,
 Who hast dominion over the living and the dead,
@@ -16,8 +15,7 @@ O Lord of the Living Spirit,
 Who with the Father and the Holy Ghost reignest one God for evermore.
 **R.** Amen.
 
----
-## The Epistle
+## The Epistle  
 
 *The Epistle is taken from the fourth chapter of the First Epistle of St. Paul the Apostle to the Thessalonians, beginning at the thirteenth verse.*
 
@@ -28,8 +26,7 @@ Wherefore comfort one another with these words.
 
 **Here endeth the Epistle.**
 
----
-## The Gospel
+## The Gospel  
 
 *The holy Gospel is taken from the fifth chapter of that according to St. John, beginning at the twenty-fourth verse.*
 

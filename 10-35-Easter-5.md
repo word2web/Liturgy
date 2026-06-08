@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Fifth Sunday after Easter"
 ---
 # The Fifth Sunday after Easter
 
@@ -19,5 +19,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the sixteenth chapter of that according to St. Mark, beginning at the ninth verse.
 
-NOW when Jesus was risen early the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven devils. And she went and told them that had been with Him, as they mourned and wept. And they, when they heard that He was alive, and had been seen of her, believed not. After that He appeared in another form unto two of them, as they walked, and went into the country. And they went and told it unto the residue: neither believed they them. Afterward He appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen. And He said unto them: Go ye into all the world, and preach the Gospel to every creature.
-
+NOW when Jesus was risen early the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven devils. And she went and told them that had been with Him, as they mourned and wept. And they, when they heard that He was alive, and had been seen of her, believed not. After that He appeared in another form unto two of them, as they walked, and went into the country. And they went and told it unto the residue: neither believed they them. Afterward He appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen Him after He was risen. And He said unto them: Go ye into all the world, and preach the Gospel to every creature.  

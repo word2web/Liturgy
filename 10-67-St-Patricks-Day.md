@@ -3,8 +3,6 @@ title: "St. Patrick's Day"
 ---
 # St. Patrick’s Day
 
----
-
 ## The Collect
 
 O ALMIGHTY and everlasting God,  
@@ -15,8 +13,6 @@ through Christ our Lord,
 Who liveth and reigneth with Thee and the Holy Ghost,  
 ever One God throughout all ages of ages.  
 **R.** Amen.
-
----
 
 ## The Epistle
 
@@ -46,8 +42,6 @@ so the Lord God will cause righteousness and praise to spring forth before all t
 
 **Here endeth the Epistle.**
 
----
-
 ## The Gospel
 
 *The holy Gospel is taken from the twenty-second chapter of that according to St. Luke, beginning at the twenty-fifth verse.*
@@ -62,4 +56,4 @@ for I am among you as he that serveth.
 Go ye therefore and teach all nations,  
 baptizing them in the Name of the Father and of the Son and of the Holy Ghost,  
 teaching them to observe all things whatsoever I have commanded you;  
-and lo, I am with you alway, even unto the consummation of the age.
+and lo, I am with you alway, even unto the consummation of the age.  

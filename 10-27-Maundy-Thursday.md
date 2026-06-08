@@ -1,21 +1,21 @@
 ---
-title: "Common of Saints"
+title: "Maundy Thursday"
 ---
-# Maundy Thursday
+# Maundy Thursday  
 
 White vestments are used, and the purple veil covering the cross during Holy Week is replaced by one of white.
 
-## The Collect
+## The Collect  
 
-O GOD, Who in this wonderful Sacrament hast left us a perpetual memorial of Thy love; may we, by the inspiration of Thy Holy Spirit, so reverence the sacred mysteries of Thy Body and Blood, that we may the more worthily receive this Thy most glorious gift and blessing. Through Christ our Lord. R. Amen.
+O GOD, Who in this wonderful Sacrament hast left us a perpetual memorial of Thy love; may we, by the inspiration of Thy Holy Spirit, so reverence the sacred mysteries of Thy Body and Blood, that we may the more worthily receive this Thy most glorious gift and blessing. Through Christ our Lord. R. Amen.  
 
-## The Epistle
+## The Epistle  
 
 The Epistle is taken from the eleventh chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the twenty-third verse.
 FOR I have received of the Lord that which also I delivered unto you, that the Lord Jesus, the same night in which He was betrayed, took bread, and when He had given thanks, He brake it, and said: Take, eat; this is My Body, which is broken for you; this do in remembrance of Me. After the same manner also He took the cup, when He had supped, saying: This cup is the new testament in My Blood; this do ye, as oft as ye drink it, in remembrance of Me. For as often as ye eat this Bread, and drink this Cup, ye do show the Lord's death till He come.
 Here endeth the Epistle.
 
-## The Gospel
+## The Gospel  
 
 The holy Gospel is taken from the sixth chapter of that according to St. John, beginning at the forty-seventh verse.
 
@@ -28,4 +28,4 @@ At evening a ciborium containing the three Hosts is carried out, in solemn proce
 
 After the evening service the Altars are stripped of flowers, cloths and frontals, the tabernacle door left open, and the cross again veiled in violet.
 
-The Office of Blessing the Oils on Maundy Thursday will be found later in this Book.
+The Office of Blessing the Oils on Maundy Thursday will be found later in this Book.  

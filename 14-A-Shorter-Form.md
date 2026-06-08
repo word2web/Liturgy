@@ -127,17 +127,14 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 **P.** Let us pray.
 
----
----
-## The Collect
+## The Collect  
 
 *The Priest intones the Collect of the Day and the following Collect for peace:*
 
 > Teach us, O Lord, to see Thy life in all men and in all the peoples of Thine earth, and guide our nation through its leaders to preserve Thy peace, that the menace of war be far from our days, through Christ our Lord.
 
----
----
-## The Epistle and Gospel
+
+## The Epistle and Gospel  
 
 *The Epistle and Gospel may be omitted; if they are read, the ritual will be as follows:*
 
@@ -146,8 +143,8 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 *The Epistle ended, all stand and sing:*
 > Thanks be to God.
 
----
-### The Gradual
+
+### The Gradual  
 
 *All sing the Gradual.*
 

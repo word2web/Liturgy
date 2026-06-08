@@ -14,8 +14,6 @@ that peace and brotherhood may reign throughout the world;
 through Christ our Holy Lord.  
 **R.** Amen.
 
----
-
 ## The Epistle
 
 *The Epistle is taken from the twelfth chapter of the First Epistle of St. Paul the Apostle to the Corinthians, beginning at the twelfth verse.*
@@ -36,8 +34,6 @@ or one member be honoured, all the members rejoice with it.
 Now ye are the body of Christ and members in particular.
 
 **Here endeth the Epistle.**
-
----
 
 ## The Gospel
 

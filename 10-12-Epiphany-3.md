@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "The Third Sunday after Epiphany"
 ---
 # The Third Sunday after Epiphany
 
@@ -25,4 +25,4 @@ And Jesus saith unto him: See thou tell no man; but go thy way, show thyself to 
 
 And when He was entered into Capernaum, there came unto Him a centurion, beseeching Him, and saying: Lord, my servant lieth at home sick of the palsy, grievously tormented. And Jesus saith unto him: I will come and heal him. The centurion answered and said: Lord, I am not worthy that Thou shouldest come under my roof; but speak the word only, and my servant shall be healed.
 
-When Jesus heard it, He marvelled, and said to them that followed: Verily I say unto you, I have not found so great faith, no, not in Israel. And I say unto you that many shall come from the East and West, and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven.
+When Jesus heard it, He marvelled, and said to them that followed: Verily I say unto you, I have not found so great faith, no, not in Israel. And I say unto you that many shall come from the East and West, and shall sit down with Abraham, and Isaac, and Jacob in the kingdom of heaven.  

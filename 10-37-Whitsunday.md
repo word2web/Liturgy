@@ -1,5 +1,5 @@
 ---
-title: "Common of Saints"
+title: "Whitsunday"
 ---
 # Whitsunday
 
@@ -20,4 +20,4 @@ Here endeth the Epistle.
 
 The holy Gospel is taken from the fourteenth chapter of that according to St. John, beginning at the sixteenth verse.
 
-JESUS said unto His disciples: I will pray the Father, and He shall give you another Comforter, that He may abide with you for ever; even the Spirit of Truth, Whom the world cannot receive, because it seeth Him not, neither knoweth Him; but ye know Him; for He dwelleth with you, and shall be in you. I will not leave you comfortless; I will come to you. Yet a little while, and the world seeth Me no more; but ye see Me; because I live, ye shall live also. The Comforter, Which is the Holy Ghost, Whom the Father will send in My Name, He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. Peace I leave with you, My peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+JESUS said unto His disciples: I will pray the Father, and He shall give you another Comforter, that He may abide with you for ever; even the Spirit of Truth, Whom the world cannot receive, because it seeth Him not, neither knoweth Him; but ye know Him; for He dwelleth with you, and shall be in you. I will not leave you comfortless; I will come to you. Yet a little while, and the world seeth Me no more; but ye see Me; because I live, ye shall live also. The Comforter, Which is the Holy Ghost, Whom the Father will send in My Name, He shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you. Peace I leave with you, My peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid  
