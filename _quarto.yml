@@ -15,10 +15,208 @@ book:
     - 06-Rule-To-Know-When-Movable-Fests-Occur.md
     - 07-A-Table-Of-Movable-Feasts.md
     - 08-Notes-And-Directions.md
-    - 09-Collects-Epistles-Gospels.md 
-    - 10-The-Proper-Graduals-And-Preface-Of-The-Season.md 
+  part: Collects, Epistles, Gospels througout the year
+  chapters:
+      - 09-Collects-Epistles-Gospels.md 
+      - 10-0-Advent-Sunday.md
+      - 10-1-Advent-2.md
+      - 10-2-Advent-3.md
+      - 10-4-Advent-4.md
+      - 10-5-Christmas-Day.md
+      - 10-6-New-Years-Day.md
+      - 10-7-Christmas-2.md
+      - 10-8-Circumcision-of-Christ.md
+      - 10-9-Epiphany.md
+      - 10-10-Epiphany-1.md
+      - 10-11-Epiphany-2.md
+      - 10-12-Epiphany-3.md
+      - 10-13-Septaguesima.md
+      - 10-14-Sexagesima.md
+      - 10-16-Quinquagesima.md
+      - 10-17-Ash-Wednesday.md
+      - 10-18-Lent-1.md
+      - 10-19-Lent-2.md
+      - 10-20-Lent-3.md
+      - 10-24-Lent-4.md
+      - 10-25-Lent-5.md
+      - 10-26-Palm-Sunday.md
+      - 10-27-Maundy-Thursday.md
+      - 10-28-Good-Friday.md
+      - 10-29-Holy-Saturday.md
+      - 10-30-Easter-Day.md
+      - 10-31-First-Sunday-After-Easter.md
+      - 10-32-Easter-2.md
+      - 10-33-Easter-3.md
+      - 10-34-Easter-4.md
+      - 10-35-Easter-5.md
+      - 10-36-Ascension-Day.md
+      - 10-37-Whitsunday.md
+      - 10-38-Trinity-Sunday.md
+      - 10-39-Corpus-Christi.md
+      - 10-40-Trinity-2.md
+      - 10-41-Trinity-3.md
+      - 10-42-Trinity-4.md
+      - 10-43-Trinity-5.md
+      - 10-44-Trinity-6.md
+      - 10-45-Trinity-7.md
+      - 10-46-Trinity-8.md
+      - 10-47-Trinity-9.md
+      - 10-48-Trinity-10.md
+      - 10-49-Trinity-11.md
+      - 10-50-Trinity-12.md
+      - 10-51-Trinity-13.md
+      - 10-52-Trinity-14.md
+      - 10-52-Trinity-15.md
+      - 10-53-Trinity-16.md
+      - 10-54-Trinity-17.md
+      - 10-55-Trinity-18.md
+      - 10-56-Trinity-19.md
+      - 10-57-Trinity-20.md
+      - 10-58-Trinity-21.md
+      - 10-59-Trinity-22.md
+      - 10-60-Trinity-23.md
+      - 10-61-Trinity-24.md
+      - 10-62-Sunday-Next-Before-Advent.md
+      - 10-63-Baptism-of-Our-Lord.md
+      - 10-64-Transfiguration.md
+      - 10-65-Candlemas.md
+      - 10-66-St-Davids-Day.md
+      - 10-67-St-Patricks-Day.md
+      - 10-68-Annunciation.md
+      - 10-69-St-Georges-Day.md
+      - 10-70-Empire-Day.md
+      - 10-71-St-Albans-Day.md
+      - 10-72-St-John-Baptists-Day.md
+      - 10-73-St-Peter-and-the-Holy-Apostles.md
+      - 10-74-Assumption.md
+      - 10-75-Nativity-of-Our-Lady.md
+      - 10-76-St-Michael-and-All-Angels.md
+      - 10-77-All-Saints-Day.md
+      - 10-78-All-Souls-Day.md
+      - 10-79-Armistice-Day.md
+      - 10-80-St-Andrews-Day.md
+      - 10-81-Common-of-Saints.md
+    - 10b-The-Proper-Graduals-And-Preface-Of-The-Season.md 
     - 11-Creeds-And-Acts-Of-Faith.md 
     - 12-The-Celebration-Of-The-Holy-Eucharist.md 
+
+
+format:
+      html:
+      theme: cosmo
+      toc: true
+      pdf:
+      documentclass: scrbook     # A great "book-like" LaTeX class
+      classoption: [oneside]     # Use [twoside] if you want inner/outer margins
+      papersize: a5              # Standard for many liturgical books
+      mainfont: "EB Garamond"
+      toc: true
+      epub:
+      cover-image: cover.png
+
+
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "The Liturgy According to the Use of the Liberal Catholic Church"
+  author: "Liberal Catholic Church"
+  date: "8/18/2021"
+  chapters:
+    - index.md
+    - 01-General-Information.md
+    - 02-Preface.md
+    - 03-A-Table-of-all-feasts-and-holy-days.md
+    - 04-A-Table-of-Sundays.md
+    - 05-Rules-Governing-The-Precedence-Of-Feasts-And-Holy-Days.md
+    - 06-Rule-To-Know-When-Movable-Fests-Occur.md
+    - 07-A-Table-Of-Movable-Feasts.md
+    - 08-Notes-And-Directions.md
+    - part: "Collects, Epistles, Gospels throughout the year"
+      chapters:
+        - 09-Collects-Epistles-Gospels.md 
+        - 10-0-Advent-Sunday.md
+        - 10-1-Advent-2.md
+        - 10-2-Advent-3.md
+        - 10-4-Advent-4.md
+        - 10-5-Christmas-Day.md
+        - 10-6-New-Years-Day.md
+        - 10-7-Christmas-2.md
+        - 10-8-Circumcision-of-Christ.md
+        - 10-9-Epiphany.md
+        - 10-10-Epiphany-1.md
+        - 10-11-Epiphany-2.md
+        - 10-12-Epiphany-3.md
+        - 10-13-Septaguesima.md
+        - 10-14-Sexagesima.md
+        - 10-16-Quinquagesima.md
+        - 10-17-Ash-Wednesday.md
+        - 10-18-Lent-1.md
+        - 10-19-Lent-2.md
+        - 10-20-Lent-3.md
+        - 10-24-Lent-4.md
+        - 10-25-Lent-5.md
+        - 10-26-Palm-Sunday.md
+        - 10-27-Maundy-Thursday.md
+        - 10-28-Good-Friday.md
+        - 10-29-Holy-Saturday.md
+        - 10-30-Easter-Day.md
+        - 10-31-First-Sunday-After-Easter.md
+        - 10-32-Easter-2.md
+        - 10-33-Easter-3.md
+        - 10-34-Easter-4.md
+        - 10-35-Easter-5.md
+        - 10-36-Ascension-Day.md
+        - 10-37-Whitsunday.md
+        - 10-38-Trinity-Sunday.md
+        - 10-39-Corpus-Christi.md
+        - 10-40-Trinity-2.md
+        - 10-41-Trinity-3.md
+        - 10-42-Trinity-4.md
+        - 10-43-Trinity-5.md
+        - 10-44-Trinity-6.md
+        - 10-45-Trinity-7.md
+        - 10-46-Trinity-8.md
+        - 10-47-Trinity-9.md
+        - 10-48-Trinity-10.md
+        - 10-49-Trinity-11.md
+        - 10-50-Trinity-12.md
+        - 10-51-Trinity-13.md
+        - 10-52-Trinity-14.md
+        - 10-52-Trinity-15.md
+        - 10-53-Trinity-16.md
+        - 10-54-Trinity-17.md
+        - 10-55-Trinity-18.md
+        - 10-56-Trinity-19.md
+        - 10-57-Trinity-20.md
+        - 10-58-Trinity-21.md
+        - 10-59-Trinity-22.md
+        - 10-60-Trinity-23.md
+        - 10-61-Trinity-24.md
+        - 10-62-Sunday-Next-Before-Advent.md
+        - 10-63-Baptism-of-Our-Lord.md
+        - 10-64-Transfiguration.md
+        - 10-65-Candlemas.md
+        - 10-66-St-Davids-Day.md
+        - 10-67-St-Patricks-Day.md
+        - 10-68-Annunciation.md
+        - 10-69-St-Georges-Day.md
+        - 10-70-Empire-Day.md
+        - 10-71-St-Albans-Day.md
+        - 10-72-St-John-Baptists-Day.md
+        - 10-73-St-Peter-and-the-Holy-Apostles.md
+        - 10-74-Assumption.md
+        - 10-75-Nativity-of-Our-Lady.md
+        - 10-76-St-Michael-and-All-Angels.md
+        - 10-77-All-Saints-Day.md
+        - 10-78-All-Souls-Day.md
+        - 10-79-Armistice-Day.md
+        - 10-80-St-Andrews-Day.md
+        - 10-81-Common-of-Saints.md
+    - 10b-The-Proper-Graduals-And-Preface-Of-The-Season.md
+    - 11-Creeds-And-Acts-Of-Faith.md
+    - 12-The-Celebration-Of-The-Holy-Eucharist.md
     - 13-The-Liturgy-Of-the-Holy-Eucharist.md 
     - 14-A-Shorter-Form.md 
     - 15-Form-for-Administration-Of-Holy-Communion-With-The-Reserved-Sacrament.md 
@@ -39,7 +237,7 @@ book:
     - 30-clerics.md 
     - 31-doorkeepers.md 
     - 32-readers.md 
-    - 33-excorsists.md 
+    - 33-exorcists.md 
     - 34-acolytes.md 
     - 35-subdeacons.md 
     - 36-deacons.md 
@@ -54,9 +252,14 @@ book:
     - 45-sermons.md
 
 format:
-    html:
-      theme: cosmo
-    pdf:
-      documentclass: scrreprt
-    epub:
-      cover-image: cover.png
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: scrbook
+    classoption: [oneside]
+    papersize: a5
+    mainfont: "EB Garamond"
+    toc: true
+  epub:
+    cover-image: cover.png
