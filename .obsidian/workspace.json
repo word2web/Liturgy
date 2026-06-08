@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1049635877018d67",
+        "id": "cd224d53500ceac9",
         "type": "tabs",
         "children": [
           {
-            "id": "d6726530d3ece394",
+            "id": "d5b127811f055704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-16-Quinquagesima.md",
+                "file": "09-Collects-Epistles-Gospels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-16-Quinquagesima"
+              "title": "09-Collects-Epistles-Gospels"
             }
           }
         ]
@@ -183,34 +183,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6726530d3ece394",
+  "active": "d5b127811f055704",
   "lastOpenFiles": [
+    "10-81-Common-of-Saints.md",
     "09-Collects-Epistles-Gospels.md",
-    "10-18-Lent-1.md",
-    "10-17-Ash-Wednesday.md",
-    "10-16-Quinquagesima.md",
-    "10-14-Sexagesima.md",
-    "10-13-Septaguesima.md",
-    "10-12-Epiphany-3.md",
-    "10-4-Advent-4.md",
-    "10-11-Epiphany-2.md",
-    "11-Creeds-And-Acts-Of-Faith.md",
-    "10-10-Epiphany-1.md",
-    "10-The-Proper-Graduals-And-Preface-Of-The-Season.md",
-    "10-2-Advent-3.md",
-    "10-9-Epiphany.md",
-    "10-8-Circumcision-of-Christ.md",
-    "10-0-Advent-Sunday.md",
-    "10-1-Advent-2.md",
-    "10-5-Christmas-Day.md",
-    "10-6-New-Years-Day.md",
-    "10-7-Christmas-2.md",
-    "08-Notes-And-Directions.md",
-    "07-A-Table-Of-Movable-Feasts.md",
-    "06-Rule-To-Know-When-Movable-Fests-Occur.md",
-    "05-Rules-Governing-The-Precedence-Of-Feasts-And-Holy-Days.md",
-    "04-A-Table-of-Sundays.md",
-    "03-A-Table-of-all-feasts-and-holy-days.md",
+    "10-79-Armistice-Day.md",
+    "10-80-St-Andrews-Day.md",
+    "10-75-Nativity-of-Our-Lady.md",
+    "10-76-St-Michael-and-All-Angels.md",
+    "10-77-All-Saints-Day.md",
+    "10-78-All-Souls-Day.md",
+    "10-74-Assumption.md",
+    "10-73-St-Peter-and-the-Holy-Apostles.md",
+    "10-72-St-John-Baptists-Day.md",
+    "10-70-Empire-Day.md",
+    "10-69-St-Georges-Day.md",
+    "10-68-Annunciation.md",
+    "10-71-St-Albans-Day.md",
+    "10-66-St-Davids-Day.md",
+    "10-67-St-Patricks-Day.md",
+    "10-65-Candlemas.md",
+    "10-64-Transfiguration.md",
+    "10-63-Baptism-of-Our-Lord.md",
+    "10-60-Trinity-23.md",
+    "10-61-Trinity-24.md",
+    "10-62-Sunday-Next-Before-Advent.md",
+    "10-59-Trinity-22.md",
+    "10-58-Trinity-21.md",
+    "10-57-Trinity-20.md",
     "cover.png"
   ]
 }
