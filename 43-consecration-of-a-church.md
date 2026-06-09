@@ -1,9 +1,7 @@
 ---
 title: "The Consecration of a Church"
+subtitle: " "
 ---
-
-# THE CONSECRATION OF A CHURCH
-
 *The clergy and acolytes enter the chancel singing a hymn, and group themselves around the Altar, which is uncovered and unadorned.*
 
 ## THE INVOCATION

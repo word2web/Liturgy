@@ -1,8 +1,7 @@
 ---
 title: "Advent Sunday"
+subtitle: " "
 ---
-# Advent Sunday
-
 ## The Collect  
 
 O Christ our Lord, we pray for strength to cast away the works of darkness and put upon us the armour of light, that we may prepare ourselves not only to keep aright Thy holy Feast of Christmas, but also faithfully and acceptably to serve Thee when Thou shalt come again, to Whom we ever offer heartfelt love and worship. R. Amen.

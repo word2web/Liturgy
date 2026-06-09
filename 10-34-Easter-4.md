@@ -1,8 +1,7 @@
 ---
 title: "The Fourth Sunday after Easter"
+subtitle: " "
 ---
-# The Fourth Sunday after Easter
-
 ## The Collect
 
 O CHRIST our Lord and Master, grant that as Thou hast risen from the dead, Thy people may rise from ignorance to the firm ground of true knowledge, and thence press onwards towards the mount of heavenly wisdom, where fair peace forever dwells, Thou Who livest and reignest throughout the ages of ages.

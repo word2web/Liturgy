@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Collects-Epistles-Gospels.md",
+                "file": "17-solemn-benediction.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "09-Collects-Epistles-Gospels"
+              "title": "17-solemn-benediction"
             }
           }
         ]
@@ -185,8 +185,15 @@
   },
   "active": "d5b127811f055704",
   "lastOpenFiles": [
-    "10-81-Common-of-Saints.md",
+    "18-prime.md",
+    "19-complin.md",
+    "20-baptism.md",
+    "13-The-Liturgy-Of-the-Holy-Eucharist.md",
+    "12-The-Celebration-Of-The-Holy-Eucharist.md",
+    "14-A-Shorter-Form.md",
+    "42-blessings.md",
     "09-Collects-Epistles-Gospels.md",
+    "10-81-Common-of-Saints.md",
     "10-79-Armistice-Day.md",
     "10-80-St-Andrews-Day.md",
     "10-75-Nativity-of-Our-Lady.md",
@@ -204,13 +211,6 @@
     "10-67-St-Patricks-Day.md",
     "10-65-Candlemas.md",
     "10-64-Transfiguration.md",
-    "10-63-Baptism-of-Our-Lord.md",
-    "10-60-Trinity-23.md",
-    "10-61-Trinity-24.md",
-    "10-62-Sunday-Next-Before-Advent.md",
-    "10-59-Trinity-22.md",
-    "10-58-Trinity-21.md",
-    "10-57-Trinity-20.md",
     "cover.png"
   ]
 }

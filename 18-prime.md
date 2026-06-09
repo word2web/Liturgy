@@ -1,15 +1,13 @@
 ---
 title: "Prime"
+subtitle: " "
 ---
-# Prime
-
 As already indicated in the introduction to Vespers, Prime is one of the morning, and Compline one of the evening, Offices of the Church. The greater services, such as the Holy Eucharist, Vespers and Benediction, are intended principally to pour out spiritual strength upon the world, whereas these minor Offices may not unreasonably be regarded as designed especially for the benefit of those who take part in them.
 
 Prime and Compline are short services, which can be led by a layman if necessary, and would therefore be eminently suited for a community Office, for family prayers, or for use by a schoolmaster who wished to say morning or evening prayers with his boys. They also, of course, lend themselves to use in Church; Prime, when the Holy Eucharist cannot be celebrated, or as a preparation therefor, and Compline as an addition to Vespers, or when Vespers and Benediction are unsuitable, as on the evening of Good Friday.
 
 In order to avoid constant repetition, where Prime and Compline are said daily, or where Prime is used in conjunction with the Holy Eucharist, other short lessons selected from any part of this book may at the discretion of the Priest be read as lessons instead of the Epistle and Gospel.
 
----
 
 ## The Invocation
 
@@ -24,15 +22,12 @@ In order to avoid constant repetition, where Prime and Compline are said daily, 
 **P.** At morn and at even will we praise Him.  
 **C.** For our hearts rest ever in His love.
 
----
 
 ## Confiteor
 
 *All kneel, and say:*
 
 O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness. But Thou, O Lord, hast made us for Thyself, and our hearts are ever restless till they find their rest in Thee. Look with the eyes of Thy love upon our manifold imperfections, and pardon all our shortcomings, that we may be filled with the brightness of the everlasting light, and become the unspotted mirror of Thy power and the image of Thy goodness. Through Christ our Lord. Amen.
-
----
 
 ## The Absolution
 
@@ -44,8 +39,6 @@ O Lord, Thou hast created man to be immortal, and made him to be an image of Thi
 > May the Lord bless us, and absolve us from all our sins; and may His peace rest upon us this day and evermore.  
 >   
 > **C.** Thanks be to God.
-
----
 
 ## The First Psalm
 
@@ -67,13 +60,9 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 Ye shall stand every morning to thank and praise the Lord.  
 At morning and likewise at even.
 
----
-
 ## The Lesson
 
 *All are seated, and the Epistle of the Day is read as a lesson by the Priest or ministrant, or some one appointed by him.*
-
----
 
 ## The Second Psalm
 
@@ -95,13 +84,9 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 The morning stars sang together.  
 And all the sons of God shouted for joy.
 
----
-
 ## The Second Lesson
 
 *The people are seated, and the Gospel of the Day is read as the second lesson.*
-
----
 
 ## An Act of Faith
 
@@ -110,8 +95,6 @@ And all the sons of God shouted for joy.
 We believe that God is Love, and Power and Truth and Light; that perfect justice rules the world; that all His sons shall one day reach His Feet, however far they stray. We hold the Fatherhood of God, the Brotherhood of man; we know that we do serve Him best when best we serve our brother man. So shall His blessing rest on us, and peace for evermore. Amen.
 
 > *Any of the Creeds or Acts of Faith given on p. 166 et seq. may be substituted for the above if desired.*
-
----
 
 ## The Collects
 
@@ -129,8 +112,6 @@ We believe that God is Love, and Power and Truth and Light; that perfect justice
 
 **P.** Teach us, O Lord, to see Thy life in all men and in all the peoples of Thine earth, and guide our nation through its leaders to preserve Thy peace, that the menace of war be far from our days, through Christ our Lord.  
 **R.** Amen.
-
----
 
 ## The Office Hymn
 
@@ -157,8 +138,6 @@ We believe that God is Love, and Power and Truth and Light; that perfect justice
 > Praise Father, Son, and Holy Ghost. Amen.
 
 > *If there is to be a sermon, it is delivered here.*
-
----
 
 ## The Third Psalm
 
@@ -200,4 +179,4 @@ But joy cometh in the morning.
 **C.** In Thy strength we can do all things.
 
 **P.** Glory be to the Father, and to the Son, and to the Holy Ghost.  
-**C.** In Thy strength we can do all things.
+**C.** In Thy strength we can do all things.  

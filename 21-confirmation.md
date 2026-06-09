@@ -1,15 +1,12 @@
 ---
 title: "Confirmation"
+subtitle: " "
 ---
-# Confirmation
-
 Confirmation is, literally, the making of the person firm or strong in the life in Christ begun at Baptism. It has the two-fold effect of strengthening the soul, and giving it greater power to express itself through the body.
 
 The candidate pledges himself to endeavour to set aside the smaller life of personal interests and to work in the common interest. Having offered himself thereunto as a knight in Christ's service, the sacramental act of Confirmation follows, and he is sealed once again with the sign of the holy cross, the emblem of the life of sacrifice and service.
 
 *The candidates for Confirmation are seated in due order before the Bishop outside the chancel—their sponsors also, if still alive and able to attend, being near at hand to present them at the proper time.*
-
----
 
 ## The Invocation
 
@@ -17,8 +14,6 @@ The candidate pledges himself to endeavour to set aside the smaller life of pers
 **R.** Amen.
 
 *The Bishop is seated before the Altar. If desired, an address may here be delivered to the candidates, explaining to them the nature of the Sacrament of Confirmation, and of the responsibilities they take upon themselves. The Bishop delivers the following charge:*
-
----
 
 ## The Charge
 
@@ -35,8 +30,6 @@ In this Sacrament of Confirmation the Church gives you both the opportunity to e
 But if you enter His most holy service take heed that you are such soldiers as He would have you be. Strong must you be (as the lion),* yet gentle (as the lamb), ready ever to protect the weak, watchful ever to help where help is needed, to give reverence to those to whom it is due, and to show knightly courtesy to all. Never forgetting that God is Love, make it your constant care to shed love around you wherever you may go; so will you fan into living flame the smouldering fires of love in the hearts of those in whom as yet the spark burns low. Remember that the Soldier of the Cross must utterly uproot from his heart the giant weed of Selfishness, and must live not for himself but for the service of the world; for this commandment have we from Him, that he who loveth God love his brother also. Remember that the power of God, which you are now about to receive from my hand, will ever work within you for righteousness, inclining you unto a noble and upright life. Strive therefore earnestly that your thoughts, your words, and your works shall be such as befit a child of Christ and a knight dedicated to His service. All this shall you zealously try to do for Christ's sweet sake and in His most holy Name.
 
 > *The words in parentheses are omitted in the case of adults.*
-
----
 
 ## The Interrogations
 
@@ -91,8 +84,6 @@ But if you enter His most holy service take heed that you are such soldiers as H
 > Be to the Father and the Son,  
 > Who gave us life; the same to Thee,  
 > O Holy Ghost, eternally. Amen.
-
----
 
 ## The Confirmation
 
@@ -170,8 +161,6 @@ Peace be with thee.
 > And then in bliss receive me,  
 > My Master and my Friend. Amen.
 
----
-
 ## The Final Exhortation
 
 *The Bishop, seating himself, addresses the newly-confirmed as follows:*
@@ -201,8 +190,6 @@ O Lord Christ, Who didst give the Holy Spirit to Thine apostles, and didst ordai
 We offer unto Thee the lives which Thou to-day hast blessed, that they, whom Thou hast thus accepted as soldiers in Thy Church militant here on earth, may so bear themselves as true and faithful knights in Thy service, that they may be found worthy hereafter to stand before Thee in the ranks of the Church triumphant, O Thou great King of Glory, to Whom be praise and adoration from men and from the Angel host.  
 **R.** Amen.
 
----
-
 ## The Benediction
 
 *The Bishop blesses the persons confirmed as follows:*
@@ -214,8 +201,6 @@ May the Holy Ones, Whose pupils you aspire to become, show you the Light you see
 **R.** Amen.
 
 > *If the sacrament of Confirmation is administered during the Celebration of the Holy Eucharist, or in connection with any other service, the second benediction given above shall not be used. It may be used only when the Confirmation is an entirely separate service.*
-
----
 
 ## Notes on Practice
 

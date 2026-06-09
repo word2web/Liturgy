@@ -1,8 +1,7 @@
 ---
 title: "Notes and Directions"
+subtitle: " "
 ---
-# Notes and Directions
-
 ## The Church’s Year
 
 The Church’s year divides itself into two portions.

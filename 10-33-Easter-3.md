@@ -1,8 +1,7 @@
 ---
 title: "The Third Sunday after Easter"
+subtitle: " "
 ---
-# The Third Sunday after Easter
-
 ## The Collect
 
 O LORD Christ, as Thou didst at this season rise from death into the wondrous power of an endless life, so may we by Thy most gracious help rise from the darkness of sin into the ineffable splendour of conscious life in Thee, O Light of Light, Who livest and reignest for evermore.

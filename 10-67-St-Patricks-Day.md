@@ -1,8 +1,7 @@
 ---
 title: "St. Patrick's Day"
+subtitle: " "
 ---
-# St. Patrick’s Day
-
 ## The Collect
 
 O ALMIGHTY and everlasting God,  

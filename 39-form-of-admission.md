@@ -1,9 +1,8 @@
 ---
 title: "A Form of Admission to the Liberal Catholic Church"
+subtitle: " "
 ---
-# A Form of Admission to the Liberal Catholic Church
-
-_To be used when conditional re-baptism or Confirmation is not administered._  
+*To be used when conditional re-baptism or Confirmation is not administered.*
 
 The Priest stands at the entrance to the sanctuary, the candidate standing before him.  
 
@@ -40,9 +39,8 @@ O Lord Christ, Who art ever ready to receive and to strengthen the earnest aspir
 
 > *This prayer may be used in connection with any who are admitted to the Church by Confirmation or by conditional re-baptism.*
 
-
 The Priest lays his hand upon the head of the new member, raising it only to make the sign of the cross, and says:
 
 **P.**
 The blessing of God Almighty, the Father, + the Son, and the Holy Ghost rest upon thee, that thou mayest faithfully serve before Him all the days of thy life.
-**R.** Amen.
+**R.** Amen.  

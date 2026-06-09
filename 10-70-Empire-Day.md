@@ -1,8 +1,7 @@
 ---
 title: "Empire Day"
+subtitle: " "
 ---
-# Empire Day
-
 ## The Collect
 
 WE thank Thee, O most mighty Lord,  

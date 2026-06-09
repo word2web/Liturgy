@@ -1,8 +1,7 @@
 ---
 title: "The Second Sunday after Easter"
+subtitle: " "
 ---
-# The Second Sunday after Easter
-
 ## The Collect
 
 O LORD Christ, the Sun of Righteousness, Who as at holy Eastertide didst rise from the darkness of death to shine with exceeding glory upon Thy people, hasten Thou Thy Coming, we pray Thee, that once more that brightness may rise upon our longing eyes, and that all the earth may be filled with Thy glory, even as the waters cover the sea, Thou Who dwellest ever in the unity of the Father and the Holy Ghost throughout all ages of ages.

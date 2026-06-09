@@ -1,8 +1,7 @@
 ---
 title: "The Fifth Sunday after Easter"
+subtitle: " "
 ---
-# The Fifth Sunday after Easter
-
 ## The Collect
 
 LORD Christ, Whose wondrous triumph Thy faithful people year by year do celebrate, we pray Thee that as the years roll on we also may triumph over sin, and, following Thy glorious ensample, may rise unto the fullness of our spiritual heritage, O Thou Who livest and reignest with the Father and the Holy Spirit, God throughout all ages of ages.

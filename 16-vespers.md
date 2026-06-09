@@ -1,8 +1,7 @@
 ---
 title: "Vespers"
+subtitle: " "
 ---
-# Vespers
-
 Vespers is one of the ancient canonical hours of the Church, or portions of the Divine Office recited as an act of devotion. These are: Matins, Lauds, Prime, Terce, Sext, None, Vespers, Compline. Vespers has become the most popular of these, being well adapted to use as a public evening service.
 
 The Psalms, heralded by the key-thoughts of their respective antiphons, serve to attune the mind to the glory of the Deity. The Little Chapter and Hymn introduce other notes. Then the whole culminates in the great outpouring of praise at the Te Deum, and comes to a fitting conclusion in the peace and calm of the Collects and final versicles.
@@ -30,7 +29,6 @@ The service follows somewhat closely the structure of the Latin original, but th
 **All:** Glory be to the Father, and to the Son: and to the Holy Ghost.  
 As it was in the beginning, is now, and ever shall be: world without end. Amen.
 
----
 
 *All are seated.*
 

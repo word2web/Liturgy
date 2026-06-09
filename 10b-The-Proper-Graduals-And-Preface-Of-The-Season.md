@@ -1,8 +1,7 @@
 ---
 title: "The Proper Graduals and Prefaces of the Season"
+subtitle: " "
 ---
-# The Proper Graduals and Prefaces of the Season
-
 ## Christmas Day
 
 _The Gradual for Christmas Day and Seven Days After_

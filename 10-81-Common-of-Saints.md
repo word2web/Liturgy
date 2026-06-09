@@ -1,8 +1,7 @@
 ---
 title: "Common of Saints"
+subtitle: " "
 ---
-# Common of Saints
-
 ## The Collect
 
 WE thank Thee, Lord, and praise Thee

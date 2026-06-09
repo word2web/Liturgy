@@ -1,8 +1,7 @@
 ---
 title: "Holy Matrimony"
+subtitle: " "
 ---
-# Holy Matrimony
-
 Christ did not institute marriage, but the Sacrament blessing such marriage. This is intended to help the parties to live together in a state of love and mutual aid. When they have pledged their love and fidelity to each other in the presence of Christ, the Priest blesses them in His Name.
 
 The ring, which is the symbol of their spiritual union, is also blessed.

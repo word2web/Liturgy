@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The Nineteenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Nineteenth Sunday after Trinity
-
 **Theme:** Tact and Tolerance
 
 ## The Collect

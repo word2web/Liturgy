@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The First Sunday after Easter, or Low Sunday"
+subtitle: " "
 ---
-# The First Sunday after Easter, or Low Sunday
-
 ## The Collect
 
 O LORD Christ, by Whose eternal Sacrifice we exist, and in Whose victory we triumph, grant that, in joy or in sorrow, we may never lose our grateful memory of Thine unchanging love, Who livest and reignest God throughout all ages.

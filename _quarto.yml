@@ -138,6 +138,7 @@ format:
   html:
     theme: cosmo
     toc: true
+    number-sections: false
   pdf:
     documentclass: scrbook
     classoption: [oneside]

@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The Twentieth Sunday after Trinity"
+subtitle: " "
 ---
-# The Twentieth Sunday after Trinity
-
 **Theme:** Serenity
 
 ## The Collect

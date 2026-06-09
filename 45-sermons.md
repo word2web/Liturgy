@@ -1,8 +1,7 @@
 ---
 title: "Sermons"
+subtitle: " "
 ---
-# SERMONS
-
 When sermons are preached in connection with any of the services, it is recommended that they should in all cases be preceded by the Invocation:
 
 > In the Name of the Father ☩ and of the Son, and of the Holy Ghost.  

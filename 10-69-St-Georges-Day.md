@@ -1,8 +1,7 @@
 ---
 title: "St. George's Day"
+subtitle: " "
 ---
-# St. George’s Day
-
 ## The Collect
 
 WE praise Thee, O Lord,  

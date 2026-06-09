@@ -1,8 +1,7 @@
 ---
 title: "The Burial of the Dead"
+subtitle: " "
 ---
-# The Burial of the Dead
-
 The funeral rites of the Church may be grouped into two divisions; the first including those offices, foremost in importance, whose purpose it is to surround the liberated soul with peace and spiritual power. Of these the offering of the Holy Sacrifice for the repose of the soul is the most important and efficacious. The other and less important part of the rite consists in the hallowing of the grave and the consigning into it of the ashes or the cast-off body. To this must be added the work of giving comfort and assurance to the relatives and friends.
 
 This work of giving help and peace to the departed person is inevitably hindered if we surround him with feelings of depression and unhappiness. Every effort should therefore be made to put aside our own very natural sense of sorrow and loss, and to think rather of the happiness and peace of the departed soul. In proportion as we can accomplish this, do we also gain comfort and strength for ourselves.

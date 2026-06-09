@@ -1,8 +1,7 @@
 ---
 title: "Holy Unction and Communion of the Sick"
+subtitle: " "
 ---
-# HOLY UNCTION AND COMMUNION OF THE SICK  
-
 ## Introduction
 
 The purposes of the Sacrament of Holy Unction are:
@@ -19,8 +18,7 @@ It is desirable that the person to be anointed should receive Holy Communion, if
 
 If Communion of the Sick is to be administered apart from Holy Unction, the form for the Administration of Holy Communion with the reserved Sacrament on page 205 should be used, unless a complete Celebration is to take place in the house.
 
-
-## HOLY UNCTION
+## HOLY UNCTION  
 
 *If convenient, a table should be provided, covered with a linen cloth and bearing upon it a cross and two lighted candles. The Priest wears a violet stole*
 

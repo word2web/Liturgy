@@ -1,8 +1,7 @@
 ---
 title: "The Circumcision of Christ"
+subtitle: " "
 ---
-# The Circumcision of Christ
-
 (January 1st)  
 
 > Note: In some traditions, the Feast of the Circumcision coincides with New Year’s Day. Where observed separately, the following may be used.

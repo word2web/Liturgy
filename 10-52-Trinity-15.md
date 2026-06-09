@@ -1,9 +1,8 @@
 ---
-title: "Common of Saints"
+title: "The Fifteenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Fifteenth Sunday after Trinity  
-
-*Intent: The Reality of Things Eternal; a day of devotion to the Holy Spirit*
+*Intent: The Reality of Things Eternal; a day of devotion to the Holy Spirit*  
 
 ## The Collect
 

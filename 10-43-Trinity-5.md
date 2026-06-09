@@ -1,8 +1,7 @@
 ---
 title: "Fifth Sunday after Trinity"
+subtitle: " "
 ---
-# Fifth Sunday after Trinity
-
 **Intent:** GOD as Peace
 
 ## The Collect

@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The Twenty-second Sunday after Trinity"
+subtitle: " "
 ---
-# The Twenty-second Sunday after Trinity
-
 **Theme:** Right Energy
 
 ## The Collect  

@@ -1,8 +1,7 @@
 ---
 title: "Ascension Day"
+subtitle: " "
 ---
-# Ascension Day
-
 ## The Collect
 
 O GOD, the King of glory, we pray Thee that, as Thine only-begotten Son our dear Lord Christ hath ascended into the heavens, we may also in heart and mind thither ascend, and with Him continually dwell, Who liveth and reigneth with Thee and the Holy Ghost, one God, throughout all ages of ages.

@@ -1,8 +1,7 @@
 ---
 title: "St. John Baptist's Day"
+subtitle: " "
 ---
-# St. John Baptist’s Day
-
 ## The Collect
 
 O CHRIST our Lord,  

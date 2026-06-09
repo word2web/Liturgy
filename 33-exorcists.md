@@ -1,8 +1,7 @@
 ---
 title: "The Ordination of Exorcists"
+subtitle: " "
 ---
-# The Ordination of Exorcists
-
 *At the appointed time those about to be made Exorcists are summoned by a Priest, as follows:*
 
 **Priest:** Let those who are to be ordained to the Office of Exorcist come forward.

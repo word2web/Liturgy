@@ -1,8 +1,7 @@
 ---
 title: "Third Sunday in Advent"
+subtitle: " "
 ---
-# Third Sunday in Advent
-
 ## The Collect
 
 Grant us, O Lord, so to prepare and make ready Thy way, by turning the hearts of the disobedient to the wisdom of the just, that when Thou shalt come to teach the world, the ground may be found fit for Thy sowing, Thou Who art the Teacher alike of Angels and of men. R. Amen.

@@ -1,8 +1,7 @@
 ---
 title: "St. Alban's Day"
+subtitle: " "
 ---
-# St. Alban’s Day
-
 ## The Collect
 
 WE praise Thee, O Lord,  

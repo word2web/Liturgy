@@ -1,8 +1,7 @@
 ---
 title: "All Souls' Day"
+subtitle: " "
 ---
-# All Souls’ Day
-
 ## The Collect  
 
 O LORD Christ,

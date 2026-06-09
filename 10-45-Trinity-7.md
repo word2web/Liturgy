@@ -1,9 +1,8 @@
 ---
 title: "The Seventh Sunday after Trinity"
+subtitle: " "
 ---
-# The Seventh Sunday after Trinity  
-
-_Intent: Purity; a day of devotion to the Holy Spirit_
+*Intent: Purity; a day of devotion to the Holy Spirit*  
 
 ## The Collect
 

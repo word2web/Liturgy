@@ -1,8 +1,7 @@
 ---
 title: "The Eighth Sunday after Trinity"
+subtitle: " "
 ---
-# The Eighth Sunday after Trinity  
-
 *Intent: Wisdom*  
 
 ## The Collect

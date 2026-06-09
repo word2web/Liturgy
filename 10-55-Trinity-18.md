@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The Eighteenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Eighteenth Sunday after Trinity
-
 **Theme:** Christ as Truth
 
 ## The Collect

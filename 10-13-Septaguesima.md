@@ -1,8 +1,7 @@
 ---
 title: "Septuagesima Sunday"
+subtitle: " "
 ---
-# Septuagesima Sunday  
-
 (Approximately 17 days before Lent)  
 
 ## The Collect  

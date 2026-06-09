@@ -1,8 +1,7 @@
 ---
 title: "Second Sunday after Trinity"
+subtitle: " "
 ---
-# Second Sunday after Trinity  
-
 **Intent:** GOD as Light
 
 ## The Collect  

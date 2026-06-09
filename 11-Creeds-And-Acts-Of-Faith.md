@@ -1,8 +1,7 @@
 ---
 title: "Creeds and Acts of Faith"
+subtitle: " "
 ---
-# Creeds and Acts of Faith
-
 ## The Nicaeno-Constantinopolitan Creed
 
 We believe in one God, the Father Almighty,  

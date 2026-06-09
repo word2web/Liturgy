@@ -1,8 +1,7 @@
 ---
 title: "The Baptism of Our Lord"
+subtitle: " "
 ---
-# The Baptism of Our Lord
-
 ## The Collect  
 
 > O LORD, Who didst deign as at this time to receive the baptism of water at the hands of Thy Forerunner, grant that we may become worthy to receive at Thy Hands the baptism of the Holy Ghost and of Fire, Thou Who art the Way, the Truth and the Life, to Whom be praise for evermore.  

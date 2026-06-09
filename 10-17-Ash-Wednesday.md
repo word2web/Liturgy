@@ -1,8 +1,7 @@
 ---
 title: "Ash Wednesday"
+subtitle: " "
 ---
-# Ash Wednesday
-
 *(The First Day of Lent)*  
 
 ## The Collect  

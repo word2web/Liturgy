@@ -1,8 +1,7 @@
 ---
 title: "Armistice Day"
+subtitle: " "
 ---
-# Armistice Day
-
 ## The Collect  
 
 O ALMIGHTY God,

@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "The Twenty-first Sunday after Trinity"
+subtitle: " "
 ---
-# The Twenty-first Sunday after Trinity
-
 **Theme:** Perseverance
 
 ## The Collect  

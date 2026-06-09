@@ -1,8 +1,7 @@
 ---
-title: "Solemn Benediction"
+title: "Benediction of the Most Holy Sacrament"
+subtitle: " "
 ---
-# Benediction of the Most Holy Sacrament
-
 In this service the people receive the blessing of Christ Himself through the Most Holy Sacrament. The latter is first exposed in the monstrance for the adoration and veneration of the people. Then the Priest, covering his hands with the humeral veil, takes the monstrance and gives the Solemn Benediction. The greatest devotion should mark this service.
 
 Sometimes the Host is carried in procession.
@@ -27,8 +26,6 @@ All kneel, and the Priest offers incense before the Most Holy Sacrament. Meanwhi
 > For evermore, blest One in Three;  
 > O grant us life that shall not end  
 > In our true native land with Thee. Amen.
-
----
 
 ## The Litany
 
@@ -146,7 +143,6 @@ The following Litany is sung, the people kneeling. If there is to be a Processio
 
 *A time may be set apart at this place for meditation.*
 
----
 
 ## *Tantum Ergo*
 
@@ -154,23 +150,19 @@ The following hymn is then sung, a few moments' pause being made if it follows d
 
 *The people remain kneeling.*
 
-> *(At the second line all bow low in adoration)*  
->  
+> *(At the second line all bow low in adoration)*
 > Therefore we, before Him bending,  
 > This great Sacrament revere;  
 > Types and shadows have their ending,  
 > For the newer rite is here.  
 > Faith, our outward sense befriending,  
-> Makes our inward vision clear.  
->  
+> Makes our inward vision clear. 
 > Glory let us give, and blessing,  
 > To the Father and the Son,  
 > Honour, might, and praise addressing,  
 > While eternal ages run;  
 > Ever, too, His love confessing,  
 > Who from Both with Both is One. Amen.
-
----
 
 ## Versicles and Prayer
 
@@ -236,7 +228,6 @@ The following hymn may be sung either as a recessional or before the procession 
 > Quit we this holy shrine,  
 > And pass into the silent night,  
 > To be the bearers of Thy light. Amen.
-
 
 
 ## Notes on Use

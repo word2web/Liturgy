@@ -1,8 +1,7 @@
 ---
 title: "The Epiphany of Our Lord"
+subtitle: " "
 ---
-# The Epiphany of Our Lord
-
 *(January 6th)*  
 
 ## The Collect

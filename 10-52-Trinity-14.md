@@ -1,9 +1,8 @@
 ---
 title: "The Fourteenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Fourteenth Sunday after Trinity  
-
-*Intent: Renewal of Heart* 
+*Intent: Renewal of Heart*  
 
 ## The Collect  
 

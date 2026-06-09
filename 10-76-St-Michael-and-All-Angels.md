@@ -1,8 +1,7 @@
 ---
 title: "St. Michael and All Angels"
+subtitle: " "
 ---
-# St. Michael and All Angels
-
 ## The Collect
 
 ALMIGHTY and everlasting God,

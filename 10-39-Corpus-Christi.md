@@ -1,8 +1,7 @@
 ---
 title: "Corpus Christi"
+subtitle: " "
 ---
-# Corpus Christi
-
 ## The Collect
 
 O CHRIST our holy Lord, Who in this wonderful Sacrament of the Altar hast given unto us the grace of Thy perpetual Presence and an abiding memorial of Thy surpassing love; grant us so to receive this Thy most precious gift, that our hearts may be pure in Thy sight and our lives ever dedicated to Thy service, Who livest and reignest with the Father and the Holy Spirit, one God throughout all ages of ages.

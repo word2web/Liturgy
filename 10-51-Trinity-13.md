@@ -1,9 +1,8 @@
 ---
 title: "The Thirteenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Thirteenth Sunday after Trinity   
-
-*Intent: Good works*
+*Intent: Good works*  
 
 ## The Collect  
 

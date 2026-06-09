@@ -1,7 +1,7 @@
 ---
 title: "A Table of the Movable Feasts"
+subtitle: " "
 ---
-# A Table of the Movable Feasts
 
 - Easter Day  
 - Ascension Day  

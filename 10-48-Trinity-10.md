@@ -1,8 +1,7 @@
 ---
 title: "The Tenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Tenth Sunday after Trinity  
-
 *Intent: Devotion*  
 
 ## The Collect  

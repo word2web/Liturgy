@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "Easter Day"
+subtitle: " "
 ---
-# Easter Day
-
 ## The Collect
 O GOD of Love, we praise Thee, we bless Thee,
 with all our hearts do we thank Thee and magnify

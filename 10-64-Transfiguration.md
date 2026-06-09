@@ -1,8 +1,7 @@
 ---
 title: "The Transfiguration"
+subtitle: " "
 ---
-# The Transfiguration  
-
 ## The Collect  
 
 > O LORD CHRIST, Who upon Mount Tabor didst show Thyself in Thy true glory unto Thy disciples, grant that we Thy humble servants may also in due time ascend the holy mountain, and be transfigured into Thy likeness, O Thou great King of Glory to Whom be praise and adoration for evermore.  

@@ -1,8 +1,7 @@
 ---
 title: "All Saints' Day"
+subtitle: " "
 ---
-# All Saints’ Day
-
 ## The Collect
 
 O ALMIGHTY God,

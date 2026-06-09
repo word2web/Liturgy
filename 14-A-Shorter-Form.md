@@ -1,13 +1,8 @@
 ---
 title: "A Shorter Form for the Celebration of the Holy Eucharist"
+subtitle: " "
 ---
-# A Shorter Form for the Celebration of the Holy Eucharist
-
----
-
-**Note.**—This shorter form may be used by Priests at their regular daily Celebration, at services for children, and whenever the fuller version is found too long for practical convenience. At his discretion, the Priest may introduce passages from the longer Celebration, such as the Offertory sentence, the Minor Benedictions, and so forth.
-
----
+**Note.* This shorter form may be used by Priests at their regular daily Celebration, at services for children, and whenever the fuller version is found too long for practical convenience. At his discretion, the Priest may introduce passages from the longer Celebration, such as the Offertory sentence, the Minor Benedictions, and so forth.
 
 ## The Invocation
 
@@ -15,8 +10,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 **In the name of the Father, and of the Son, and of the Holy Ghost.**
 **R.** Amen.
-
----
 
 ## Asperges
 
@@ -41,9 +34,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 > Brethren, let us now lay the foundation of our Temple.
 
----
-
-## The Canticle
+## The Canticle  
 
 *He turns to the Altar, and all sing this Canticle, except that the Priest alone chants the first half of the first verse.*
 
@@ -62,8 +53,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > Christ is our foundation.
 > And our chief corner-stone.
 
----
-
 ## Confiteor
 
 *All kneel, and say together:*
@@ -71,8 +60,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > O Lord, Thou hast created man to be immortal, and made him to be an image of Thine own eternity; yet often we forget the glory of our heritage, and wander from the path which leads to righteousness. But Thou, O Lord, hast made us for Thyself, and our hearts are ever restless till they find their rest in Thee.
 > Look with the eyes of Thy love upon our manifold imperfections, and pardon all our shortcomings, that we may be filled with the brightness of the everlasting light, and become the unspotted mirror of Thy power and the image of Thy goodness. Through Christ our Lord.
 **Amen.**
-
----
 
 ## The Absolution
 
@@ -84,14 +71,10 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 **P.** *(turning to the Altar)* With praise and with prayer shall our Temple be built.
 **C.** To God alone be the glory.
 
----
-
 ## The Censing
 
 *While the Introit is being sung, the Priest blesses the incense, censes the Altar in due and ancient form, and is himself censed; but if it be said, the censing comes first, the people meanwhile being seated.*
 
----
----
 ## Introit
 
 > Blessed be the Holy Trinity, the undivided Unity, eternal, immortal, invisible, to Whom be honour and glory for ever and ever.
@@ -103,8 +86,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > Blessed be the Holy Trinity, the undivided Unity, eternal, immortal, invisible, to Whom be honour and glory for ever and ever.
 > Amen.
 
----
----
 ## Kyrie
 
 *The Kyrie is sung by all together, the people kneeling (at Low Celebration it is said alternately by Priest and people, as hereunder indicated).*
@@ -113,8 +94,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > Christe eleison.
 > Kyrie eleison.
 
----
----
 ## Gloria in Excelsis
 
 *This is sung by all, the people standing.*
@@ -143,7 +122,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 *The Epistle ended, all stand and sing:*
 > Thanks be to God.
 
-
 ### The Gradual  
 
 *All sing the Gradual.*
@@ -153,9 +131,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > Give me understanding, and I shall keep Thy law: yea, I shall keep it with my whole heart.
 > The path of the just is as the shining light: shining more and more unto the perfect day.
 
----
----
-## Munda Cor Meum
+## Munda Cor Meum  
 
 *At High Celebration, the Gospel is read by the Deacon (or a separate Gospeller may be appointed). He kneels before the centre of the Altar and intones the following prayer:*
 
@@ -169,8 +145,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 *If the Celebrant be without assistants, he himself intones both the prayer and the blessing, substituting “my” for “thy” in the latter.*
 
----
----
 ## The Gospel
 
 *The Deacon or Gospeller sings:*
@@ -183,14 +157,11 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 *The Gospel ended, all sing:*
 > Praise be to Thee, O Christ.
 
----
----
 ## The Sermon
 
 *If there be a sermon, it follows here.*
 
----
----
+
 ## The Creed
 
 *Any of the Creeds or Acts of Faith may be used instead of the following, if preferred.*
@@ -201,8 +172,8 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > So shall His blessing rest on us, and peace for evermore.
 > Amen.
 
----
----
+
+
 ## Offertorium
 
 *The people are seated. The Priest offers the host.*
@@ -220,8 +191,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > We offer unto Thee, O Lord, this chalice with joy and gladness; may the worship which we offer ascend before Thy Divine Majesty as a sacrifice, pure and acceptable in Thy sight. Through Christ our Lord.
 **R.** Amen.
 
----
----
 ## The Second Censing
 
 *A hymn may be sung here while the offertory is being collected, and during that hymn the Priest censes the oblations and the Altar in due and ancient form. When the hymn is finished, the Priest holds up the censer before the centre of the Altar, saying:*
@@ -234,8 +203,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 *He is himself censed, as are afterwards the choir and people, who stand for this ceremony, bowing before and after. The Priest dips his fingers into a bowl of water, wipes them, and says, turning towards the people:*
 
----
-### Orate Fratres
+### Orate Fratres  
 
 **P.**
 > Brethren, we have built a Temple for the distribution of Christ’s power; let us now prepare a channel for its reception; and to that end pray ye that my sacrifice and yours may be acceptable to God the Father Almighty.
@@ -253,8 +221,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 **P.** The Lord be with you.
 **C.** And with thy spirit.
 
----
----
+
 ## Sursum Corda
 
 **P.** Lift up your hearts.
@@ -263,8 +230,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 **P.** Let us give thanks unto our Lord God.
 **C.** It is meet and right so to do.
 
----
----
+
 ## Preface
 
 **P.**
@@ -272,8 +238,6 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 *(Here follows the proper Preface, if any.)*
 > Therefore, with Angels and Archangels, with Thrones, Dominations, Princedoms, Virtues, Powers, with Cherubim and Seraphim, and with all the company of heaven, we laud and magnify Thy glorious Name, evermore praising Thee, and saying:
 
----
----
 ## Sanctus and Benedictus Qui Venit
 
 *The people kneel and all sing:*
@@ -282,8 +246,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > Blessed is He that cometh in the Name of the Lord.
 > Hosanna in the highest.
 
----
----
+
 ## The Prayer of Consecration
 
 *The Priest continues:*
@@ -347,8 +310,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 *The Priest here holds the Host directly over the Chalice, and raises both to the level of his eyes.*
 
----
----
+
 ## The Commemoration of the Saints
 
 *The Priest crosses himself with the paten.*
@@ -362,8 +324,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 > praying that by this action, ordained from of old, Thy + strength, Thy + peace and Thy + blessing, which Thou dost give us in this holy Sacrament, may be spread abroad upon Thy world; and as Thou, O Lord Christ, wast made known to Thy disciples in the breaking of bread, so may Thy many children know themselves to be one in Thee, even as Thou art one with the Father.
 **R.** Amen.
 
----
----
+
 ## The Salutation of Peace
 
 *The Priest faces the people and, with outstretched arms, says:*
@@ -387,16 +348,14 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 
 > Under the veil of earthly things now have we communion with our Lord Jesus Christ; soon with open face shall we behold Him, and, rejoicing in His glory, be made like unto Him. Then shall His true disciples be brought by Him with exceeding joy before the presence of His Father’s glory.
 
----
----
+
 ## Communio
 
 *All stand, and sing:*
 > Amen. Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever.
 > Amen.
 
----
----
+
 ## Postcommunio
 
 **P.** Let us pray.
@@ -412,8 +371,7 @@ title: "A Shorter Form for the Celebration of the Holy Eucharist"
 **P.** Ite, missa est.
 **C.** Deo gratias.
 
----
----
+
 ## The Benediction
 
 **P.**

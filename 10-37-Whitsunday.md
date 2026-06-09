@@ -1,8 +1,7 @@
 ---
 title: "Whitsunday"
+subtitle: " "
 ---
-# Whitsunday
-
 ## The Collect
 
 O GOD, Who as at this time didst teach the hearts of Thy faithful people by the sending to them the light of Thy Holy Spirit, grant us by the same Spirit to have a right judgment in all things, and evermore to rejoice in His holy comfort; through the love of Christ our Master, Who liveth and reigneth with Thee, in the unity of the same Spirit, one God, throughout all ages of ages.

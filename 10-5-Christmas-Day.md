@@ -1,8 +1,7 @@
 ---
 title: "Christmas Day"
+subtitle: " "
 ---
-# Christmas Day
-
 *The Nativity of Our Lord*  
 
 ## The Collect

@@ -1,8 +1,7 @@
 ---
 title: "Second Sunday in Advent"
+subtitle: " "
 ---
-# Second Sunday in Advent
-
 ## The Collect  
 
 O God, Creator and Preserver of mankind, we thank Thee for Thy never-failing love, and do most earnestly desire and resolve to show forth Thy praise not only with our lips, but in our lives, by giving up ourselves to Thy service, and by walking before Thee in holiness and righteousness all our days, through Christ our Lord. R. Amen.

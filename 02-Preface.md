@@ -1,8 +1,7 @@
 ---
 title: "Preface"
+subtitle: " "
 ---
-# PREFACE  
-
 Some brief explanation of the principles which have guided the writing of this Liturgy of the Liberal Catholic Church may help the reader to understand its spirit and aim.
 
 It will be seen that the word Liturgy, as applied to this book, is not restricted to the Order of the celebration of the Holy Eucharist, as in the Eastern Church. It is applied, rather, to the entire order of public worship and administration of the Sacraments, officially authorized—such, indeed, as would usually be described by the adjective “liturgical”—as distinct from public or private devotions, services of preaching and praise, extempore worship, and so forth, which may be permitted but are not prescribed.

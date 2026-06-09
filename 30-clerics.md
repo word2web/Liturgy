@@ -1,8 +1,7 @@
 ---
 title: "The Ordination of Clerics"
+subtitle: " "
 ---
-# The Ordination of Clerics
-
 At the appointed time, those about to be made Clerics are summoned by a Priest, as follows:
 
 > **Priest:**
@@ -22,8 +21,6 @@ The ordinands rise from their seats and advance a few paces towards the Bishop, 
 
 > In this Order of Cleric, then, you must learn self-control with regard to the body. It must be trained to habits of accuracy and neatness; it must be kept in perfect health and cleanliness, and you must see that it devotes its energies to God’s service, not in disorderliness and selfishness, but in harmony and rhythm. In your gesture, in your manner and your speech, strive to show forth the ideal of beauty, never forgetting that our physical bodies are the temple of the Holy Ghost. Moreover, as you learn to respect your own body, so must you scrupulously respect the bodies of others, picturing them ever as the temple of the eternal Beauty.
 
-
-
 The charge being ended, the ordinands kneel before the Bishop, who rises and says:
 
 > **Bishop:**
@@ -31,7 +28,6 @@ The charge being ended, the ordinands kneel before the Bishop, who rises and say
 
 > O Lord Christ, Who art ever ready to receive and to strengthen the earnest aspirations of Thy children, look down in Thy love upon these Thy servants who desire to become worthy to serve Thee as Clerics in Thy holy Church. Sanctify + them, O Lord, with Thy heavenly grace, that growing continually in virtue they may rightly practise the duties of their office and so be found acceptable in Thy sight, O Thou great King of Love, to Whom be glory for ever and ever.
 > **Response:** Amen.
-
 
 The ordinands kneel before the Bishop in succession. He places his right hand on the head of each, as he says:
 

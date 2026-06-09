@@ -1,8 +1,7 @@
 ---
 title: "The Ninth Sunday after Trinity"
+subtitle: " "
 ---
-# The Ninth Sunday after Trinity  
-
 *Intent: Confidence*  
 
 ## The Collect  

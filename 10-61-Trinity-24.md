@@ -1,8 +1,7 @@
 ---
 title: "The Twenty-fourth Sunday after Trinity"
+subtitle: " "
 ---
-# The Twenty-fourth Sunday after Trinity  
-
 **Theme:** Openness of Mind
 
 ## The Collect  

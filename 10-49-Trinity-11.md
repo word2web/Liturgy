@@ -1,8 +1,7 @@
 ---
 title: "The Eleventh Sunday after Trinity"
+subtitle: " "
 ---
-# The Eleventh Sunday after Trinity  
-
 *Intent: Discernment*  
 
 ## The Collect  

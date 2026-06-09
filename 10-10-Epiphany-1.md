@@ -1,8 +1,7 @@
 ---
 title: "The First Sunday after Epiphany"
+subtitle: " "
 ---
-# The First Sunday after Epiphany  
-
 *(The Baptism of Our Lord)*  
 
 ## The Collect  

@@ -1,8 +1,7 @@
 ---
 title: "The Ordination of Readers"
+subtitle: " "
 ---
-# The Ordination of Readers
-
 *At the appointed time those about to be made Readers are summoned by a Priest, as follows:*
 
 **Priest:** Let those who are to be ordained to the Office of Reader come forward.

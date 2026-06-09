@@ -1,29 +1,20 @@
 ---
 title: "The Celebration of the Holy Eucharist Commonly Called the Mass"
+subtitle: " "
 ---
-# The Celebration of the Holy Eucharist Commonly Called the Mass
-
----
-
 "Eucharist" is a Greek word meaning "thanksgiving." The word "Mass" is of uncertain etymology; some think the name to be derived from the Latin phrase *Ite, missa est*, with which catechumens or probationers are said to have been dismissed in the ancient Church before the chief part of the service—with which the Holy Angels are still dismissed at the end of it, to fly forth on their glorious errands of mercy and blessing.
 
 The fact that the term "Mass" has in this Liturgy given place to "Holy Eucharist" has no doctrinal significance. We have preferred the latter title because it expresses more adequately and beautifully the nature and character of the Service.
 
----
-
 ## The Nature of the Holy Eucharist
 
 The Holy Eucharist is the central act of Christian worship. Designed to help those who take part therein, it is intended also to pour out a great flood of spiritual power upon the surrounding world at large, and it summons the congregation to intelligent and energetic participation in this work. So real is this participation that the congregation may expect to feel a great spiritual upliftment; indeed, if they have done their work efficiently, they may experience physical fatigue. But assuredly they will gladly bear this much of inconvenience for the sake of serving Him.
-
----
 
 ## The Liturgy of the Holy Eucharist
 
 The Liturgy of the Holy Eucharist opens with the **Asperges** or sprinkling with consecrated water, whose purpose is to prepare the building, to purify and steady the thought and feeling of the people, and to invoke the presence of an Angel to assist in the worship.
 
 Then follows the **Preparation**, consisting largely of ascription of praise to Almighty God, intended to attune the worshippers to high and holy things. This is greatly helped by the **Confession and Absolution**. The **Collect, Epistle, Gospel, and Creed** draw out especially the thought of the people, whereas the preceding sections have largely worked upon their devotion.
-
----
 
 ### The Offertory
 
@@ -49,4 +40,4 @@ Rightly do we regard this service as the supreme act of Christian worship, and o
 
 Through the ceremony of the Holy Eucharist, each time it is celebrated, there passes forth into the world a wave of peace and strength, the effect of which can hardly be overrated; and this, which is indeed the primary object of the Service, is achieved at every celebration, whether the Priest be alone in his private oratory or ministering to a vast congregation in some magnificent cathedral.
 
-Therefore, it offers to us an unequalled opportunity of becoming labourers together with God, of doing Him true and laudable service by acting as channels of His wondrous power.
+Therefore, it offers to us an unequalled opportunity of becoming labourers together with God, of doing Him true and laudable service by acting as channels of His wondrous power.  

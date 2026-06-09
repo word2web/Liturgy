@@ -1,8 +1,7 @@
 ---
 title: "Sexagesima Sunday"
+subtitle: " "
 ---
-# Sexagesima Sunday
-
 *(Approximately 10 days before Lent)*  
 
 ## The Collect  

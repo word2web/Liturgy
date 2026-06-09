@@ -1,8 +1,7 @@
 ---
 title: "Fourth Sunday in Advent"
+subtitle: " "
 ---
-# Fourth Sunday in Advent
-
 ## The Collect  
 
 Almighty everliving God, we pray Thee to inspire continually Thy universal Church with the spirit of truth, unity and concord, that all they who do confess Thy holy Name may agree in the truth of Thy holy Word, and live in unity and godly love, through Christ our Lord. R. Amen.

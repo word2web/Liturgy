@@ -1,8 +1,7 @@
 ---
 title: "The Liturgy of the Holy Eucharist"
+subtitle: " "
 ---
-# THE LITURGY OF THE HOLY EUCHARIST  
-
 ## ASPERGES  
 
 *The shorter form of the Asperges, as given on page 192, may be substituted for the following when it is thought desirable.*
@@ -122,7 +121,6 @@ Through Christ our Lord.
 
 *The people are seated.*
 
-
 ### THE CENSING  
 
 The censer is brought to the Priest, who puts incense into it and blesses it, saying:
@@ -132,7 +130,6 @@ The Priest censes the Altar, after which the people stand.
 
 **P:** The Lord be with you.
 **C:** And with thy spirit.
-
 
 ### INTROIT  
 
@@ -145,7 +142,6 @@ O Lord our God, how excellent is Thy Name in all the world.
 **As it was in the beginning, is now, and ever shall be, world without end. Amen.**
 Blessed be the Holy Trinity, the undivided Unity, eternal, immortal, invisible, to Whom be honour and glory for ever and ever.
 **Amen.**
-
 
 ### KYRIE  
 

@@ -1,8 +1,7 @@
 ---
 title: "The Second Sunday after Epiphany"
+subtitle: " "
 ---
-# The Second Sunday after Epiphany  
-
 ## The Collect  
 
 Almighty and everlasting God, who dost govern all things in heaven and earth, mercifully hear the supplications of Thy people, and grant us Thy peace all the days of our life; through Jesus Christ our Lord. R. Amen.

@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "Holy Saturday"
+subtitle: " "
 ---
-# Holy Saturday
-
 The Altar is covered with a plain linen cloth and violet frontal, but otherwise unadorned. No candles are yet lighted. The colour is violet.
 
 If convenient, Prime may be sung before the special service of the Day. If that be done, the lessons which follow shall be used as the First and Second Lessons at Prime in place of the Epistle and Gospel.

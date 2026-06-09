@@ -1,8 +1,7 @@
 ---
 title: "The Assumption of Our Lady"
+subtitle: " "
 ---
-# The Assumption of Our Lady
-
 ## The Collect  
 
 O LORD Christ,  

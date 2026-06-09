@@ -1,9 +1,8 @@
 ---
 title: "The Twelfth Sunday after Trinity"
+subtitle: " "
 ---
-# The Twelfth Sunday after Trinity  
-
-_Intent: Self-Dedication_  
+*Intent: Self-Dedication*  
 
 ## The Collect  
 

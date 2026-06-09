@@ -1,8 +1,7 @@
 ---
 title: "A Service of Healing"
+subtitle: " "
 ---
-# A Service of Healing
-
 ## Purpose
 
 The purpose of the Service of Healing is twofold:

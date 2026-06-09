@@ -1,8 +1,7 @@
 ---
 title: "Complin"
+subtitle: " "
 ---
-# Complin
-
 ## The Benediction
 
 **P.** Unto God's gracious love and protection we commit you; the Lord bless you and keep you; the Lord make His face to shine upon you and be gracious unto you; the Lord lift up the light of His countenance upon you and give you His peace, this day and for evermore.  
@@ -27,8 +26,6 @@ title: "Complin"
 
 **P.** At morn and at even will we praise Him.  
 **C.** For our hearts rest ever in His love.
-
----
 
 ## Confiteor
 
@@ -65,8 +62,6 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 Thou art my lamp, O Lord.  
 The Lord will lighten my darkness.
 
-
-
 ## The Lesson  
 
 *All are seated, and the Epistle of the Day is read as a lesson by the Priest or ministrant, or some one appointed by him.*
@@ -91,8 +86,6 @@ As it was in the beginning, is now, and ever shall be: world without end. Amen.
 He hath called us out of darkness.  
 Into His marvellous light.
 
-
-
 ## The Second Lesson  
 
 *The people are seated, and the Gospel of the Day is read as the second lesson  
@@ -104,8 +97,6 @@ Into His marvellous light.
 We believe that God is Love, and Power and Truth and Light; that perfect justice rules the world; that all His sons shall one day reach His Feet, however far they stray. We hold the Fatherhood of God, the Brotherhood of man; we know that we do serve Him best when best we serve our brother man. So shall His blessing rest on us, and peace for evermore. Amen.
 
 > *Any of the Creeds or Acts of Faith given on p. 166 et seq. may be substituted for the above if desired.*
-
----
 
 ## The Collects
 
@@ -123,8 +114,6 @@ We believe that God is Love, and Power and Truth and Light; that perfect justice
 
 **P.** Teach us, O Lord, to see Thy life in all men and in all the peoples of Thine earth, and guide our nation through its leaders to preserve Thy peace, that the menace of war be far from our days, through Christ our Lord.  
 **R.** Amen.
-
----
 
 ## The Office Hymn
 
@@ -151,8 +140,6 @@ We believe that God is Love, and Power and Truth and Light; that perfect justice
 > Praise Father, Son and Holy Ghost. Amen.
 
 > *If there is to be a sermon, it is delivered here.*
-
----
 
 ## Nunc Dimittis
 
@@ -191,7 +178,6 @@ For it is Thou, Lord, only that makest me to dwell in safety.
 **P.** Glory be to the Father, and to the Son, and to the Holy Ghost.  
 **C.** Into Thy Hands I commend my spirit.
 
----
 
 ## The Benediction
 
@@ -203,4 +189,4 @@ For it is Thou, Lord, only that makest me to dwell in safety.
 > The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore.  
 > **R.** Amen.
 
-> *When it may be desired to shorten this service, as, for example, in the case of school or family prayers, any or all of the following may be omitted: the two Lessons, the First and Second Psalm, the Office Hymn. The Nunc Dimittis should always be said.*
+> *When it may be desired to shorten this service, as, for example, in the case of school or family prayers, any or all of the following may be omitted: the two Lessons, the First and Second Psalm, the Office Hymn. The Nunc Dimittis should always be said.*  

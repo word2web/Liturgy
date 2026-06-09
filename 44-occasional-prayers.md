@@ -1,8 +1,7 @@
 ---
 title: "Occasional Prayers"
+subtitle: " "
 ---
-# OCCASIONAL PRAYERS
-
 These prayers may be used as additional collects or at special Celebrations, as indicated.
 
 ## FOR THE CIVIL AUTHORITY  

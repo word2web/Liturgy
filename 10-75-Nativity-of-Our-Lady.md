@@ -1,8 +1,7 @@
 ---
 title: "The Nativity of Our Lady"
+subtitle: " "
 ---
-# The Nativity of Our Lady
-
 *The Collect, Epistle, and Gospel for the Nativity of Our Lady are the same as those for the Annunciation of Our Lady.*
 
 ## The Collect

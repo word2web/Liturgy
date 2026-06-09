@@ -1,8 +1,7 @@
 ---
 title: "The Third Sunday after Epiphany"
+subtitle: " "
 ---
-# The Third Sunday after Epiphany
-
 ## The Collect
 
 O Lord, we beseech Thee mercifully to receive the prayers of Thy people, and to turn the hearts of sinners to the wisdom of the just, that they may rejoice in the return of health and obtain pardon and peace; through Jesus Christ our Lord. R. Amen.

@@ -1,9 +1,8 @@
 ---
-title: "Common of Saints"
+title: "The Seventeenth Sunday after Trinity"
+subtitle: " "
 ---
-# The Seventeenth Sunday after Trinity  
-
-*Intent: Eternal Progress*
+*Intent: Eternal Progress*  
 
 ## The Collect  
 

@@ -1,8 +1,7 @@
 ---
 title: "A Table of All Feasts and Holy Days"
+subtitle: " "
 ---
-# A Table of All the Feasts and Holy Days Observed in the Liberal Catholic Church Throughout the Year
-
 | Feast or Holy Day                                      | Date        | Class | Colour  |
 |--------------------------------------------------------|-------------|-------|---------|
 | All Sundays in the Year                                | —           | —     | —       |

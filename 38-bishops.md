@@ -1,8 +1,7 @@
 ---
 title: "The Consecration of a Bishop"
+subtitle: " "
 ---
-# The Consecration of a Bishop  
-
 ## Introduction
 
 At the conclusion of the Asperges, the Consecrator takes his seat upon the faldstool. The assistant Bishops and the Bishop Elect rise, and, taking the hand of the latter, the senior assistant Bishop addresses the Consecrator in these words:

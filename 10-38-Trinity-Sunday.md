@@ -1,8 +1,7 @@
 ---
 title: "Trinity Sunday"
+subtitle: " "
 ---
-# Trinity Sunday
-
 ## The Collect
 
 O ALMIGHTY and everlasting God, Who hast given unto us Thy servants by the confession of a true faith to acknowledge the glory of the eternal Trinity, and in the power of the Divine Majesty to worship the Unity; we pray Thee that Thou wouldest keep us steadfast in this knowledge, and evermore defend us from all error, Who livest and reignest, one God, throughout all ages of ages.

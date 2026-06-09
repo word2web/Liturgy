@@ -1,8 +1,7 @@
 ---
-title: "Candlemas"
+title: "The Presentation of Our Lord in the Temple, or Candlemas"
+subtitle: " "
 ---
-# The Presentation of Our Lord in the Temple, or Candlemas
-
 ## The Blessing of the Candles
 
 During the ceremony of the Blessing of the Candles no flowers or other objects should stand on the Altar, and over the white Altar frontal, which is to be used during the Celebration, should be placed another of violet.

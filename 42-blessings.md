@@ -1,9 +1,7 @@
 ---
 title: "Blessings"
+subtitle: " "
 ---
-
-# Blessings
-
 The following blessings are reserved to Bishops (with the exceptions noted below):
 
 - The blessing of the holy oils.
@@ -14,9 +12,7 @@ The following blessings are reserved to Bishops (with the exceptions noted below
 
 It is desirable, but not essential, that a Bishop should bless Church vestments of silk and metal.
 
-**Priests may perform all other blessings.**
-
-
+**Priests may perform all other blessings.**  
 
 ## The Blessing of Holy Water
 

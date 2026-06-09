@@ -1,8 +1,7 @@
 ---
 title: "The Sunday Next before Easter, or Palm Sunday"
+subtitle: " "
 ---
-# The Sunday Next before Easter, or Palm Sunday
-
 The Blessing of the Palms
 The procession enters as usual. Upon reaching the chancel the palm branches upon the table are uncovered. The antiphon "Hosanna Filio David" is then sung, as followeth:
 

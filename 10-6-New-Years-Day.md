@@ -1,8 +1,7 @@
 ---
 title: "New Year's Day"
+subtitle: " "
 ---
-# New Year’s Day
-
 ## The Collect
 
 Almighty God, who hast brought us in safety to the beginning of this year, we humbly beseech Thee that as Thou dost enable us to begin anew the course of our earthly life, so Thou wouldst graciously grant us to spend the days of our lives in Thy holy fear and service, and at last attain everlasting joy; through Jesus Christ our Lord. R. Amen.

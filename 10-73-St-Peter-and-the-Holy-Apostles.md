@@ -1,8 +1,7 @@
 ---
 title: "St. Peter and the Holy Apostles"
+subtitle: " "
 ---
-# St. Peter and the Holy Apostles
-
 ## The Collect
 
 WE thank Thee, Lord,  

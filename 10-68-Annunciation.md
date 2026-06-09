@@ -1,8 +1,7 @@
 ---
 title: "The Annunciation of Our Lady"
+subtitle: " "
 ---
-# The Annunciation of Our Lady
-
 ## The Collect
 
 WE thank Thee, O God,  

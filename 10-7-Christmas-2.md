@@ -1,8 +1,7 @@
 ---
 title: "The Second Sunday after Christmas"
+subtitle: " "
 ---
-# The Second Sunday after Christmas
-
 ## The Collect
 
 O God, Who didst wonderfully create and yet more wonderfully restore the dignity of human nature, grant that we may share in the divine life of Him who humbled Himself to share our humanity, even Jesus Christ Thy Son our Lord, who liveth and reigneth with Thee and the Holy Spirit, one God, world without end. R. Amen.

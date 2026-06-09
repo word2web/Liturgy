@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "Fourth Sunday after Trinity"
+subtitle: " "
 ---
-# Fourth Sunday after Trinity  
-
 **Intent:** GOD as Love
 
 ## The Collect

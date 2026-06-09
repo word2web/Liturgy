@@ -1,8 +1,7 @@
 ---
 title: "The Sixth Sunday after Trinity"
+subtitle: " "
 ---
-# The Sixth Sunday after Trinity
-
 *Intent: Steadfast Service*  
 
 ## The Collect  

@@ -1,8 +1,7 @@
 ---
-title: "Common of Saints"
+title: "Third Sunday after Trinity"
+subtitle: " "
 ---
-# Third Sunday after Trinity
-
 **Intent:** GOD as the Ruler of Angels
 
 ## The Collect  

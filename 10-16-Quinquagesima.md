@@ -1,8 +1,7 @@
 ---
 title: "Quinquagesima Sunday"
+subtitle: " "
 ---
-# Quinquagesima Sunday  
-
 *(The Sunday before Ash Wednesday)*  
 
 ## The Collect  

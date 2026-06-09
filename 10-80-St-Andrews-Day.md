@@ -1,8 +1,7 @@
 ---
 title: "St Andrew's Day"
+subtitle: " "
 ---
-# St. Andrew’s Day
-
 ## The Collect
 
 WE praise Thee, O Lord,

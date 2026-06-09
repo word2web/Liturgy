@@ -1,8 +1,7 @@
 ---
 title: "Holy Baptism"
+subtitle: " "
 ---
-# Holy Baptism
-
 Baptism is a Sacrament by which the recipient is solemnly admitted to membership of Christ's holy Church and "grafted into His mystical body."
 
 The Exorcism is intended to deaden the germs of evil in infants, or to effect a preliminary purification in those more advanced in years.
@@ -15,8 +14,6 @@ The pouring of the water symbolizes both the washing away of sin and the downpou
 
 So far as is convenient, holy Baptism should be administered publicly in the presence of a congregation.
 
----
-
 ## Form to Be Used for Infants
 
 ### Instructions to Parents and Godparents
@@ -27,14 +24,10 @@ So far as is convenient, holy Baptism should be administered publicly in the pre
 
 *For each child to be baptized there should be a godfather and godmother, who say the words of presentation respectively, according to whether the child be male or female.*
 
----
-
 ### The Invocation
 
 **P.** In the Name of the Father, † and of the Son, and of the Holy Ghost.  
 **R.** Amen.
-
----
 
 ### The Presentation
 
@@ -56,8 +49,6 @@ Let us pray.
 
 > O God, Omnipotent and Omnipresent, Whose power worketh in every living creature, Who alone art the source of all life and goodness, deign to shed upon this Thy servant, who has been called to the rudiments of the faith, a ray of Thy light; drive out from him all blindness of heart, break all the chains of iniquity wherewith he has been bound; open to him, O Lord, the gate of Thy glory, that being replenished with the spirit of Thy wisdom and strengthened by Thy mighty power, he may be free from the taint of evil desire, and steadfastly advancing in holiness may joyfully serve Thee in the course Thou hast appointed for him. Through Christ our Lord.  
 > **R.** Amen.
-
----
 
 ### The Exorcism
 
@@ -84,15 +75,11 @@ Do Thou, O Lord, with Thy ever-abiding power, watch over this Thy chosen servant
 
 Come into the temple of God, that thou mayest have part with Christ unto life eternal.
 
----
-
 ### The First Anointing
 
 *The Priest takes upon his right thumb a little of the oil of catechumens. At the first two crosses the Priest touches respectively the child's breast or throat and the nape of his neck, making a small cross at each with the oil; he then makes two crosses respectively before and behind the child, reaching to the entire length of the body.*
 
 **P.** In the Name of Christ our Lord, I † anoint thee with oil for thy safeguarding; may His holy Angel † go before thee, and † follow after thee; may he be with thee in thy downsitting and thine uprising and keep thee in all thy ways.
-
----
 
 ### The Baptism
 
@@ -102,15 +89,11 @@ Come into the temple of God, that thou mayest have part with Christ unto life et
 
 > *If the Baptism be sub conditione the formula to be used is found in the form of Baptism for Children.*
 
----
-
 ### The Anointing with Chrism
 
 *The Priest takes upon his thumb some of the sacred chrism, and, anointing the child on the top of the head in the form of a cross, says:*
 
 With Christ's holy chrism do I † anoint thee, that His strength may prevent thee in thy going out and thy coming in, and may guide thee into life everlasting.
-
----
 
 ### The Reception
 
@@ -132,15 +115,11 @@ Take this burning light, enkindled from the fire of God's holy Altar, for a sign
 **N.,** Go in peace, and may the Lord be with thee.  
 **R.** Amen.
 
----
-
 ### The Charge to Sponsors
 
 **P.** Ye who have brought this child here to be baptized, seeing that now he is regenerate of water and the Holy Spirit, and grafted into the mystical body of Christ's Church, remember that there lies upon you a duty not lightly to be cast aside. It is your part to see that so soon as he is old enough to understand, he is taught God's holy will and commandment, as it was spoken by our Lord Himself when He said: *"Thou shalt love the Lord thy God with all thy heart and with all thy soul and with all thy mind and with all thy strength. This is the first and great commandment; and the second is like unto it: Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets."*
 
 Also he shall be taught the doctrine of the holy catholic Church, into which he has this day been admitted, and shall be brought in due course before the Bishop to be confirmed by him.
-
----
 
 ## Form to Be Used for Children
 
@@ -173,8 +152,6 @@ Hear the words of the Gospel written by St. Mark, in the tenth chapter, at the t
 
 > *The portion in brackets may be omitted.*
 
----
-
 ### The Exorcism
 
 **P.** In the Name which is above every name, in the power of the † Father, and of the † Son, and of the Holy † Ghost, be you so purified that you may be rightly prepared to receive this first Sacrament of Christ's holy Church;
@@ -192,15 +169,11 @@ Do Thou, O Lord, with Thy ever-abiding power, watch over this Thy chosen servant
 
 Come into the temple of God, that thou mayest have part with Christ unto life eternal.
 
----
-
 ### The First Anointing
 
 *The Priest now takes upon his right thumb a little of the oil of catechumens. At the first two crosses the Priest touches respectively the child's breast or throat and the nape of his neck, making a small cross at each with the oil; he then makes two crosses, respectively before and behind the child, reaching to the entire length of the body.*
 
 **P.** In the name of Christ our Lord, I † anoint thee with oil for thy safeguarding; may His holy Angel † go before thee, and † follow after thee; may he be with thee in thy downsitting and thine uprising, and keep thee in all thy ways.
-
----
 
 ### The Baptism
 
@@ -211,15 +184,11 @@ Come into the temple of God, that thou mayest have part with Christ unto life et
 > *If the Baptism be sub conditione the following is the formula:*  
 > **N.,** If thou art not already baptized, then do I baptize thee in the Name of the † Father, and of the † Son, and of the Holy † Ghost. Amen.
 
----
-
 ### The Anointing with Chrism
 
 *The Priest takes upon his thumb some of the sacred chrism, and, anointing the child on the top of the head in the form of a cross, says:*
 
 With Christ's holy chrism do I † anoint thee, that His strength may prevent thee in thy going out and thy coming in, and may guide thee into life everlasting.
-
----
 
 ### The Reception
 
@@ -243,8 +212,6 @@ Take this burning light, enkindled from the fire of God's holy Altar, for a sign
 **N.,** Go in peace, and may the Lord be with you.  
 **R.** Amen.
 
----
-
 ### The Final Charge
 
 *The Priest then addresses the neophyte, saying:*
@@ -252,8 +219,6 @@ Take this burning light, enkindled from the fire of God's holy Altar, for a sign
 You who have come here to be baptized, seeing that now you are regenerate of water and the Holy Spirit, and grafted into the mystical body of Christ's Church, remember that there lies upon you the duty of following God's holy will and commandment, as it was spoken by our Lord Himself, when He said: *"Thou shalt love the Lord thy God with all thy heart and with all thy soul and with all thy mind and with all thy strength. This is the first and great commandment; and the second is like unto it: Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets."*
 
 Also you shall further study the doctrine of the holy catholic Church, into which you have been admitted, and come in due course before the Bishop to be confirmed by him.
-
----
 
 ## Form to Be Used for Adults
 
@@ -263,8 +228,6 @@ Also you shall further study the doctrine of the holy catholic Church, into whic
 **R.** Amen.
 
 *The candidate comes forward and kneels.*
-
----
 
 ### The Exorcism
 
@@ -279,15 +242,11 @@ for He who is the Lord of Love and Compassion hath deigned to call you to His ho
 Do Thou, O Lord, with Thy ever-abiding power, watch over this Thy chosen servant, whom we dedicate to Thy service, that, using well the beginnings of Thy glory and heedfully observing Thy holy laws, he may be found worthy to attain to the fullness of the new birth. Through Christ our Lord.  
 **R.** Amen.
 
----
-
 ### The First Anointing
 
 *The Priest takes upon his right thumb a little of the oil of catechumens. At the first two crosses the Priest touches respectively the candidate's breast or throat and the nape of his neck, making a small cross at each with the oil; then he makes two crosses respectively before and behind the candidate, reaching to the entire length of the body.*
 
 **P.** In the Name of Christ our Lord, I † anoint thee with oil for thy safeguarding; may His holy Angel † go before thee, and † follow after thee; may he be with thee in thy downsitting and thine uprising, and keep thee in all thy ways.
-
----
 
 ### The Baptism
 
@@ -298,15 +257,11 @@ Do Thou, O Lord, with Thy ever-abiding power, watch over this Thy chosen servant
 > *If the Baptism be sub conditione the following is the formula:*  
 > **N.,** If thou art not already baptized, then do I baptize thee in the Name of the † Father, and of the † Son, and of the Holy † Ghost. Amen.
 
----
-
 ### The Anointing with Chrism
 
 *The Priest takes upon his thumb some of the sacred chrism, and, anointing the candidate on the top of the head in the form of a cross, says:*
 
 With Christ's holy chrism do I † anoint thee, that His strength may prevent thee in thy going out and thy coming in, and may guide thee into life everlasting.
-
----
 
 ### The Reception
 
@@ -324,8 +279,6 @@ With Christ's holy chrism do I † anoint thee, that His strength may prevent th
 **N.,** Go in peace, and may the Lord be with thee.  
 **R.** Amen.
 
----
-
 ### The Final Charge
 
 *The following charge is also optional:*
@@ -334,11 +287,9 @@ With Christ's holy chrism do I † anoint thee, that His strength may prevent th
 
 Also you shall further study the doctrine of the holy catholic Church, into which you have been admitted, and come in due course before the Bishop to be confirmed by him.
 
----
-
 ## Notes on Practice
 
 - The phrase *"prevent thee"* is used in its archaic liturgical sense, meaning *"to go before and protect,"* not the modern sense of hindering.
 - *"Sub conditione"* (conditional baptism) is administered when there is reasonable doubt concerning the validity or completeness of a previous baptism.
 - The white vesture and lighted candle are traditional symbols of purity and the light of Christ; their use may be adapted according to local custom.
-- The term *"catholic"* (with a lowercase 'c') refers to the universal Church, not specifically to the Roman Catholic communion.
+- The term *"catholic"* (with a lowercase 'c') refers to the universal Church, not specifically to the Roman Catholic communion.  
